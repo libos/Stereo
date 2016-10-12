@@ -1,0 +1,9 @@
+(Device File: header1x2s)
+
+PACKAGE header1x2s
+CLASS IC
+PINCOUNT 2
+PINORDER header1x2s '1' '2' 
+FUNCTION g1 header1x2s '1' '2' 
+
+END

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HEADER2X5.DRA                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 02 17:43:57 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Liu/Desktop/RF/Library
+    Name      = header2x5.psm
+    User      = Liu
+    Machine   = LIBER
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

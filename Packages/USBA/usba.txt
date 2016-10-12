@@ -1,0 +1,9 @@
+(Device File: USBA)
+
+PACKAGE USBA
+CLASS IC
+PINCOUNT 6
+PINORDER USBA '1' '2' '3' '4' 'M1' 'M2' 
+FUNCTION g1 USBA '1' '2' '3' '4' 'M1' 'M2' 
+
+END

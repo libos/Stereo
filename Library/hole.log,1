@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Hole.dra                                      )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Fri Aug 12 19:40:30 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = D:/Electronic/成型模块/Cadence/库文件/Footprint/机械安装/Hole
+    Name      = hole.bsm
+    User      = ustbyf
+    Machine   = USTBYF-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

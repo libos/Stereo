@@ -1,0 +1,27 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Oct 05 16:12:45 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=9072 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/LT1117/lt1117.dra
+\i (00:00:02) trapsize 2391
+\i (00:00:02) trapsize 2236
+\i (00:00:02) trapsize 2407
+\i (00:00:02) trapsize 2240
+\i (00:00:02) trapsize 1815
+\i (00:00:02) trapsize 2240
+\i (00:00:03) generaledit 
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -2.3075 0.5153
+\i (00:00:04) trapsize 1120
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -6.6538 0.5153
+\i (00:00:04) trapsize 560
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -2.2515 0.4929
+\i (00:00:05) trapsize 1120
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Sun Oct 05 16:12:52 2014

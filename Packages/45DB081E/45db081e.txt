@@ -1,0 +1,9 @@
+(Device File: 45DB081E)
+
+PACKAGE 45DB081E
+CLASS IC
+PINCOUNT 9
+PINORDER 45DB081E '1' '2' '3' '4' '5' '6' '7' '8' '9' 
+FUNCTION g1 45DB081E '1' '2' '3' '4' '5' '6' '7' '8' '9' 
+
+END

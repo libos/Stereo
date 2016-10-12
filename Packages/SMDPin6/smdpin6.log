@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : smdpin6.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Dec 24 17:12:03 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Liu/Desktop/Stereo/Packages/SMDPin6
+    Name      = smdpin6.psm
+    User      = Liu
+    Machine   = LIBER
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

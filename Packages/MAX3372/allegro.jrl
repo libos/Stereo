@@ -1,0 +1,15 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Thu Oct 16 17:03:33 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=5724 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/MAX3372/max3372.dra
+\i (00:00:02) trapsize 1457
+\i (00:00:02) trapsize 1362
+\i (00:00:03) trapsize 1466
+\i (00:00:03) trapsize 1365
+\i (00:00:03) trapsize 1106
+\i (00:00:03) trapsize 1365
+\i (00:00:04) generaledit 
+\i (00:01:50) exit 
+\t (00:01:50)     Journal end - Thu Oct 16 17:05:23 2014

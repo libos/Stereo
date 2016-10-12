@@ -1,0 +1,9 @@
+(Device File: SMD6Pins)
+
+PACKAGE SMD6Pins
+CLASS IC
+PINCOUNT 6
+PINORDER SMD6Pins '1' '2' '3' '4' '5' '6' 
+FUNCTION g1 SMD6Pins '1' '2' '3' '4' '5' '6' 
+
+END

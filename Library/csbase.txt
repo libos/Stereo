@@ -1,0 +1,9 @@
+(Device File: CSBase)
+
+PACKAGE CSBase
+CLASS IC
+PINCOUNT 2
+PINORDER CSBase '1' '2' 
+FUNCTION g1 CSBase '1' '2' 
+
+END

@@ -1,0 +1,5 @@
+'ANTENNA_DN007_ANTENNA_DN007_2.4' 'antenna_dn007_antenna_dn007_24.txt';
+'XTAL_XTAL_FC12MN_32.768KHZ_XTAL' 'xtal_xtal_fc12mn_32768khz_xtal.txt';
+'RESISTOR_RESC1005X40L_2.7K_RESC' 'resistor_resc1005x40l_27k_resc.txt';
+'CONN_COAX_1+4_HUSTSAN_SMA10V21T' 'conn_coax_14_hustsan_sma10v21t.txt';
+'CAPACITOR_CAPC1005X60L_2.2UF_CA' 'capacitor_capc1005x60l_22uf_ca.txt';

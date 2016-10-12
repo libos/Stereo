@@ -1,0 +1,63 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Tue Oct 21 09:37:59 2014
+\t (00:00:01)         Host=LIBER User=Liu Pid=7976 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:05) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/OSC50MHz/osc50mhz.dra
+\i (00:00:06) trapsize 46935
+\i (00:00:06) trapsize 43882
+\i (00:00:06) trapsize 47243
+\i (00:00:06) trapsize 43971
+\i (00:00:07) trapsize 35625
+\i (00:00:07) trapsize 43971
+\i (00:00:08) generaledit 
+\i (00:00:08) zoom fit 
+\i (00:00:08) trapsize 453
+\i (00:00:11) show measure 
+\i (00:00:12) pick grid -0.7492 1.1772
+\t (00:00:12) last pick:  -0.6350  1.2700
+\i (00:00:13) pick grid 0.8094 1.0957
+\t (00:00:13) last pick:  0.6350  1.2700
+\i (00:00:19) pick grid 0.9363 0.9960
+\t (00:00:19) last pick:  0.6350  1.2700
+\i (00:00:20) pick grid 0.8004 -0.9976
+\t (00:00:20) last pick:  0.6350  -1.2700
+\i (00:00:30) pick grid 0.7097 0.9235
+\t (00:00:30) last pick:  0.6350  0.6350
+\i (00:00:30) pick grid -0.7220 0.9597
+\t (00:00:30) last pick:  -0.6350  1.2700
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out -0.8670 -0.3724
+\i (00:00:43) trapsize 906
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in -0.8671 -0.4629
+\i (00:00:44) trapsize 453
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in -0.8670 -0.4629
+\i (00:00:44) trapsize 227
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -0.8670 -0.4674
+\i (00:00:44) trapsize 453
+\i (00:00:47) prepopup 5.6939 -0.0325
+\i (00:00:47) done 
+\i (00:00:47) generaledit 
+\i (00:00:59) color192 
+\i (00:00:59) setwindow cvf.dialog
+\i (00:00:59) cvf layer_mode
+\i (00:00:59) setwindow pcb
+\i (00:00:59) generaledit 
+\i (00:01:01) setwindow cvf.dialog
+\i (00:01:01) cvf layer_tree_item 'Package Geometry'
+\i (00:01:02) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:01:03) cvf apply
+\i (00:01:04) cvf okay
+\i (00:01:15) setwindow pcb
+\i (00:01:15) exit 
+\e (00:01:15) Do you want to save the changes you made to osc50mhz.dra?
+\i (00:01:16) fillin yes 
+\t (00:01:17) Symbol 'osc50mhz.psm' created.
+\t (00:01:17)     Journal end - Tue Oct 21 09:39:15 2014

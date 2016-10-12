@@ -1,0 +1,124 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 06 18:59:27 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=9096 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/headerSW3/headersw3.dra
+\i (00:00:02) trapsize 2413
+\i (00:00:02) trapsize 2256
+\i (00:00:02) trapsize 2429
+\i (00:00:02) trapsize 2261
+\i (00:00:02) trapsize 1832
+\i (00:00:02) trapsize 2261
+\i (00:00:03) generaledit 
+\i (00:00:06) pick grid 9.7436 1.3338
+\t (00:00:06) last pick:  10.1600  2.5400
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 3.4588 2.2381
+\i (00:00:06) trapsize 1130
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -3.8206 2.2381
+\i (00:00:06) trapsize 565
+\i (00:00:07) prepopup -5.9569 2.1816
+\i (00:00:08) pick grid -6.2847 1.7069
+\t (00:00:08) last pick:  -5.0800  2.5400
+\i (00:00:09) color192 
+\i (00:00:09) setwindow cvf.dialog
+\i (00:00:09) cvf layer_mode
+\i (00:00:09) setwindow pcb
+\i (00:00:09) generaledit 
+\i (00:00:11) setwindow cvf.dialog
+\i (00:00:11) cvf layer_tree_item 'Package Geometry'
+\i (00:00:12) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:13) cvf apply
+\i (00:00:13) cvf okay
+\i (00:00:20) setwindow pcb
+\i (00:00:20) text edit 
+\i (00:00:21) pick grid 2.6224 2.8598
+\t (00:00:21) last pick:  2.5400  2.5400
+\i (00:00:25) setwindow pcb
+\i (00:00:25) pick grid 0.0452 -0.0791
+\t (00:00:25) last pick:  0.0000  0.0000
+\i (00:00:25) setwindow pcb
+\i (00:00:25) pick 2.6224 2.8598
+\t (00:00:25) Pick text to edit.
+\i (00:00:28) setwindow pcb
+\i (00:00:28) pick grid 5.0526 0.0566
+\t (00:00:28) last pick:  5.0800  0.0000
+\i (00:00:28) setwindow pcb
+\i (00:00:28) pick 0.0452 -0.0791
+\t (00:00:28) Pick text to edit.
+\i (00:00:29) setwindow pcb
+\i (00:00:29) pick grid 2.5207 -0.1808
+\t (00:00:29) last pick:  2.5400  0.0000
+\i (00:00:29) setwindow pcb
+\i (00:00:29) pick 5.0526 0.0566
+\t (00:00:29) Pick text to edit.
+\i (00:00:31) setwindow pcb
+\i (00:00:31) prepopup -3.7075 1.7408
+\i (00:00:32) done 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) pick 2.5207 -0.1808
+\t (00:00:32) Pick text to edit.
+\i (00:00:32) setwindow pcb
+\i (00:00:32) generaledit 
+\i (00:00:32) pick grid -3.7415 1.6051
+\t (00:00:32) last pick:  -2.5400  2.5400
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -2.8711 1.1756
+\i (00:00:35) trapsize 1130
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 0.7686 1.8990
+\i (00:00:36) trapsize 565
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 0.8930 1.9216
+\i (00:00:36) trapsize 283
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 2.3342 2.4360
+\i (00:00:37) trapsize 565
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 2.3342 2.4359
+\i (00:00:37) trapsize 1130
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 3.1650 2.6168
+\i (00:00:38) trapsize 565
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 2.9841 2.6169
+\i (00:00:38) trapsize 283
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 2.7750 2.6225
+\i (00:00:38) trapsize 141
+\i (00:00:39) pick grid 2.5829 2.6536
+\t (00:00:39) last pick:  2.5400  2.5400
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 2.5801 2.6536
+\i (00:00:40) trapsize 283
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 2.4726 2.6028
+\i (00:00:41) trapsize 565
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 1.9894 2.6029
+\i (00:00:41) trapsize 1130
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in -0.2261 -0.2682
+\i (00:00:43) trapsize 565
+\i (00:00:49) save 
+\i (00:00:50) fillin yes 
+\t (00:00:51) Symbol 'headersw3.psm' created.
+\i (00:00:51) generaledit 
+\i (00:00:52) exit 
+\t (00:00:52)     Journal end - Mon Oct 06 19:00:20 2014

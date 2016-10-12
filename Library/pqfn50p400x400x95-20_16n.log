@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : pqfn50p400x400x95-20_16n.dra                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Dec 27 21:01:19 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Liu/Desktop/Stereo/Packages/PQFN50P400X400X95-20_16N
+    Name      = pqfn50p400x400x95-20_16n.psm
+    User      = Liu
+    Machine   = LIBER
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

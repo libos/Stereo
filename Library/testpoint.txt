@@ -1,0 +1,9 @@
+(Device File: TestPoint)
+
+PACKAGE TestPoint
+CLASS IC
+PINCOUNT 1
+PINORDER TestPoint '1' 
+FUNCTION g1 TestPoint '1' 
+
+END

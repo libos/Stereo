@@ -1,0 +1,557 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 02 15:45:44 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Users/Liu/Desktop/RF/CC2541Design/Cadence/CC2541EM.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  BGA1800 being dumped.
+
+  BGA1750 being dumped.
+
+  BGA1850 being dumped.
+
+  SHAPE_500X1000_WOSMPA-1-1 being dumped.
+
+  SHAPE_500X1000_WOSMPA-1-2 being dumped.
+
+  VIA_CC2538_DBFIX1-1 being dumped.
+
+  1800RECT1800-1-1 being dumped.
+
+  VIA_CC2538_EM being dumped.
+
+  300OBL800 being dumped.
+
+  300OBL900 being dumped.
+
+  300OBL850 being dumped.
+
+  350OBL950 being dumped.
+
+  VIA_SHE being dumped.
+
+  SHAPE_2250X2250 being dumped.
+
+  SHAPE_5500X5500 being dumped.
+
+  SHAPE_3700X3700 being dumped.
+
+  SHAPE_4600X4600 being dumped.
+
+  SHAPE_6600X6600 being dumped.
+
+  300OBL1000 being dumped.
+
+  600OBL2000 being dumped.
+
+  350OBL1100 being dumped.
+
+  700OBL2100 being dumped.
+
+  550OBL1000 being dumped.
+
+  650OBL2050 being dumped.
+
+  2000CIRTP being dumped.
+
+  750OBL2950 being dumped.
+
+  H100CIR800 being dumped.
+
+  300RECT800 being dumped.
+
+  600RECT700 being dumped.
+
+  300RECT750 being dumped.
+
+  550RECT600 being dumped.
+
+  300RECT850 being dumped.
+
+  1000OBL1000 being dumped.
+
+  800RECT900 being dumped.
+
+  540RECT550 being dumped.
+
+  640RECT650 being dumped.
+
+  750RECT900 being dumped.
+
+  550RECT650 being dumped.
+
+  VIA_CHIP being dumped.
+
+  740RECT750 being dumped.
+
+  650RECT750 being dumped.
+
+  SHAPE_500X500_WOSMPA being dumped.
+
+  750RECT950 being dumped.
+
+  850RECT950 being dumped.
+
+  2000OBL5500 being dumped.
+
+  SHAPE_500X900_WOSMPA being dumped.
+
+  SHAPE_460X500_WOSMPA being dumped.
+
+  2100OBL5600 being dumped.
+
+  1900OBL5400 being dumped.
+
+  VIA being dumped.
+
+  H100CIR1500 being dumped.
+
+  H100CIR1350 being dumped.
+
+  800RECT1000 being dumped.
+
+  900RECT1000 being dumped.
+
+  700RECT1400 being dumped.
+
+  400RECT1350 being dumped.
+
+  950RECT1000 being dumped.
+
+  400RECT1750 being dumped.
+
+  850RECT1050 being dumped.
+
+  SHAPE_500X1000_WOSMPA being dumped.
+
+  650RECT1350 being dumped.
+
+  T1350CIR800 being dumped.
+
+  750RECT1450 being dumped.
+
+  VIA_CC2538 being dumped.
+
+  VIA_0_2MM being dumped.
+
+  VIA_0_3MM being dumped.
+
+  2000RECT2000 being dumped.
+
+  1100RECT1200 being dumped.
+
+  1300RECT1300 being dumped.
+
+  1150RECT1100 being dumped.
+
+  1400RECT1600 being dumped.
+
+  1300RECT1900 being dumped.
+
+  1300RECT1450 being dumped.
+
+  1500RECT1700 being dumped.
+
+  T1450CIR1100 being dumped.
+
+  1450RECT2500 being dumped.
+
+  1800RECT1800 being dumped.
+
+  1050RECT3450 being dumped.
+
+  T1350CIR1050 being dumped.
+
+  1900RECT1900 being dumped.
+
+  T1650CIR1150 being dumped.
+
+  1500RECT2000_SLOT being dumped.
+
+  1750RECT1750 being dumped.
+
+  SHAPE_460X500_WOSMPA-1 being dumped.
+
+  1850RECT1850 being dumped.
+
+  VIA-1 being dumped.
+
+  VIA-2 being dumped.
+
+  VIA-3 being dumped.
+
+  VIA-4 being dumped.
+
+  VIA-5 being dumped.
+
+  VIA-6 being dumped.
+
+  VIA-7 being dumped.
+
+  VIA-8 being dumped.
+
+  VIA-9 being dumped.
+
+  SHAPE_500X1000_WOSMPA-1 being dumped.
+
+  VIA_CC2538-1 being dumped.
+
+  VIA-10 being dumped.
+
+  VIA-11 being dumped.
+
+  VIA-20 being dumped.
+
+  VIA-12 being dumped.
+
+  VIA-21 being dumped.
+
+  VIA-30 being dumped.
+
+  VIA-13 being dumped.
+
+  VIA-22 being dumped.
+
+  VIA-31 being dumped.
+
+  VIA-14 being dumped.
+
+  VIA-23 being dumped.
+
+  VIA-32 being dumped.
+
+  VIA_CC2538_DBFIX1 being dumped.
+
+  VIA-15 being dumped.
+
+  VIA-24 being dumped.
+
+  VIA-33 being dumped.
+
+  VIA_CC2538_DBFIX2 being dumped.
+
+  VIA-16 being dumped.
+
+  VIA-25 being dumped.
+
+  VIA-34 being dumped.
+
+  VIA-17 being dumped.
+
+  VIA-26 being dumped.
+
+  VIA-18 being dumped.
+
+  VIA-27 being dumped.
+
+  VIA-19 being dumped.
+
+  VIA-28 being dumped.
+
+  SHAPE_1570X3150_L1 being dumped.
+
+  VIA-29 being dumped.
+
+  SHAPE_1570X3150_L2 being dumped.
+
+  1800RECT1800-1 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  shape_5940x5940_pm being dumped.
+
+  shape_1570x3150_l1_pm being dumped.
+
+  shape_1570x3150_l2_pm being dumped.
+
+  shape_1570x3150_l1_sm being dumped.
+
+  shape_1570x3150_l2_sm being dumped.
+
+  shape_300rect800 being dumped.
+
+  shape_600rect700 being dumped.
+
+  shape_400rect900 being dumped.
+
+  shape_700rect800 being dumped.
+
+  shape_300rect750 being dumped.
+
+  shape_550rect600 being dumped.
+
+  shape_300rect850 being dumped.
+
+  shape_800rect900 being dumped.
+
+  shape_400rect850 being dumped.
+
+  shape_720rect900 being dumped.
+
+  shape_540rect630 being dumped.
+
+  shape_270rect720 being dumped.
+
+  shape_400rect950 being dumped.
+
+  shape_720rect810 being dumped.
+
+  shape_810rect900 being dumped.
+
+  shape_540rect550 being dumped.
+
+  shape_700rect750 being dumped.
+
+  shape_640rect650 being dumped.
+
+  shape_750rect900 being dumped.
+
+  shape_550rect650 being dumped.
+
+  shape_740rect750 being dumped.
+
+  shape_650rect750 being dumped.
+
+  shape_840rect850 being dumped.
+
+  shape_750rect850 being dumped.
+
+  shape_750rect950 being dumped.
+
+  shape_855rect900 being dumped.
+
+  shape_850rect950 being dumped.
+
+  shape_675rect810 being dumped.
+
+  shape_495rect540 being dumped.
+
+  shape_270rect675 being dumped.
+
+  shape_270rect765 being dumped.
+
+  shape_576rect585 being dumped.
+
+  shape_765rect855 being dumped.
+
+  shape_486rect495 being dumped.
+
+  shape_666rect675 being dumped.
+
+  shape_495rect585 being dumped.
+
+  shape_585rect675 being dumped.
+
+  shape_675rect855 being dumped.
+
+  shape_765rect945 being dumped.
+
+  shape_800rect1000 being dumped.
+
+  shape_900rect1000 being dumped.
+
+  shape_900rect1100 being dumped.
+
+  shape_700rect1400 being dumped.
+
+  shape_400rect1350 being dumped.
+
+  shape_800rect1500 being dumped.
+
+  shape_950rect1000 being dumped.
+
+  shape_900rect1050 being dumped.
+
+  shape_550rect1500 being dumped.
+
+  shape_900rect1600 being dumped.
+
+  shape_400rect1750 being dumped.
+
+  shape_360rect1215 being dumped.
+
+  shape_630rect1260 being dumped.
+
+  shape_850rect1050 being dumped.
+
+  shape_550rect1900 being dumped.
+
+  shape_650rect1350 being dumped.
+
+  shape_950rect1050 being dumped.
+
+  shape_950rect1150 being dumped.
+
+  shape_750rect1450 being dumped.
+
+  shape_850rect1550 being dumped.
+
+  shape_360rect1575 being dumped.
+
+  shape_945rect3105 being dumped.
+
+  shape_585rect1215 being dumped.
+
+  shape_675rect1305 being dumped.
+
+  shape_1035rect990 being dumped.
+
+  shape_990rect1080 being dumped.
+
+  shape_1000rect1100 being dumped.
+
+  shape_2000rect2000 being dumped.
+
+  shape_1000rect1200 being dumped.
+
+  shape_1100rect1200 being dumped.
+
+  shape_1500rect2000 being dumped.
+
+  shape_1300rect1300 being dumped.
+
+  shape_1100rect1150 being dumped.
+
+  shape_1150rect1100 being dumped.
+
+  shape_1400rect1600 being dumped.
+
+  shape_1200rect3600 being dumped.
+
+  shape_1300rect1250 being dumped.
+
+  shape_1050rect1150 being dumped.
+
+  shape_1570x3150_l1_etch being dumped.
+
+  shape_1300rect1900 being dumped.
+
+  shape_1300rect1450 being dumped.
+
+  shape_2050rect2050 being dumped.
+
+  shape_1500rect1700 being dumped.
+
+  shape_1570x3150_l2_etch being dumped.
+
+  shape_2150rect2150 being dumped.
+
+  shape_1450rect2500 being dumped.
+
+  shape_1450rect2050 being dumped.
+
+  shape_1450rect1600 being dumped.
+
+  shape_1250rect1350 being dumped.
+
+  shape_1305rect2250 being dumped.
+
+  shape_1350rect1800 being dumped.
+
+  shape_1620rect1620 being dumped.
+
+  shape_1800rect1800 being dumped.
+
+  shape_1170rect1710 being dumped.
+
+  shape_1260rect1440 being dumped.
+
+  shape_1170rect1305 being dumped.
+
+  shape_1710rect1710 being dumped.
+
+  shape_1050rect3450 being dumped.
+
+  shape_1170rect1170 being dumped.
+
+  shape_1350rect1530 being dumped.
+
+  shape_1600rect2650 being dumped.
+
+  shape_1650rect2150 being dumped.
+
+  shape_1900rect1900 being dumped.
+
+  shape_1450rect1450 being dumped.
+
+  shape_1550rect1750 being dumped.
+
+  shape_1750rect1750 being dumped.
+
+  shape_1650rect1850 being dumped.
+
+  shape_1850rect1850 being dumped.
+
+  shape_1950rect1950 being dumped.
+
+  shape_1575rect1575 being dumped.
+
+  shape_1665rect1665 being dumped.
+
+  shape_2000x2000_pm being dumped.
+
+  shape_5000x5000_pm being dumped.
+
+  shape_3300x3300_pm being dumped.
+
+  shape_4200x4200_pm being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  resc1005x40bl being dumped.
+
+  antenna_dn007 being dumped.
+
+  qfnfc50p600x600x100-41l being dumped.
+
+  fid100x115 being dumped.
+
+  ti_logo_1 being dumped.
+
+  hustsan_sma10v21tggan being dumped.
+
+  capc1005x60l being dumped.
+
+  indc1005x60l being dumped.
+
+  samtec_sfm11002an being dumped.
+
+  resc1005x40l being dumped.
+
+  xtal_fa128l being dumped.
+
+  xtal_fc12mn being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:              126
+Number of package symbols dumped:         12
+Number of shape symbols dumped:          119
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:          132
+*****************************************************
+

@@ -1,0 +1,9 @@
+(Device File: USRWIFI)
+
+PACKAGE USRWIFI
+CLASS IC
+PINCOUNT 10
+PINORDER USRWIFI '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' 
+FUNCTION g1 USRWIFI '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' 
+
+END

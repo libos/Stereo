@@ -1,0 +1,9 @@
+(Device File: CSCameraBase)
+
+PACKAGE CSCameraBase
+CLASS IC
+PINCOUNT 2
+PINORDER CSCameraBase '1' '2' 
+FUNCTION g1 CSCameraBase '1' '2' 
+
+END

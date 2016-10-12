@@ -1,0 +1,52 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Tue Dec 30 02:00:09 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=6616 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/M1_0MM/m1_0mm.dra
+\i (00:00:00) trapsize 39208
+\i (00:00:00) trapsize 37590
+\i (00:00:00) trapsize 39491
+\i (00:00:00) trapsize 41281
+\i (00:00:00) trapsize 41281
+\i (00:00:01) generaledit 
+\i (00:00:03) trapsize 26792
+\i (00:00:04) zoom fit 
+\i (00:00:04) trapsize 297
+\i (00:00:09) new 
+\i (00:00:25) newdrawfillin "M1_1.dra" "Mechanical Symbol"
+\t (00:00:25) Starting new design...
+\i (00:00:25) trapsize 43971
+\i (00:00:25) trapsize 43971
+\i (00:00:25) generaledit 
+\i (00:00:30) add pin 
+\i (00:00:41) setwindow form.mini
+\i (00:00:41) FORM mini pad_browse  
+\i (00:00:43) fillin "menu_cancel"
+\i (00:00:45) setwindow pcb
+\i (00:00:45) trapsize 41281
+\i (00:00:51) pick grid 412.7645 197.2773
+\t (00:00:51) last pick:  414.0200  198.1200
+\e (00:00:51) ERROR(SPMHAP-2): No padstack specified.
+\i (00:00:58) setwindow form.mini
+\i (00:00:58) FORM mini pad_browse  
+\i (00:01:02) fillin "C80h115m100"
+\t (00:01:02) Using 'C80H115M100.pad'.
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom fit 
+\i (00:01:07) trapsize 41281
+\i (00:01:10) trapsize 26792
+\i (00:01:14) pick 0 0 
+\t (00:01:14) last pick:  0.0000  0.0000
+\t (00:01:14) Using 'C80H115M100.pad'.
+\i (00:01:18) prepopup 205.5869 88.2370
+\i (00:01:19) done 
+\t (00:01:19) Exiting from Add Pin.
+\i (00:01:20) generaledit 
+\i (00:01:21) zoom fit 
+\i (00:01:21) trapsize 171
+\i (00:01:24) save 
+\t (00:01:25) Symbol 'm1_1.bsm' created.
+\i (00:01:25) generaledit 
+\i (00:01:29) exit 
+\t (00:01:30)     Journal end - Tue Dec 30 02:01:39 2014

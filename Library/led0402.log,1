@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : led0402.dra                                   )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Wed Jan 22 12:43:38 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Liber/Desktop/newLib/LED0402
+    Name      = led0402.psm
+    User      = Liber
+    Machine   = LIBER-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,737 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sat Dec 27 21:19:03 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=8428 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/spin/spin.dra
+\i (00:00:00) trapsize 2102
+\i (00:00:00) trapsize 2170
+\i (00:00:00) trapsize 2336
+\i (00:00:00) trapsize 2174
+\i (00:00:00) trapsize 2174
+\i (00:00:01) generaledit 
+\i (00:00:01) pick grid 0.8479 0.3696
+\t (00:00:01) last pick:  0.0000  0.0000
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in 1.0653 0.1522
+\i (00:00:01) trapsize 1087
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in -4.8048 0.1522
+\i (00:00:02) trapsize 544
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -2.7394 -0.3370
+\i (00:00:02) trapsize 1087
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -0.2174 -0.4022
+\i (00:00:02) trapsize 2174
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -0.3696 0.1957
+\i (00:00:03) trapsize 1087
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -5.5223 0.1957
+\i (00:00:03) trapsize 544
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -0.6848 -0.4347
+\i (00:00:04) trapsize 272
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -0.5924 -0.4130
+\i (00:00:04) trapsize 544
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -0.5490 -0.4129
+\i (00:00:04) trapsize 1087
+\i (00:00:05) pick grid 2.3046 -0.1738
+\t (00:00:05) last pick:  2.5400  0.0000
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 1.8915 -0.4565
+\i (00:00:07) trapsize 544
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 1.9242 -0.4021
+\i (00:00:08) trapsize 272
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 2.0383 -0.3695
+\i (00:00:08) trapsize 136
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 2.0464 -0.3640
+\i (00:00:08) trapsize 272
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 2.0465 -0.3641
+\i (00:00:08) trapsize 544
+\i (00:00:09) delete 
+\i (00:00:09) generaledit 
+\i (00:00:10) pick grid 2.9052 0.2665
+\t (00:00:10) last pick:  2.5400  0.0000
+\i (00:00:11) drag_start grid 0.4484 2.5277
+\i (00:00:11) drag_stop 4.2532 -2.5491
+\i (00:00:12) pick grid 4.6228 -1.4946
+\t (00:00:12) last pick:  5.0800  -2.5400
+\i (00:00:20) shape edit boundary 
+\i (00:00:22) pick grid -0.6496 2.0277
+\t (00:00:22) last pick:  0.0000  2.5400
+\t (00:00:22) Pick the edit starting point on the shape boundary.
+\i (00:00:24) pick grid -0.6279 2.0168
+\t (00:00:24) last pick:  0.0000  2.5400
+\w (00:00:24) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:25) pick grid -0.6714 -1.9946
+\t (00:00:25) last pick:  0.0000  -2.5400
+\w (00:00:25) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:26) pick grid -0.7040 -1.9294
+\t (00:00:26) last pick:  0.0000  -2.5400
+\w (00:00:26) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:26) pick grid -0.6605 -1.9729
+\t (00:00:26) last pick:  0.0000  -2.5400
+\w (00:00:26) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:27) pick grid -0.7909 -1.8642
+\t (00:00:27) last pick:  0.0000  -2.5400
+\w (00:00:27) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:27) pick grid -0.7909 -1.9838
+\t (00:00:27) last pick:  0.0000  -2.5400
+\w (00:00:27) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:28) pick grid -0.7909 -1.9729
+\t (00:00:28) last pick:  0.0000  -2.5400
+\w (00:00:28) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:28) pick grid -0.7583 -1.9838
+\t (00:00:28) last pick:  0.0000  -2.5400
+\w (00:00:28) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:29) pick grid dbl -0.7583 -1.9838
+\t (00:00:29) last pick:  0.0000  -2.5400
+\w (00:00:29) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -0.6714 -1.9077
+\i (00:00:29) trapsize 272
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -0.6605 -1.9294
+\i (00:00:29) trapsize 136
+\i (00:00:30) pick grid -0.6523 -1.9892
+\t (00:00:30) last pick:  0.0000  -2.5400
+\w (00:00:30) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:32) pick grid -0.6632 -1.9919
+\t (00:00:32) last pick:  0.0000  -2.5400
+\w (00:00:32) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out -0.6442 -1.8751
+\i (00:00:32) trapsize 272
+\i (00:00:32) prepopup -0.6767 -1.8315
+\i (00:00:33) pick grid -0.7909 -1.9022
+\t (00:00:33) last pick:  0.0000  -2.5400
+\w (00:00:33) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:35) pick grid -0.9050 -2.1033
+\t (00:00:35) last pick:  0.0000  -2.5400
+\w (00:00:35) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:35) Esc 
+\w (00:00:35) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:36) pick grid -1.0029 -2.1359
+\t (00:00:36) last pick:  0.0000  -2.5400
+\w (00:00:36) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:36) prepopup -1.1605 -2.1359
+\i (00:00:37) cancel 
+\i (00:00:37) generaledit 
+\i (00:00:38) pick grid -0.7637 -2.1522
+\t (00:00:38) last pick:  0.0000  -2.5400
+\i (00:00:42) shape edit boundary 
+\i (00:00:44) pick grid -0.8778 -2.0163
+\t (00:00:44) last pick:  0.0000  -2.5400
+\t (00:00:44) Pick the edit starting point on the shape boundary.
+\i (00:00:46) pick grid -0.8833 -2.0000
+\t (00:00:46) last pick:  0.0000  -2.5400
+\w (00:00:46) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:48) pick grid -0.8833 -1.9783
+\t (00:00:48) last pick:  0.0000  -2.5400
+\w (00:00:48) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:48) pick grid -0.7583 -0.9727
+\t (00:00:48) last pick:  0.0000  0.0000
+\w (00:00:48) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:49) pick grid -0.7854 -1.1630
+\t (00:00:49) last pick:  0.0000  0.0000
+\w (00:00:49) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:50) pick grid -0.8235 -1.9837
+\t (00:00:50) last pick:  0.0000  -2.5400
+\w (00:00:50) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:50) pick grid -0.8235 -2.0000
+\t (00:00:50) last pick:  0.0000  -2.5400
+\w (00:00:50) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:51) Esc 
+\w (00:00:51) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:00:51) prepopup -0.7311 -1.2119
+\i (00:00:52) cancel 
+\i (00:00:52) generaledit 
+\i (00:00:53) pick grid -0.3126 -0.8368
+\t (00:00:53) last pick:  0.0000  0.0000
+\i (00:00:53) pick grid -0.6550 -1.8315
+\t (00:00:53) last pick:  0.0000  -2.5400
+\i (00:00:54) pick grid -0.7365 -1.9403
+\t (00:00:54) last pick:  0.0000  -2.5400
+\i (00:00:54) pick grid -0.7854 -1.9892
+\t (00:00:54) last pick:  0.0000  -2.5400
+\i (00:00:55) pick grid -0.7854 -1.9892
+\t (00:00:55) last pick:  0.0000  -2.5400
+\i (00:00:56) drag_start grid -0.7909 -1.9837
+\i (00:00:56) move 
+\t (00:00:56) last pick:  0.0000  -2.5400
+\t (00:00:56) Element has no origin, using pick.
+\t (00:00:56) Pick new location for the element(s).
+\i (00:00:56) drag_stop grid -0.7474 -1.8533
+\i (00:00:56) generaledit 
+\i (00:00:59) shape edit boundary 
+\i (00:01:00) pick grid -1.0246 -1.9837
+\t (00:01:00) last pick:  0.0000  -2.5400
+\t (00:01:00) Pick the edit starting point on the shape boundary.
+\i (00:01:01) pick grid -1.0029 -1.9892
+\t (00:01:01) last pick:  0.0000  -2.5400
+\w (00:01:01) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in -0.9539 -2.0707
+\i (00:01:02) trapsize 136
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in -0.9539 -2.0707
+\i (00:01:02) trapsize 68
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in -0.9539 -2.0707
+\i (00:01:02) trapsize 34
+\i (00:01:03) pick grid -0.9580 -1.9993
+\t (00:01:03) last pick:  0.0000  -2.5400
+\w (00:01:03) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:04) pick grid -0.9580 -1.9993
+\t (00:01:04) last pick:  0.0000  -2.5400
+\w (00:01:04) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:05) pick grid -0.9960 -1.9986
+\t (00:01:05) last pick:  0.0000  -2.5400
+\w (00:01:05) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:05) pick grid -0.9981 -2.0006
+\t (00:01:05) last pick:  0.0000  -2.5400
+\w (00:01:05) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:05) pick grid dbl -0.9981 -2.0006
+\t (00:01:05) last pick:  0.0000  -2.5400
+\w (00:01:05) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:06) pick grid -0.9960 -1.9993
+\t (00:01:06) last pick:  0.0000  -2.5400
+\w (00:01:06) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:06) pick grid dbl -0.9960 -1.9993
+\t (00:01:06) last pick:  0.0000  -2.5400
+\w (00:01:06) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:06) pick grid -0.9960 -1.9993
+\t (00:01:06) last pick:  0.0000  -2.5400
+\w (00:01:06) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:07) pick grid -0.9926 -1.9986
+\t (00:01:07) last pick:  0.0000  -2.5400
+\w (00:01:07) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out -0.9356 -1.8947
+\i (00:01:07) trapsize 68
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out -0.9355 -1.9001
+\i (00:01:07) trapsize 136
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out -0.9382 -1.9081
+\i (00:01:07) trapsize 272
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out -0.9491 -1.9299
+\i (00:01:07) trapsize 544
+\i (00:01:07) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out -0.9491 -2.0603
+\i (00:01:08) trapsize 1087
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out -3.5001 -2.1691
+\i (00:01:08) trapsize 2174
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 1.7610 0.6305
+\i (00:01:08) trapsize 1087
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in -4.7179 0.6088
+\i (00:01:08) trapsize 544
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in -1.2827 1.9785
+\i (00:01:09) trapsize 272
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in -0.7337 2.0220
+\i (00:01:09) trapsize 136
+\i (00:01:10) pick grid -0.6848 2.0085
+\t (00:01:10) last pick:  0.0000  2.5400
+\w (00:01:10) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:10) pick grid dbl -0.6848 2.0085
+\t (00:01:10) last pick:  0.0000  2.5400
+\w (00:01:10) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:11) pick grid -0.6903 2.0030
+\t (00:01:11) last pick:  0.0000  2.5400
+\w (00:01:11) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:11) pick grid -0.6821 1.9976
+\t (00:01:11) last pick:  0.0000  2.5400
+\w (00:01:11) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:12) pick grid -0.6794 2.0058
+\t (00:01:12) last pick:  0.0000  2.5400
+\w (00:01:12) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:12) pick grid dbl -0.6794 2.0058
+\t (00:01:12) last pick:  0.0000  2.5400
+\w (00:01:12) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:32) pick grid -0.9539 2.0030
+\t (00:01:32) last pick:  0.0000  2.5400
+\w (00:01:32) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:32) pick grid -0.9185 2.0302
+\t (00:01:32) last pick:  0.0000  2.5400
+\w (00:01:32) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:33) pick grid -0.9294 2.0003
+\t (00:01:33) last pick:  0.0000  2.5400
+\w (00:01:33) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:33) pick grid dbl -0.9294 2.0003
+\t (00:01:33) last pick:  0.0000  2.5400
+\w (00:01:33) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:33) pick grid -0.9294 2.0003
+\t (00:01:34) last pick:  0.0000  2.5400
+\w (00:01:34) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:34) prepopup -0.8397 2.0900
+\i (00:01:35) done 
+\i (00:01:35) generaledit 
+\i (00:01:37) drag_start grid -0.9539 2.0085
+\i (00:01:37) move 
+\t (00:01:37) last pick:  0.0000  2.5400
+\t (00:01:37) Element has no origin, using pick.
+\t (00:01:37) Pick new location for the element(s).
+\i (00:01:37) drag_stop grid -0.9430 1.9487
+\i (00:01:37) generaledit 
+\i (00:01:38) pick grid -0.9946 2.1253
+\t (00:01:38) last pick:  0.0000  2.5400
+\i (00:01:38) prepopup -0.9946 2.1253
+\i (00:01:38) pick grid -1.0979 2.0955
+\t (00:01:38) last pick:  0.0000  2.5400
+\i (00:01:41) shape edit boundary 
+\i (00:01:42) pick grid -1.0218 2.0085
+\t (00:01:42) last pick:  0.0000  2.5400
+\t (00:01:42) Pick the edit starting point on the shape boundary.
+\i (00:01:44) pick grid -1.0001 2.0085
+\t (00:01:44) last pick:  0.0000  2.5400
+\w (00:01:44) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:46) zoom out 1 
+\i (00:01:46) setwindow pcb
+\i (00:01:46) zoom out -0.6087 2.0520
+\i (00:01:46) trapsize 272
+\i (00:01:46) zoom out 1 
+\i (00:01:46) setwindow pcb
+\i (00:01:46) zoom out -0.6087 2.0519
+\i (00:01:46) trapsize 544
+\i (00:01:47) zoom in 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom in -0.3262 0.9758
+\i (00:01:47) trapsize 272
+\i (00:01:47) zoom in 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom in -0.2990 0.9650
+\i (00:01:47) trapsize 136
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out -0.2935 0.9650
+\i (00:01:47) trapsize 272
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out -0.2881 0.9650
+\i (00:01:47) trapsize 544
+\i (00:01:48) pick grid -0.5056 2.0955
+\t (00:01:48) last pick:  0.0000  2.5400
+\w (00:01:48) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:50) pick grid -0.4839 2.0194
+\t (00:01:50) last pick:  0.0000  2.5400
+\w (00:01:50) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:51) pick grid -0.9187 -2.0137
+\t (00:01:51) last pick:  0.0000  -2.5400
+\w (00:01:51) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:52) pick grid -0.7991 2.0194
+\t (00:01:52) last pick:  0.0000  2.5400
+\w (00:01:52) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:52) pick grid dbl -0.7991 2.0194
+\t (00:01:52) last pick:  0.0000  2.5400
+\w (00:01:52) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
+\i (00:01:54) prepopup -0.5708 2.2151
+\i (00:01:54) done 
+\i (00:01:55) generaledit 
+\i (00:01:55) pick grid -0.7665 2.0738
+\t (00:01:55) last pick:  0.0000  2.5400
+\i (00:01:56) pick grid -0.8644 1.9759
+\t (00:01:56) last pick:  0.0000  2.5400
+\i (00:01:56) pick grid -2.7451 2.4434
+\t (00:01:56) last pick:  -2.5400  2.5400
+\i (00:01:57) delete 
+\i (00:01:57) pick grid -3.3647 1.7803
+\t (00:01:58) last pick:  -2.5400  2.5400
+\t (00:01:58) Shape "Package Geometry/Place_Bound_Top"
+\i (00:01:58) pick grid dbl -3.3647 1.7803
+\t (00:01:58) last pick:  -2.5400  2.5400
+\t (00:01:58) Shape "Package Geometry/Dfa_Bound_Top"
+\i (00:01:58) pick grid -3.8213 1.9977
+\t (00:01:58) last pick:  -5.0800  2.5400
+\i (00:01:58) pick grid dbl -3.8213 1.9977
+\t (00:01:58) last pick:  -5.0800  2.5400
+\i (00:01:59) prepopup -4.6475 2.2477
+\i (00:01:59) done 
+\i (00:01:59) generaledit 
+\i (00:02:03) shape add rect 
+\i (00:02:07) pick grid -4.0278 1.9542
+\t (00:02:07) last pick:  -5.0800  2.5400
+\i (00:02:09) pick grid -4.0278 1.9542
+\t (00:02:09) last pick:  -5.0800  2.5400
+\w (00:02:09) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\t (00:02:09) last pick:  -5.0800  2.5400
+\i (00:02:10) prepopup -5.0823 1.9542
+\i (00:02:11) oops 
+\i (00:02:13) pick grid -4.2996 2.0629
+\t (00:02:13) last pick:  -5.0800  2.5400
+\i (00:02:15) prepopup -5.3759 1.3346
+\i (00:02:16) cancel 
+\i (00:02:16) generaledit 
+\i (00:02:16) pick grid -6.4195 2.2586
+\t (00:02:16) last pick:  -7.6200  2.5400
+\i (00:02:18) prmed 
+\i (00:02:19) setwindow form.prmedit
+\i (00:02:19) FORM prmedit display_grid YES 
+\i (00:02:20) FORM prmedit view_grids_button  
+\t (00:02:20) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:23) setwindow form.grid
+\i (00:02:23) FORM grid non_etch non_etch_x_grids 0.0254 
+\i (00:02:25) FORM grid non_etch non_etch_y_grids .0254 
+\i (00:02:27) FORM grid all_etch all_etch_x_grids .0254 
+\i (00:02:29) FORM grid all_etch all_etch_y_grids .0254 
+\i (00:02:29) FORM grid done  
+\t (00:02:29) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:02:31) setwindow form.prmedit
+\i (00:02:31) FORM prmedit apply  
+\i (00:02:31) FORM prmedit done  
+\i (00:02:31) setwindow pcb
+\i (00:02:31) generaledit 
+\i (00:02:33) shape add rect 
+\i (00:02:35) pick grid -4.2018 1.7368
+\t (00:02:35) last pick:  -4.1910  1.7272
+\i (00:02:38) pick grid -0.6578 -1.7637
+\t (00:02:38) last pick:  -0.6604  -1.7526
+\i (00:02:43) prepopup -2.1689 2.3347
+\i (00:02:44) done 
+\i (00:02:44) generaledit 
+\i (00:02:44) zoom in 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in -2.4189 1.8564
+\i (00:02:44) trapsize 272
+\i (00:02:45) zoom in 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom in -2.5657 1.7422
+\i (00:02:45) trapsize 136
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out -2.7559 1.7151
+\i (00:02:45) trapsize 272
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out -2.8592 1.7096
+\i (00:02:45) trapsize 544
+\i (00:02:46) pick grid -4.2182 1.6010
+\t (00:02:46) last pick:  -4.2164  1.6002
+\i (00:02:47) prepopup -4.7291 2.4381
+\i (00:02:48) pick grid -5.5336 2.3620
+\t (00:02:48) last pick:  -5.5372  2.3622
+\i (00:02:49) pick grid -5.4901 1.6010
+\t (00:02:49) last pick:  -5.4864  1.6002
+\i (00:02:49) pick grid -3.6637 0.8509
+\t (00:02:49) last pick:  -3.6576  0.8636
+\i (00:02:50) pick grid -4.0986 1.0574
+\t (00:02:50) last pick:  -4.0894  1.0668
+\i (00:02:50) pick grid -4.1529 1.4488
+\t (00:02:50) last pick:  -4.1402  1.4478
+\i (00:02:53) pick grid 2.9785 1.7749
+\t (00:02:53) last pick:  2.9718  1.7780
+\i (00:02:54) pick grid 3.1416 1.6879
+\t (00:02:54) last pick:  3.1496  1.6764
+\i (00:02:54) prepopup 3.1416 1.6879
+\i (00:02:56) pop dyn_option_select '@:@Show element' 
+\i (00:02:56) show element 
+\i (00:02:56) generaledit 
+\i (00:03:02) setwindow text
+\i (00:03:02) close 
+\i (00:03:05) setwindow form.mini
+\i (00:03:05) FORM mini subclass DISPLAY_TOP 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) drag_start grid 3.1416 1.6553
+\i (00:03:07) slide 
+\t (00:03:07) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Display_Top"
+\t (00:03:07) No valid items selected for the current operation, exiting.
+\i (00:03:07) generaledit 
+\i (00:03:07) drag_stop grid 2.2827 1.7097
+\i (00:03:07) pick grid 2.0327 2.1989
+\t (00:03:07) last pick:  2.0320  2.2098
+\i (00:03:09) move 
+\t (00:03:09) Select element(s) to move.
+\i (00:03:10) pick grid 3.1633 0.9922
+\t (00:03:10) last pick:  3.1750  0.9906
+\t (00:03:10) last pick:  3.1750  0.9906
+\t (00:03:10) Element has no origin, using pick.
+\t (00:03:10) Pick new location for the element(s).
+\i (00:03:15) pick grid -0.6198 0.9922
+\t (00:03:15) last pick:  -0.6096  0.9906
+\i (00:03:16) pick grid -6.1423 2.3728
+\t (00:03:16) last pick:  -6.1468  2.3622
+\i (00:03:17) drag_start grid -6.9794 1.3618
+\i (00:03:17) drag_stop -6.7403 1.3401
+\t (00:03:17) last pick:  -6.7403  1.3401
+\t (00:03:17) Element has no origin, using pick.
+\t (00:03:17) Pick new location for the element(s).
+\i (00:03:18) pick grid -6.5337 1.3401
+\t (00:03:18) last pick:  -6.5278  1.3462
+\i (00:03:18) pick grid -6.5663 1.3401
+\t (00:03:18) last pick:  -6.5786  1.3462
+\i (00:03:19) pick grid -6.4576 2.3728
+\t (00:03:19) last pick:  -6.4516  2.3622
+\i (00:03:20) delete 
+\i (00:03:21) pick grid -6.3054 1.7640
+\t (00:03:21) last pick:  -6.2992  1.7526
+\t (00:03:21) Line "Package Geometry/Display_Top"
+\i (00:03:21) pick grid dbl -6.3054 1.7640
+\t (00:03:21) last pick:  -6.2992  1.7526
+\i (00:03:22) prepopup -6.2619 1.9597
+\i (00:03:22) done 
+\i (00:03:22) generaledit 
+\i (00:03:23) pick grid -6.0336 1.9489
+\t (00:03:23) last pick:  -6.0452  1.9558
+\i (00:03:24) shape add rect 
+\i (00:03:26) pick grid -4.2182 1.7423
+\t (00:03:26) last pick:  -4.2164  1.7526
+\i (00:03:28) pick grid -0.6742 -1.7256
+\t (00:03:28) last pick:  -0.6858  -1.7272
+\i (00:03:29) prepopup -1.5874 2.4707
+\i (00:03:30) done 
+\i (00:03:30) generaledit 
+\i (00:03:31) pick grid 2.4023 1.6010
+\t (00:03:31) last pick:  2.4130  1.6002
+\i (00:03:32) pick grid 3.0655 0.9705
+\t (00:03:32) last pick:  3.0734  0.9652
+\i (00:03:33) pick grid 0.8586 2.6229
+\t (00:03:33) last pick:  0.8636  2.6162
+\i (00:03:34) move 
+\t (00:03:34) Select element(s) to move.
+\i (00:03:35) pick grid 3.0655 0.2204
+\t (00:03:35) last pick:  3.0734  0.2286
+\t (00:03:35) last pick:  3.0734  0.2286
+\t (00:03:35) Element has no origin, using pick.
+\t (00:03:35) Pick new location for the element(s).
+\i (00:03:38) pick grid -0.6198 0.2638
+\t (00:03:38) last pick:  -0.6096  0.2540
+\i (00:03:39) pick grid 2.9024 1.5358
+\t (00:03:39) last pick:  2.8956  1.5240
+\t (00:03:39) last pick:  2.8956  1.5240
+\t (00:03:39) Element has no origin, using pick.
+\t (00:03:39) Pick new location for the element(s).
+\i (00:03:41) pick grid -0.7285 1.5249
+\t (00:03:41) last pick:  -0.7366  1.5240
+\i (00:03:42) pick grid 2.9568 -1.6603
+\t (00:03:42) last pick:  2.9464  -1.6510
+\t (00:03:42) last pick:  2.9464  -1.6510
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Pick new location for the element(s).
+\i (00:03:43) pick grid -0.7720 -1.6277
+\t (00:03:43) last pick:  -0.7620  -1.6256
+\i (00:03:43) prepopup 0.7173 -0.6058
+\i (00:03:45) done 
+\i (00:03:45) generaledit 
+\i (00:03:46) drag_start grid -6.6424 -0.4428
+\i (00:03:46) slide 
+\t (00:03:46) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:03:46) No valid items selected for the current operation, exiting.
+\i (00:03:46) generaledit 
+\i (00:03:46) drag_stop grid -5.7945 -0.4319
+\i (00:03:47) drag_start grid -6.6750 0.0573
+\i (00:03:47) slide 
+\t (00:03:47) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:03:47) No valid items selected for the current operation, exiting.
+\i (00:03:47) drag_stop grid -6.6207 -0.2145
+\i (00:03:47) generaledit 
+\i (00:03:48) copy 
+\i (00:03:49) delete 
+\i (00:03:49) generaledit 
+\i (00:03:51) prepopup -6.4032 2.0902
+\i (00:03:52) pick grid -6.2945 2.4598
+\t (00:03:52) last pick:  -6.2992  2.4638
+\i (00:03:53) pick grid -6.5011 1.6336
+\t (00:03:53) last pick:  -6.5024  1.6256
+\i (00:03:55) delete 
+\i (00:03:55) generaledit 
+\i (00:03:56) pick grid -0.6524 0.1116
+\t (00:03:56) last pick:  -0.6604  0.1016
+\i (00:03:57) prepopup -0.6851 0.1116
+\i (00:03:58) pop dyn_option_select @:@Copy 
+\i (00:03:58) copy 
+\i (00:04:04) prepopup -5.1966 0.6987
+\i (00:04:05) done 
+\i (00:04:05) generaledit 
+\i (00:04:06) prepopup -5.3488 1.0139
+\i (00:04:07) pick grid -0.6524 0.8509
+\t (00:04:07) last pick:  -0.6604  0.8636
+\i (00:04:07) prepopup -0.6959 0.7965
+\i (00:04:08) pop dyn_option_select @:@Copy 
+\i (00:04:08) copy 
+\i (00:04:09) pick grid -5.1966 1.2531
+\t (00:04:09) last pick:  -5.2070  1.2446
+\i (00:04:12) pick grid -4.1964 0.8400
+\t (00:04:12) last pick:  -4.1910  0.8382
+\i (00:04:14) pick grid 0.7173 0.1116
+\t (00:04:14) last pick:  0.7112  0.1016
+\i (00:04:15) prepopup 0.5325 0.2421
+\i (00:04:15) done 
+\i (00:04:15) generaledit 
+\i (00:04:16) pick grid -5.1096 0.9052
+\t (00:04:16) last pick:  -5.1054  0.9144
+\i (00:04:17) pick grid -6.2511 2.7207
+\t (00:04:17) last pick:  -6.2484  2.7178
+\i (00:04:18) move 
+\t (00:04:18) Select element(s) to move.
+\i (00:04:18) pick grid -5.0987 0.7856
+\t (00:04:18) last pick:  -5.1054  0.7874
+\i (00:04:19) pick grid -5.2183 0.7639
+\t (00:04:19) last pick:  -5.2070  0.7620
+\t (00:04:19) last pick:  -5.2070  0.7620
+\t (00:04:19) Element has no origin, using pick.
+\t (00:04:19) Pick new location for the element(s).
+\i (00:04:19) prepopup -5.3705 1.1553
+\i (00:04:21) rotate 
+\i (00:04:24) pick grid -2.7506 1.6119
+\t (00:04:24) last pick:  -2.7432  1.6002
+\i (00:04:25) pick grid -5.4357 -1.4538
+\t (00:04:25) last pick:  -5.4356  -1.4478
+\t (00:04:25) last pick:  -5.4356  -1.4478
+\t (00:04:25) Element has no origin, using pick.
+\t (00:04:25) Pick new location for the element(s).
+\i (00:04:27) pick grid -6.1858 0.1008
+\t (00:04:27) last pick:  -6.1976  0.1016
+\i (00:04:28) delete 
+\i (00:04:29) pick grid -5.6205 -0.0188
+\t (00:04:29) last pick:  -5.6134  -0.0254
+\t (00:04:29) Line "Package Geometry/Silkscreen_Top"
+\i (00:04:29) pick grid dbl -5.6205 -0.0188
+\t (00:04:29) last pick:  -5.6134  -0.0254
+\i (00:04:30) pick grid -4.3704 -0.0297
+\t (00:04:30) last pick:  -4.3688  -0.0254
+\t (00:04:30) Line "Package Geometry/Silkscreen_Top"
+\i (00:04:30) pick grid dbl -4.3704 -0.0297
+\t (00:04:30) last pick:  -4.3688  -0.0254
+\i (00:04:31) pick grid -5.2727 1.5684
+\t (00:04:31) last pick:  -5.2832  1.5748
+\t (00:04:31) Line "Package Geometry/Silkscreen_Top"
+\i (00:04:31) pick grid dbl -5.2727 1.5684
+\t (00:04:31) last pick:  -5.2832  1.5748
+\i (00:04:32) prepopup -5.9793 1.6553
+\i (00:04:32) done 
+\i (00:04:32) generaledit 
+\i (00:04:36) prepopup -5.5444 1.3292
+\i (00:04:37) pick grid -6.0554 1.7423
+\t (00:04:37) last pick:  -6.0452  1.7526
+\i (00:04:38) undo 
+\i (00:04:38) trapsize 544
+\i (00:04:38) generaledit 
+\i (00:04:39) pick grid -5.7075 -0.2580
+\t (00:04:39) last pick:  -5.7150  -0.2540
+\i (00:04:39) pick grid -5.7075 -0.0079
+\t (00:04:39) last pick:  -5.7150  0.0000
+\i (00:04:40) prepopup -5.7075 -0.0079
+\i (00:04:41) pop dyn_option_select '@:@Show element' 
+\i (00:04:41) show element 
+\i (00:04:41) generaledit 
+\i (00:04:45) setwindow text
+\i (00:04:45) close 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) pick grid -5.3922 0.1334
+\t (00:04:46) last pick:  -5.3848  0.1270
+\i (00:04:47) drag_start grid -5.3161 -0.0623
+\i (00:04:47) slide 
+\t (00:04:47) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:04:47) No valid items selected for the current operation, exiting.
+\i (00:04:47) generaledit 
+\i (00:04:47) drag_stop grid -5.4248 -0.4537
+\i (00:04:48) pick grid -5.5553 -1.5516
+\t (00:04:48) last pick:  -5.5626  -1.5494
+\i (00:04:49) pick grid -2.6636 -1.4538
+\t (00:04:49) last pick:  -2.6670  -1.4478
+\i (00:04:50) pick grid -5.6858 -1.5408
+\t (00:04:50) last pick:  -5.6896  -1.5494
+\i (00:04:52) pick grid -5.7184 -1.0516
+\t (00:04:52) last pick:  -5.7150  -1.0414
+\i (00:04:52) pick grid -5.6423 -1.6060
+\t (00:04:52) last pick:  -5.6388  -1.6002
+\e (00:04:53) Command not found: Del
+\i (00:04:56) delete 
+\i (00:04:56) generaledit 
+\i (00:04:56) prepopup -5.5553 -1.1603
+\i (00:04:57) pick grid -5.1748 -0.8341
+\t (00:04:57) last pick:  -5.1816  -0.8382
+\i (00:04:58) pick grid 0.7064 -0.7689
+\t (00:04:58) last pick:  0.7112  -0.7620
+\i (00:04:58) prepopup 0.7064 -0.7689
+\i (00:04:58) pick grid -0.6416 2.4815
+\t (00:04:58) last pick:  -0.6350  2.4892
+\i (00:04:59) move 
+\t (00:04:59) Select element(s) to move.
+\i (00:05:00) pick grid 0.7608 -0.9863
+\t (00:05:00) last pick:  0.7620  -0.9906
+\t (00:05:00) last pick:  0.7620  -0.9906
+\t (00:05:00) Element has no origin, using pick.
+\t (00:05:00) Pick new location for the element(s).
+\i (00:05:00) prepopup 0.7608 -0.9863
+\i (00:05:02) rotate 
+\i (00:05:05) pick grid -2.1635 -1.5951
+\t (00:05:05) last pick:  -2.1590  -1.6002
+\i (00:05:05) prepopup -0.0111 -0.5189
+\i (00:05:58) pick grid -5.7184 0.0138
+\t (00:05:58) last pick:  -5.7150  0.0254
+\t (00:05:58) last pick:  -5.7150  0.0254
+\t (00:05:58) Element has no origin, using pick.
+\t (00:05:58) Pick new location for the element(s).
+\i (00:06:02) pick grid -3.7724 -1.6277
+\t (00:06:02) last pick:  -3.7846  -1.6256
+\i (00:06:03) pick grid -5.3922 1.6445
+\t (00:06:03) last pick:  -5.3848  1.6510
+\t (00:06:03) last pick:  -5.3848  1.6510
+\t (00:06:03) Element has no origin, using pick.
+\t (00:06:03) Pick new location for the element(s).
+\i (00:06:04) pick grid -4.0877 1.6771
+\t (00:06:04) last pick:  -4.0894  1.6764
+\i (00:06:05) prepopup -4.8596 2.4054
+\i (00:06:05) done 
+\i (00:06:05) generaledit 
+\i (00:06:05) pick grid -5.2400 2.3620
+\t (00:06:05) last pick:  -5.2324  2.3622
+\i (00:06:07) save 
+\i (00:06:08) fillin yes 
+\t (00:06:08) Symbol 'spin.psm' created.
+\i (00:06:08) generaledit 
+\i (00:06:10) pick grid -3.4572 0.3399
+\t (00:06:10) last pick:  -3.4544  0.3302
+\i (00:06:10) prepopup -3.4572 0.3399
+\i (00:06:11) pop dyn_option_select '@:@Show element' 
+\i (00:06:11) show element 
+\i (00:06:11) generaledit 
+\i (00:06:13) setwindow text
+\i (00:06:13) close 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) exit 
+\t (00:06:13)     Journal end - Sat Dec 27 21:25:17 2014

@@ -1,0 +1,135 @@
+\t (00:00:00) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:00) 
+
+\t (00:00:00) Opening existing drawing...
+\d (00:00:00) Database opened: E:/MyDesigner/AllegroLib/MYLIB_ZXFP/接插件-标准/DC-05/DC_005.dra
+\t (00:00:00) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:00) trapsize 1973
+\i (00:00:00) trapsize 1910
+\i (00:00:00) trapsize 1883
+\i (00:00:00) trapsize 1883
+\i (00:00:00) generaledit 
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in -0.4225 -0.0112
+\t (00:00:02) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:02) trapsize 942
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 5.8858 -0.0677
+\t (00:00:09) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:09) trapsize 1883
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 12.1940 -0.1242
+\t (00:00:09) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:09) trapsize 942
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 9.1434 -0.9151
+\t (00:00:10) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:10) trapsize 1883
+\i (00:00:12) trapsize 2823
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 7.5705 -0.3805
+\i (00:00:24) trapsize 1412
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 6.7800 -0.2111
+\t (00:00:24) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:24) trapsize 706
+\i (00:00:26) trapsize 471
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 5.8644 -0.1009
+\i (00:00:26) trapsize 942
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 6.2033 -0.0257
+\i (00:00:27) trapsize 471
+\i (00:00:28) prepopup 5.8927 0.2379
+\i (00:00:47) text edit 
+\i (00:00:53) setwindow form.mini
+\i (00:00:53) FORM mini subclass PIN_NUMBER 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) pick grid 7.8887 -0.6848
+\t (00:00:55) last pick:  7.8994  -0.6858
+\e (00:00:55) ERROR(SPMHA1-441): Text not found.
+\i (00:00:55) setwindow pcb
+\i (00:00:55) pick grid 5.9586 0.4168
+\t (00:00:55) last pick:  5.9690  0.4064
+\i (00:00:59) setwindow pcb
+\i (00:00:59) prepopup 7.4838 0.4451
+\i (00:01:00) done 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) pick 5.9586 0.4168
+\t (00:01:00) Pick text to edit.
+\i (00:01:00) setwindow pcb
+\i (00:01:00) generaledit 
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 6.2222 -0.2987
+\i (00:01:00) trapsize 942
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 6.2222 -0.2988
+\t (00:01:00) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:01:00) trapsize 1883
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 5.7163 -0.2372
+\t (00:01:01) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:01:01) trapsize 942
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 5.7163 -0.2372
+\i (00:01:01) trapsize 471
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 5.7164 -0.2372
+\i (00:01:01) trapsize 942
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 5.7163 -0.2372
+\t (00:01:01) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:01:01) trapsize 1883
+\i (00:01:03) prepopup -5.7704 9.4794
+\i (00:01:05) save 
+\f (00:01:05) E:/MyDesigner/AllegroLib/MYLIB_ZXFP/接插件-标准/DC-05/DC_005.dra: File Exists. Overwrite? 
+\i (00:01:07) fillin yes 
+\t (00:01:07) Symbol 'dc_005.psm' created.
+\i (00:01:07) generaledit 
+\i (00:02:58) zoom in 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom in 5.9799 0.9680
+\t (00:02:58) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:02:58) trapsize 942
+\i (00:02:58) zoom in 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom in 5.9988 0.8927
+\i (00:02:58) trapsize 471
+\i (00:03:00) prepopup 5.9800 0.3467
+\i (00:03:08) text edit 
+\i (00:03:10) pick grid 6.0270 0.4031
+\t (00:03:10) last pick:  6.0198  0.4064
+\i (00:03:13) setwindow pcb
+\i (00:03:13) prepopup 6.8462 0.9210
+\i (00:03:13) done 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) pick 6.0270 0.4031
+\t (00:03:13) Pick text to edit.
+\i (00:03:13) setwindow pcb
+\i (00:03:13) generaledit 
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out 5.5374 -0.1053
+\i (00:03:14) trapsize 942
+\i (00:03:18) save 
+\f (00:03:18) E:/MyDesigner/AllegroLib/MYLIB_ZXFP/接插件-标准/DC-05/DC_005.dra: File Exists. Overwrite? 
+\i (00:03:19) fillin yes 
+\t (00:03:20) Symbol 'dc_005.psm' created.
+\i (00:03:20) generaledit 
+\t (00:03:21) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:03:21) trapsize 1412
+\i (00:03:22) exit 

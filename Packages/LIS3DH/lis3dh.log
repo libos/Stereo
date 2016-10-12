@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : lis3dh.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Dec 27 21:14:41 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Liu/Desktop/Stereo/Packages/LIS3DH
+    Name      = lis3dh.psm
+    User      = Liu
+    Machine   = LIBER
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

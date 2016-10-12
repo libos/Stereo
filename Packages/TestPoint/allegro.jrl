@@ -1,0 +1,27 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 06 18:38:16 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=7580 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/TestPoint/testpoint.dra
+\i (00:00:02) trapsize 46935
+\i (00:00:02) trapsize 43882
+\i (00:00:02) trapsize 47243
+\i (00:00:02) trapsize 43971
+\i (00:00:02) trapsize 35625
+\i (00:00:02) trapsize 43971
+\i (00:00:03) generaledit 
+\i (00:00:04) zoom fit 
+\i (00:00:04) trapsize 372
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 0.8492 0.5611
+\i (00:00:05) trapsize 744
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 0.8492 0.5462
+\i (00:00:05) trapsize 1488
+\i (00:00:26) pick grid 32.7963 7.5559
+\t (00:00:26) last pick:  33.0200  7.6200
+\i (00:00:27) exit 
+\t (00:00:27)     Journal end - Mon Oct 06 18:38:43 2014

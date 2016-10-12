@@ -1,0 +1,39 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Thu Oct 16 16:58:08 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=7332 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/8550/8550.dra
+\i (00:00:02) trapsize 1391
+\i (00:00:03) trapsize 1301
+\i (00:00:03) trapsize 1400
+\i (00:00:03) trapsize 1303
+\i (00:00:03) trapsize 1056
+\i (00:00:03) trapsize 1303
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 11.8929 1.3870
+\i (00:00:05) trapsize 652
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -3.1882 0.7874
+\i (00:00:05) trapsize 326
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -3.1882 0.7874
+\i (00:00:06) trapsize 163
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -3.1881 0.7875
+\i (00:00:06) trapsize 81
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -3.1881 0.7875
+\i (00:00:06) trapsize 41
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -3.1881 0.7875
+\i (00:00:06) trapsize 20
+\i (00:00:12) exit 
+\t (00:00:12)     Journal end - Thu Oct 16 16:58:20 2014

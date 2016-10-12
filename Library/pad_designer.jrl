@@ -1,0 +1,8 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Tue Dec 30 01:45:08 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=4460 CPUs=4
+\t (00:00:00) 
+\i (00:00:05) setwindow form.padedit
+\i (00:00:05) FORM padedit layers  
+\i (00:00:12) pse_exit
+\t (00:00:12)     Journal end - Tue Dec 30 01:45:20 2014

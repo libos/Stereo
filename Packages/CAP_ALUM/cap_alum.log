@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : cap_alum.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Oct 20 15:16:49 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Liu/Desktop/Stereo/Packages/CAP_ALUM
+    Name      = cap_alum.psm
+    User      = Liu
+    Machine   = LIBER
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

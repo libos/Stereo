@@ -1,0 +1,9 @@
+(Device File: spin)
+
+PACKAGE spin
+CLASS IC
+PINCOUNT 2
+PINORDER spin '1' '2' 
+FUNCTION g1 spin '1' '2' 
+
+END

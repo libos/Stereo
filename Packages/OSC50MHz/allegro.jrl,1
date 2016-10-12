@@ -1,0 +1,16 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Tue Oct 07 13:39:50 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=7552 CPUs=4
+\t (00:00:00) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/OSC50MHz/osc50mhz.dra
+\i (00:00:01) trapsize 46935
+\i (00:00:01) trapsize 43882
+\i (00:00:01) trapsize 47243
+\i (00:00:01) trapsize 43971
+\i (00:00:01) trapsize 35625
+\i (00:00:01) trapsize 43971
+\i (00:00:02) generaledit 
+\i (00:00:06) new 
+\i (00:03:56) newdrawfillin "Stereo.brd" "Board"
+\t (00:03:56)     Journal end - Tue Oct 07 13:43:47 2014

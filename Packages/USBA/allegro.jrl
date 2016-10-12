@@ -1,0 +1,61 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Oct 08 12:46:27 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=7324 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/USBA/usba.dra
+\i (00:00:00) trapsize 3732
+\i (00:00:00) trapsize 3628
+\i (00:00:00) trapsize 3749
+\i (00:00:00) trapsize 3992
+\i (00:00:01) trapsize 3234
+\i (00:00:01) trapsize 3992
+\i (00:00:01) generaledit 
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 5.5487 -2.3552
+\i (00:00:03) trapsize 1996
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -7.0257 -2.3552
+\i (00:00:03) trapsize 998
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -7.0256 -2.3552
+\i (00:00:03) trapsize 499
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -6.8061 -2.2853
+\i (00:00:04) trapsize 998
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -6.8060 -2.2854
+\i (00:00:04) trapsize 1996
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -6.1475 -2.2854
+\i (00:00:04) trapsize 3992
+\i (00:00:17) color192 
+\i (00:00:17) setwindow cvf.dialog
+\i (00:00:17) cvf layer_mode
+\i (00:00:17) setwindow pcb
+\i (00:00:17) generaledit 
+\i (00:00:19) setwindow cvf.dialog
+\i (00:00:19) cvf layer_tree_item 'Package Geometry'
+\i (00:00:20) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:22) cvf apply
+\i (00:00:22) cvf okay
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -0.7585 -2.5149
+\i (00:00:24) trapsize 1996
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -10.5385 -2.5148
+\i (00:00:24) trapsize 998
+\i (00:01:27) exit 
+\e (00:01:27) Do you want to save the changes you made to usba.dra?
+\i (00:01:29) fillin yes 
+\t (00:01:30) Symbol 'usba.psm' created.
+\t (00:01:30)     Journal end - Wed Oct 08 12:47:57 2014

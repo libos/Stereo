@@ -1,0 +1,74 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Oct 08 14:23:14 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=7304 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\i (00:00:06) fillin yes 
+\d (00:00:06) Database opened: C:/Users/Liu/Desktop/TF Card/TF.dra
+\t (00:00:06) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:06) trapsize 2261
+\i (00:00:06) trapsize 2114
+\i (00:00:06) trapsize 2276
+\i (00:00:06) trapsize 2118
+\i (00:00:07) trapsize 1716
+\i (00:00:07) trapsize 2118
+\i (00:00:07) generaledit 
+\i (00:36:22) pick grid -6.8434 -2.9460
+\t (00:36:22) last pick:  -6.8326  -2.9464
+\i (00:36:26) zoom fit 
+\i (00:36:26) trapsize 1702
+\i (00:36:29) zoom fit 
+\i (00:36:29) trapsize 1702
+\i (00:36:34) show measure 
+\i (00:36:38) pick grid -10.9233 -5.6140
+\t (00:36:38) last pick:  -10.9220  -5.6134
+\i (00:36:41) pick grid 6.2972 -6.1244
+\t (00:36:41) last pick:  6.2992  -6.1214
+\i (00:36:45) pick grid 6.1951 1.0224
+\t (00:36:45) last pick:  6.1976  1.0160
+\i (00:36:47) pick grid 6.2631 0.8863
+\t (00:36:47) last pick:  6.2738  0.8890
+\i (00:36:49) pick grid -10.9914 0.9543
+\t (00:36:49) last pick:  -10.9982  0.9652
+\i (00:36:50) pick grid -10.9233 1.0564
+\t (00:36:50) last pick:  -10.9220  1.0668
+\i (00:36:54) zoom in 1 
+\i (00:36:54) setwindow pcb
+\i (00:36:54) zoom in -10.4469 0.9203
+\t (00:36:54) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:36:54) trapsize 851
+\i (00:36:54) zoom in 1 
+\i (00:36:54) setwindow pcb
+\i (00:36:54) zoom in -9.1876 0.6991
+\i (00:36:54) trapsize 425
+\i (00:36:55) pick grid -5.6397 0.8183
+\t (00:36:55) last pick:  -5.6388  0.8128
+\i (00:36:59) zoom out 
+\i (00:36:59) setwindow pcb
+\i (00:36:59) zoom out -6.1672 -1.2322
+\i (00:36:59) trapsize 851
+\i (00:37:02) zoom out 
+\i (00:37:02) setwindow pcb
+\i (00:37:02) zoom out -6.1672 -1.2860
+\t (00:37:02) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:37:02) trapsize 1702
+\i (00:37:08) pick grid 6.2293 1.0282
+\t (00:37:08) last pick:  6.2230  1.0160
+\i (00:37:45) prmed 
+\i (00:37:51) setwindow form.prmedit
+\i (00:37:51) FORM prmedit design  
+\i (00:37:56) FORM prmedit cancel  
+\i (00:37:57) setwindow pcb
+\i (00:37:57) generaledit 
+\i (00:38:19) zoom fit 
+\i (00:38:19) trapsize 1702
+\i (00:38:30) show measure 
+\i (00:38:32) pick grid 6.2291 1.0224
+\t (00:38:32) last pick:  6.2230  1.0160
+\i (00:38:34) pick grid 6.2631 -14.5986
+\t (00:38:34) last pick:  6.2738  -14.6050
+\i (00:38:50) exit 
+\e (00:38:50) Do you want to save the changes you made to TF.dra?
+\i (00:38:54) fillin yes 
+\t (00:38:54) Symbol 'tf.psm' created.
+\t (00:38:54)     Journal end - Wed Oct 08 15:02:08 2014

@@ -1,0 +1,830 @@
+\t (00:00:11) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:11)     Journal start - Sun Oct 05 15:32:50 2014
+\t (00:00:11)         Host=LIBER User=Liu Pid=7660 CPUs=4
+\t (00:00:11) 
+\t (00:00:13) Starting new design...
+\i (00:00:13) trapsize 1506
+\i (00:00:13) trapsize 1444
+\i (00:00:13) trapsize 1517
+\i (00:00:13) trapsize 1549
+\i (00:00:14) trapsize 1620
+\i (00:00:14) trapsize 1136
+\i (00:00:14) trapsize 1820
+\i (00:00:14) replay stm32f429zgt6.scr 
+\i (00:00:14) version 16.5 
+\t (00:00:14) Script version: 16.5
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) new 
+\i (00:00:14) newdrawfillin stm32f429zgt6.dra 'Package Symbol' 
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 1136
+\i (00:00:14) trapsize 1079
+\i (00:00:14) trapsize 1119
+\i (00:00:15) trapsize 1820
+\i (00:00:15) trapsize 1820
+\i (00:00:15) setwindow Form.vf_vis 
+\i (00:00:15) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:15) FORM vf_vis 2 all_colorvisible YES 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) Color 
+\i (00:00:15) setwindow form.cvf_main
+\i (00:00:15) FORM cvf_main class_list Geometry
+\i (00:00:15) setwindow Form.cvf_main 
+\i (00:00:15) FORM cvf_main class_list Components 
+\i (00:00:15) FORM cvf_main all_visible1 YES 
+\i (00:00:15) FORM cvf_main all_visible2 YES 
+\i (00:00:15) FORM cvf_main all_visible3 YES 
+\i (00:00:15) FORM cvf_main class_list Geometry 
+\i (00:00:15) FORM cvf_main all_visible5 YES 
+\i (00:00:15) FORM cvf_main package_geometry/pin_number/visible NO 
+\i (00:00:15) FORM cvf_main class_list Stack-Up 
+\i (00:00:15) FORM cvf_main all_visible1 YES 
+\i (00:00:15) FORM cvf_main ok 
+\i (00:00:15) generaledit 
+\i (00:00:15) prmed 
+\i (00:00:15) setwindow Form.prmedit 
+\i (00:00:15) FORM prmedit design 
+\i (00:00:15) FORM prmedit units Millimeter 
+\e (00:00:15) Change may cause round-off; run dbcheck.
+\i (00:00:15) FORM prmedit accuracy 4 
+\i (00:00:15) FORM prmedit size Other 
+\i (00:00:15) FORM prmedit x -5 
+\i (00:00:15) FORM prmedit y -5 
+\i (00:00:15) FORM prmedit width 51.8 
+\i (00:00:15) FORM prmedit height 51.8 
+\i (00:00:15) FORM prmedit x -25.9 
+\i (00:00:15) FORM prmedit y -25.9 
+\i (00:00:15) FORM prmedit done 
+\w (00:00:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:15) trapsize 5546
+\t (00:00:15) Performing DRC...
+\t (00:00:15) No DRC errors detected.
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) add pin 
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini pad_name r150_30m170_50 
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) FORM mini next_pin_number 1 
+\i (00:00:15) rotate 
+\t (00:00:15) Spin the element(s).
+\i (00:00:15) iangle 0 
+\t (00:00:15) last angle:  +0.000 Degrees
+\t (00:00:15) Pin rotated by '0.000' degrees.
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) FORM mini pintype_mechanical NO 
+\i (00:00:15) FORM mini offsetx 0 
+\i (00:00:15) FORM mini offsety 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -10.7 8.75 
+\t (00:00:15) last pick:  -10.7000  8.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 8.25 
+\t (00:00:15) last pick:  -10.7000  8.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 7.75 
+\t (00:00:15) last pick:  -10.7000  7.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 7.25 
+\t (00:00:15) last pick:  -10.7000  7.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 6.75 
+\t (00:00:15) last pick:  -10.7000  6.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 6.25 
+\t (00:00:15) last pick:  -10.7000  6.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 5.75 
+\t (00:00:15) last pick:  -10.7000  5.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 5.25 
+\t (00:00:15) last pick:  -10.7000  5.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 4.75 
+\t (00:00:15) last pick:  -10.7000  4.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 4.25 
+\t (00:00:15) last pick:  -10.7000  4.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 3.75 
+\t (00:00:15) last pick:  -10.7000  3.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 3.25 
+\t (00:00:15) last pick:  -10.7000  3.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 2.75 
+\t (00:00:15) last pick:  -10.7000  2.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 2.25 
+\t (00:00:15) last pick:  -10.7000  2.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 1.75 
+\t (00:00:15) last pick:  -10.7000  1.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 1.25 
+\t (00:00:15) last pick:  -10.7000  1.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 0.75 
+\t (00:00:15) last pick:  -10.7000  0.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 0.25 
+\t (00:00:15) last pick:  -10.7000  0.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 -0.25 
+\t (00:00:15) last pick:  -10.7000  -0.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 -0.75 
+\t (00:00:15) last pick:  -10.7000  -0.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 -1.25 
+\t (00:00:15) last pick:  -10.7000  -1.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 -1.75 
+\t (00:00:15) last pick:  -10.7000  -1.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 -2.25 
+\t (00:00:15) last pick:  -10.7000  -2.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 -2.75 
+\t (00:00:15) last pick:  -10.7000  -2.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 -3.25 
+\t (00:00:15) last pick:  -10.7000  -3.2500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:15) pick -10.7 -3.75 
+\t (00:00:15) last pick:  -10.7000  -3.7500
+\t (00:00:15) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -4.25 
+\t (00:00:16) last pick:  -10.7000  -4.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -4.75 
+\t (00:00:16) last pick:  -10.7000  -4.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -5.25 
+\t (00:00:16) last pick:  -10.7000  -5.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -5.75 
+\t (00:00:16) last pick:  -10.7000  -5.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -6.25 
+\t (00:00:16) last pick:  -10.7000  -6.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -6.75 
+\t (00:00:16) last pick:  -10.7000  -6.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -7.25 
+\t (00:00:16) last pick:  -10.7000  -7.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -7.75 
+\t (00:00:16) last pick:  -10.7000  -7.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -8.25 
+\t (00:00:16) last pick:  -10.7000  -8.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -10.7 -8.75 
+\t (00:00:16) last pick:  -10.7000  -8.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle 90 
+\t (00:00:16) last angle:  +90.000 Degrees
+\t (00:00:16) Pin rotated by '90.000' degrees.
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -8.75 -10.7 
+\t (00:00:16) last pick:  -8.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -8.25 -10.7 
+\t (00:00:16) last pick:  -8.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -7.75 -10.7 
+\t (00:00:16) last pick:  -7.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -7.25 -10.7 
+\t (00:00:16) last pick:  -7.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -6.75 -10.7 
+\t (00:00:16) last pick:  -6.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -6.25 -10.7 
+\t (00:00:16) last pick:  -6.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -5.75 -10.7 
+\t (00:00:16) last pick:  -5.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -5.25 -10.7 
+\t (00:00:16) last pick:  -5.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -4.75 -10.7 
+\t (00:00:16) last pick:  -4.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -4.25 -10.7 
+\t (00:00:16) last pick:  -4.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -3.75 -10.7 
+\t (00:00:16) last pick:  -3.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -3.25 -10.7 
+\t (00:00:16) last pick:  -3.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -2.75 -10.7 
+\t (00:00:16) last pick:  -2.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -2.25 -10.7 
+\t (00:00:16) last pick:  -2.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -1.75 -10.7 
+\t (00:00:16) last pick:  -1.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -1.25 -10.7 
+\t (00:00:16) last pick:  -1.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -0.75 -10.7 
+\t (00:00:16) last pick:  -0.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -0.25 -10.7 
+\t (00:00:16) last pick:  -0.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 0.25 -10.7 
+\t (00:00:16) last pick:  0.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 0.75 -10.7 
+\t (00:00:16) last pick:  0.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 1.25 -10.7 
+\t (00:00:16) last pick:  1.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 1.75 -10.7 
+\t (00:00:16) last pick:  1.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 2.25 -10.7 
+\t (00:00:16) last pick:  2.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 2.75 -10.7 
+\t (00:00:16) last pick:  2.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 3.25 -10.7 
+\t (00:00:16) last pick:  3.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 3.75 -10.7 
+\t (00:00:16) last pick:  3.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 4.25 -10.7 
+\t (00:00:16) last pick:  4.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 4.75 -10.7 
+\t (00:00:16) last pick:  4.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 5.25 -10.7 
+\t (00:00:16) last pick:  5.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 5.75 -10.7 
+\t (00:00:16) last pick:  5.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 6.25 -10.7 
+\t (00:00:16) last pick:  6.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 6.75 -10.7 
+\t (00:00:16) last pick:  6.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 7.25 -10.7 
+\t (00:00:16) last pick:  7.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 7.75 -10.7 
+\t (00:00:16) last pick:  7.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 8.25 -10.7 
+\t (00:00:16) last pick:  8.2500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 8.75 -10.7 
+\t (00:00:16) last pick:  8.7500  -10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle -90 
+\t (00:00:16) last angle:  +270.000 Degrees
+\t (00:00:16) Pin rotated by '0.000' degrees.
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 10.7 -8.75 
+\t (00:00:16) last pick:  10.7000  -8.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -8.25 
+\t (00:00:16) last pick:  10.7000  -8.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -7.75 
+\t (00:00:16) last pick:  10.7000  -7.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -7.25 
+\t (00:00:16) last pick:  10.7000  -7.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -6.75 
+\t (00:00:16) last pick:  10.7000  -6.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -6.25 
+\t (00:00:16) last pick:  10.7000  -6.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -5.75 
+\t (00:00:16) last pick:  10.7000  -5.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -5.25 
+\t (00:00:16) last pick:  10.7000  -5.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -4.75 
+\t (00:00:16) last pick:  10.7000  -4.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -4.25 
+\t (00:00:16) last pick:  10.7000  -4.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -3.75 
+\t (00:00:16) last pick:  10.7000  -3.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -3.25 
+\t (00:00:16) last pick:  10.7000  -3.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -2.75 
+\t (00:00:16) last pick:  10.7000  -2.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -2.25 
+\t (00:00:16) last pick:  10.7000  -2.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -1.75 
+\t (00:00:16) last pick:  10.7000  -1.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -1.25 
+\t (00:00:16) last pick:  10.7000  -1.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -0.75 
+\t (00:00:16) last pick:  10.7000  -0.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 -0.25 
+\t (00:00:16) last pick:  10.7000  -0.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 0.25 
+\t (00:00:16) last pick:  10.7000  0.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 0.75 
+\t (00:00:16) last pick:  10.7000  0.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 1.25 
+\t (00:00:16) last pick:  10.7000  1.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 1.75 
+\t (00:00:16) last pick:  10.7000  1.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 2.25 
+\t (00:00:16) last pick:  10.7000  2.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 2.75 
+\t (00:00:16) last pick:  10.7000  2.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 3.25 
+\t (00:00:16) last pick:  10.7000  3.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 3.75 
+\t (00:00:16) last pick:  10.7000  3.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 4.25 
+\t (00:00:16) last pick:  10.7000  4.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 4.75 
+\t (00:00:16) last pick:  10.7000  4.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 5.25 
+\t (00:00:16) last pick:  10.7000  5.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 5.75 
+\t (00:00:16) last pick:  10.7000  5.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 6.25 
+\t (00:00:16) last pick:  10.7000  6.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 6.75 
+\t (00:00:16) last pick:  10.7000  6.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 7.25 
+\t (00:00:16) last pick:  10.7000  7.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 7.75 
+\t (00:00:16) last pick:  10.7000  7.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 8.25 
+\t (00:00:16) last pick:  10.7000  8.2500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 10.7 8.75 
+\t (00:00:16) last pick:  10.7000  8.7500
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle 90 
+\t (00:00:16) last angle:  +90.000 Degrees
+\t (00:00:16) Pin rotated by '90.000' degrees.
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 8.75 10.7 
+\t (00:00:16) last pick:  8.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 8.25 10.7 
+\t (00:00:16) last pick:  8.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 7.75 10.7 
+\t (00:00:16) last pick:  7.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 7.25 10.7 
+\t (00:00:16) last pick:  7.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 6.75 10.7 
+\t (00:00:16) last pick:  6.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 6.25 10.7 
+\t (00:00:16) last pick:  6.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 5.75 10.7 
+\t (00:00:16) last pick:  5.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 5.25 10.7 
+\t (00:00:16) last pick:  5.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 4.75 10.7 
+\t (00:00:16) last pick:  4.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 4.25 10.7 
+\t (00:00:16) last pick:  4.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 3.75 10.7 
+\t (00:00:16) last pick:  3.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 3.25 10.7 
+\t (00:00:16) last pick:  3.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 2.75 10.7 
+\t (00:00:16) last pick:  2.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 2.25 10.7 
+\t (00:00:16) last pick:  2.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 1.75 10.7 
+\t (00:00:16) last pick:  1.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 1.25 10.7 
+\t (00:00:16) last pick:  1.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 0.75 10.7 
+\t (00:00:16) last pick:  0.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick 0.25 10.7 
+\t (00:00:16) last pick:  0.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -0.25 10.7 
+\t (00:00:16) last pick:  -0.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -0.75 10.7 
+\t (00:00:16) last pick:  -0.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -1.25 10.7 
+\t (00:00:16) last pick:  -1.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -1.75 10.7 
+\t (00:00:16) last pick:  -1.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -2.25 10.7 
+\t (00:00:16) last pick:  -2.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -2.75 10.7 
+\t (00:00:16) last pick:  -2.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -3.25 10.7 
+\t (00:00:16) last pick:  -3.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -3.75 10.7 
+\t (00:00:16) last pick:  -3.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -4.25 10.7 
+\t (00:00:16) last pick:  -4.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -4.75 10.7 
+\t (00:00:16) last pick:  -4.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -5.25 10.7 
+\t (00:00:16) last pick:  -5.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -5.75 10.7 
+\t (00:00:16) last pick:  -5.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -6.25 10.7 
+\t (00:00:16) last pick:  -6.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -6.75 10.7 
+\t (00:00:16) last pick:  -6.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -7.25 10.7 
+\t (00:00:16) last pick:  -7.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -7.75 10.7 
+\t (00:00:16) last pick:  -7.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -8.25 10.7 
+\t (00:00:16) last pick:  -8.2500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) pick -8.75 10.7 
+\t (00:00:16) last pick:  -8.7500  10.7000
+\t (00:00:16) Using 'R150_30M170_50.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini pad_name c100m200k200 
+\t (00:00:16) Using 'C100M200K200.pad'.
+\i (00:00:16) FORM mini pintype_mechanical YES 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -10.7 -10.7 
+\t (00:00:16) last pick:  -10.7000  -10.7000
+\t (00:00:16) Using 'C100M200K200.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) pick 10.7 10.7 
+\t (00:00:16) last pick:  10.7000  10.7000
+\t (00:00:16) Using 'C100M200K200.pad'.
+\i (00:00:16) done 
+\e (00:00:16) Form field label not found
+\i (00:00:16) add line 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass DISPLAY_TOP 
+\i (00:00:16) FORM mini line_width 0.001 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -10.1 -10.1 
+\t (00:00:16) last pick:  -10.1000  -10.1000
+\i (00:00:16) pick -10.1 10.1 
+\t (00:00:16) last pick:  -10.1000  10.1000
+\i (00:00:16) pick 10.1 10.1 
+\t (00:00:16) last pick:  10.1000  10.1000
+\i (00:00:16) pick 10.1 -10.1 
+\t (00:00:16) last pick:  10.1000  -10.1000
+\i (00:00:16) pick -10.1 -10.1 
+\t (00:00:16) last pick:  -10.1000  -10.1000
+\i (00:00:16) done 
+\i (00:00:16) shape add 
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass DFA_BOUND_TOP 
+\i (00:00:16) FORM mini dyns_fill_type Static solid 
+\i (00:00:16) FORM mini dyns_grid None 
+\i (00:00:16) FORM mini dyns_lock_mode Line 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -11.7 -11.7 
+\t (00:00:16) last pick:  -11.7000  -11.7000
+\i (00:00:16) pick -11.7 11.7 
+\t (00:00:16) last pick:  -11.7000  11.7000
+\i (00:00:16) pick 11.7 11.7 
+\t (00:00:16) last pick:  11.7000  11.7000
+\i (00:00:16) pick 11.7 -11.7 
+\t (00:00:16) last pick:  11.7000  -11.7000
+\i (00:00:16) pick -11.7 -11.7 
+\t (00:00:16) last pick:  -11.7000  -11.7000
+\i (00:00:16) done 
+\i (00:00:16) shape add 
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:16) FORM mini dyns_fill_type Static solid 
+\i (00:00:16) FORM mini dyns_grid None 
+\i (00:00:16) FORM mini dyns_lock_mode Line 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -11.7 -11.7 
+\t (00:00:16) last pick:  -11.7000  -11.7000
+\i (00:00:16) pick -11.7 11.7 
+\t (00:00:16) last pick:  -11.7000  11.7000
+\i (00:00:16) pick 11.7 11.7 
+\t (00:00:16) last pick:  11.7000  11.7000
+\i (00:00:16) pick 11.7 -11.7 
+\t (00:00:16) last pick:  11.7000  -11.7000
+\i (00:00:16) pick -11.7 -11.7 
+\t (00:00:16) last pick:  -11.7000  -11.7000
+\i (00:00:16) done 
+\i (00:00:16) add circle 
+\t (00:00:16) Pick center point of the circle.
+\t (00:00:16) Pick center point of the circle.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:16) FORM mini line_width 0.05 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 0 0 
+\t (00:00:16) last pick:  0.0000  0.0000
+\t (00:00:16) Pick a perimeter point on the circle.
+\i (00:00:16) pick 0.35 0 
+\t (00:00:16) last pick:  0.3500  0.0000
+\t (00:00:16) Pick center point of the circle.
+\i (00:00:16) done 
+\i (00:00:16) add line 
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:16) FORM mini line_width 0.05 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 0 -0.5 
+\t (00:00:16) last pick:  0.0000  -0.5000
+\i (00:00:16) pick 0 0.5 
+\t (00:00:16) last pick:  0.0000  0.5000
+\i (00:00:16) done 
+\i (00:00:16) add line 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:17) FORM mini line_width 0.05 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -0.5 0 
+\t (00:00:17) last pick:  -0.5000  0.0000
+\i (00:00:17) pick 0.5 0 
+\t (00:00:17) last pick:  0.5000  0.0000
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) FORM mini line_width 0.1 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -10 -10 
+\t (00:00:17) last pick:  -10.0000  -10.0000
+\i (00:00:17) pick -10 10 
+\t (00:00:17) last pick:  -10.0000  10.0000
+\i (00:00:17) pick 10 10 
+\t (00:00:17) last pick:  10.0000  10.0000
+\i (00:00:17) pick 10 -10 
+\t (00:00:17) last pick:  10.0000  -10.0000
+\i (00:00:17) pick -10 -10 
+\t (00:00:17) last pick:  -10.0000  -10.0000
+\i (00:00:17) done 
+\i (00:00:17) add circle 
+\t (00:00:17) Pick center point of the circle.
+\t (00:00:17) Pick center point of the circle.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) FORM mini line_width 0.1 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -8.95 8.95 
+\t (00:00:17) last pick:  -8.9500  8.9500
+\t (00:00:17) Pick a perimeter point on the circle.
+\i (00:00:17) pick -8.45 8.95 
+\t (00:00:17) last pick:  -8.4500  8.9500
+\t (00:00:17) Pick center point of the circle.
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:17) FORM mini line_width 0.2 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -9.6 -9.6 
+\t (00:00:17) last pick:  -9.6000  -9.6000
+\i (00:00:17) pick -9.6 9.6 
+\t (00:00:17) last pick:  -9.6000  9.6000
+\i (00:00:17) pick 9.6 9.6 
+\t (00:00:17) last pick:  9.6000  9.6000
+\i (00:00:17) pick 9.6 -9.6 
+\t (00:00:17) last pick:  9.6000  -9.6000
+\i (00:00:17) pick -9.6 -9.6 
+\t (00:00:17) last pick:  -9.6000  -9.6000
+\i (00:00:17) done 
+\i (00:00:17) add circle 
+\t (00:00:17) Pick center point of the circle.
+\t (00:00:17) Pick center point of the circle.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:17) FORM mini line_width 0.5 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -8.7 8.7 
+\t (00:00:17) last pick:  -8.7000  8.7000
+\t (00:00:17) Pick a perimeter point on the circle.
+\i (00:00:17) pick -8.45 8.7 
+\t (00:00:17) last pick:  -8.4500  8.7000
+\t (00:00:17) Pick center point of the circle.
+\i (00:00:17) done 
+\i (00:00:17) add circle 
+\t (00:00:17) Pick center point of the circle.
+\t (00:00:17) Pick center point of the circle.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:17) FORM mini line_width 0.25 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -11.2 9.4 
+\t (00:00:17) last pick:  -11.2000  9.4000
+\t (00:00:17) Pick a perimeter point on the circle.
+\i (00:00:17) pick -11.075 9.4 
+\t (00:00:17) last pick:  -11.0750  9.4000
+\t (00:00:17) Pick center point of the circle.
+\i (00:00:17) done 
+\i (00:00:17) shape add circle 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class ROUTE KEEPOUT 
+\i (00:00:17) FORM mini subclass TOP 
+\i (00:00:17) FORM mini dyns_fill_type unfilled 
+\e (00:00:17) Value for field is not legal
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -10.7 -10.7 
+\t (00:00:17) last pick:  -10.7000  -10.7000
+\i (00:00:17) pick -9.7 -10.7 
+\t (00:00:17) last pick:  -9.7000  -10.7000
+\t (00:00:17) last pick:  -10.7000  -10.7000
+\w (00:00:17) WARNING(SPMHA2-54): Cannot place outside of the drawing extents.
+\i (00:00:17) done 
+\i (00:00:17) shape add circle 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class VIA KEEPOUT 
+\i (00:00:17) FORM mini subclass TOP 
+\i (00:00:17) FORM mini dyns_fill_type unfilled 
+\e (00:00:17) Value for field is not legal
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -10.7 -10.7 
+\t (00:00:17) last pick:  -10.7000  -10.7000
+\i (00:00:17) pick -9.7 -10.7 
+\t (00:00:17) last pick:  -9.7000  -10.7000
+\i (00:00:17) done 
+\i (00:00:17) shape add circle 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class ROUTE KEEPOUT 
+\i (00:00:17) FORM mini subclass TOP 
+\i (00:00:17) FORM mini dyns_fill_type unfilled 
+\e (00:00:17) Value for field is not legal
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 10.7 10.7 
+\t (00:00:17) last pick:  10.7000  10.7000
+\i (00:00:17) pick 11.7 10.7 
+\t (00:00:17) last pick:  11.7000  10.7000
+\i (00:00:17) done 
+\i (00:00:17) shape add circle 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class VIA KEEPOUT 
+\i (00:00:17) FORM mini subclass TOP 
+\i (00:00:17) FORM mini dyns_fill_type unfilled 
+\e (00:00:17) Value for field is not legal
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 10.7 10.7 
+\t (00:00:17) last pick:  10.7000  10.7000
+\i (00:00:17) pick 11.7 10.7 
+\t (00:00:17) last pick:  11.7000  10.7000
+\i (00:00:17) done 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) package_height 
+\i (00:00:17) pick grid 0 0 
+\t (00:00:17) last pick:  0.0000  0.0000
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini height_max 1.6mm 
+\i (00:00:17) done 
+\e (00:00:17) Form field label not found
+\i (00:00:17) Label refdes 
+\t (00:00:18) Pick text location.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini text_block 3 
+\i (00:00:18) FORM mini angle 0 
+\i (00:00:18) FORM mini mirror NO 
+\i (00:00:18) FORM mini text_justification Center 
+\i (00:00:18) FORM mini class REF DES 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 0 0.75 
+\t (00:00:18) last pick:  0.0000  0.7500
+\t (00:00:18) Enter text string.
+\i (00:00:18) Text REF 
+\i (00:00:18) done 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) Label refdes 
+\t (00:00:18) Pick text location.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini text_block 3 
+\i (00:00:18) FORM mini angle 0 
+\i (00:00:18) FORM mini mirror NO 
+\i (00:00:18) FORM mini text_justification Center 
+\i (00:00:18) FORM mini class REF DES 
+\i (00:00:18) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 0 0.75 
+\t (00:00:18) last pick:  0.0000  0.7500
+\t (00:00:18) Enter text string.
+\i (00:00:18) Text REF 
+\i (00:00:18) done 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) Label device 
+\t (00:00:18) Pick text location.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini text_block 3 
+\i (00:00:18) FORM mini angle 0 
+\i (00:00:18) FORM mini mirror NO 
+\i (00:00:18) FORM mini text_justification Center 
+\i (00:00:18) FORM mini class DEVICE TYPE 
+\i (00:00:18) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 0 0.75 
+\t (00:00:18) last pick:  0.0000  0.7500
+\t (00:00:18) Enter text string.
+\i (00:00:18) Text DEV 
+\t (00:00:18) Enter text string.
+\i (00:00:18) done 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) save 
+\t (00:00:21) Symbol 'stm32f429zgt6.psm' created.
+\i (00:00:21) exit 
+\t (00:00:21)     Journal end - Sun Oct 05 15:32:59 2014

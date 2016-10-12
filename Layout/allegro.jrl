@@ -1,0 +1,16 @@
+\t (00:00:07) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:07)     Journal start - Thu Jul 30 21:47:16 2015
+\t (00:00:07)         Host=LIBER User=Liu Pid=11336 CPUs=4
+\t (00:00:07) 
+\t (00:00:09) Opening existing design...
+\d (00:00:10) Database opened: C:/Users/Liu/Desktop/ÎÄ¼þ¼Ð/Stereo/Layout/Stereo.brd
+\t (00:00:10) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
+\i (00:00:10) trapsize 3001
+\i (00:00:10) trapsize 2918
+\i (00:00:10) trapsize 3015
+\i (00:00:10) trapsize 3104
+\i (00:00:10) trapsize 2443
+\i (00:00:10) trapsize 3056
+\i (00:00:12) generaledit 
+\i (00:00:20) exit 
+\t (00:00:21)     Journal end - Thu Jul 30 21:47:29 2015

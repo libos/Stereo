@@ -1,0 +1,9 @@
+(Device File: MountHole)
+
+PACKAGE MountHole
+CLASS IC
+PINCOUNT 4
+PINORDER MountHole '1' 'VIA1' 'VIA2' 'VIA3' 
+FUNCTION g1 MountHole '1' 'VIA1' 'VIA2' 'VIA3' 
+
+END

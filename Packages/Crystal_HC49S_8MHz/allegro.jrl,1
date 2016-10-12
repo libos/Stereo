@@ -1,0 +1,18 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Oct 05 16:50:32 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=11884 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/Crystal_HC49S_8MHz/crystal_hc49s_8mhz.dra
+\i (00:00:02) trapsize 3054
+\i (00:00:02) trapsize 2856
+\i (00:00:02) trapsize 3074
+\i (00:00:02) trapsize 2862
+\i (00:00:02) trapsize 2318
+\i (00:00:02) trapsize 2862
+\i (00:00:03) generaledit 
+\i (00:00:13) toolswap 
+\i (00:00:17) fillin menu_cancel
+\i (00:00:17) generaledit 
+\i (00:00:18) exit 
+\t (00:00:18)     Journal end - Sun Oct 05 16:50:50 2014

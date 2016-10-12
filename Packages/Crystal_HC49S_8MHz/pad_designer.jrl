@@ -1,0 +1,86 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Sun Oct 05 16:42:18 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=10664 CPUs=4
+\t (00:00:00) 
+\i (00:00:00) setwindow form.padedit
+\i (00:00:00) replay c115h65m135t115_145_40.psr 
+\i (00:00:00) version 16.5 
+\t (00:00:00) Script version: 16.5
+\i (00:00:00) setwindow form.padedit 
+\i (00:00:00) pse_new 
+\i (00:00:00) fillin c115h65m135t115_145_40 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) fillin yes 
+\w (00:00:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit inner_layer_opt YES 
+\e (00:00:00) Form field label not found
+\i (00:00:00) FORM padedit through_hole YES 
+\e (00:00:00) Form field label not found
+\i (00:00:00) FORM padedit hole_type Circle 
+\e (00:00:00) Value for field is not legal
+\i (00:00:00) FORM padedit hole_size_x 0.65 
+\i (00:00:00) FORM padedit hole_size_x 0.65 
+\i (00:00:00) FORM padedit plating Plated 
+\i (00:00:00) setwindow Form.padedit 
+\i (00:00:00) FORM padedit layers 
+\i (00:00:00) FORM padedit layers  
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid change begin_layer,begin_layer TOP 
+\e (00:00:00) Row,Column value is not valid for field.
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 1.15 
+\i (00:00:00) FORM padedit width 1.15 
+\i (00:00:00) FORM padedit grid row default_internal 
+\i (00:00:00) FORM padedit grid row default_internal 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 1.15 
+\i (00:00:00) FORM padedit width 1.15 
+\i (00:00:00) FORM padedit geometry_th Circle 
+\i (00:00:00) FORM padedit geometry_th Circle 
+\i (00:00:00) FORM padedit width_th 1.15 
+\i (00:00:00) FORM padedit width_th 1.15 
+\i (00:00:00) FORM padedit geometry_ant Circle 
+\i (00:00:00) FORM padedit geometry_ant Circle 
+\i (00:00:00) FORM padedit width_ant 1.45 
+\i (00:00:00) FORM padedit width_ant 1.45 
+\i (00:00:00) FORM padedit grid row end_layer 
+\i (00:00:00) FORM padedit grid row end_layer 
+\i (00:00:00) FORM padedit grid change end_layer,end_layer BOTTOM 
+\e (00:00:00) Row,Column value is not valid for field.
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 1.15 
+\i (00:00:00) FORM padedit width 1.15 
+\i (00:00:00) FORM padedit grid row SOLDERMASK_TOP 
+\i (00:00:00) FORM padedit grid row soldermask_top 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 1.35 
+\i (00:00:00) FORM padedit width 1.35 
+\i (00:00:00) FORM padedit grid row SOLDERMASK_BOTTOM 
+\i (00:00:00) FORM padedit grid row soldermask_bottom 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 1.35 
+\i (00:00:00) FORM padedit width 1.35 
+\i (00:00:00) pse_check 
+\e (00:00:00) Window is disabled, command may not be allowed: pse_save
+\e (00:00:00) Window is disabled, command may not be allowed: pse_exit
+\i (00:00:09) setwindow text
+\i (00:00:09) close 
+\i (00:00:10) setwindow form.padedit
+\i (00:00:10) FORM padedit parameters  
+\i (00:00:12) FORM padedit drill_fig Circle 
+\i (00:00:14) FORM padedit characters A 
+\i (00:00:16) FORM padedit drill_width .48 
+\i (00:00:18) FORM padedit drill_height .48 
+\i (00:00:20) pse_save 
+\i (00:00:22) pse_save 
+\i (00:00:24) fillin no 
+\i (00:00:25) pse_exit
+\t (00:00:25)     Journal end - Sun Oct 05 16:42:44 2014

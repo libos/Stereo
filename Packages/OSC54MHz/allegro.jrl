@@ -1,0 +1,435 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Oct 05 17:28:30 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=12640 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 995
+\i (00:00:02) trapsize 968
+\i (00:00:02) trapsize 1000
+\i (00:00:02) trapsize 1014
+\i (00:00:03) trapsize 819
+\i (00:00:03) trapsize 1731
+\i (00:00:03) replay osc54mhz.scr 
+\i (00:00:03) version 16.5 
+\t (00:00:03) Script version: 16.5
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) new 
+\i (00:00:03) newdrawfillin osc54mhz.dra 'Package Symbol' 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 819
+\i (00:00:03) trapsize 789
+\i (00:00:03) trapsize 810
+\i (00:00:03) trapsize 1731
+\i (00:00:03) trapsize 1731
+\i (00:00:04) setwindow Form.vf_vis 
+\i (00:00:04) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:04) FORM vf_vis 2 all_colorvisible YES 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) Color 
+\i (00:00:04) setwindow form.cvf_main
+\i (00:00:04) FORM cvf_main class_list Geometry
+\i (00:00:04) setwindow Form.cvf_main 
+\i (00:00:04) FORM cvf_main class_list Components 
+\i (00:00:04) FORM cvf_main all_visible1 YES 
+\i (00:00:04) FORM cvf_main all_visible2 YES 
+\i (00:00:04) FORM cvf_main all_visible3 YES 
+\i (00:00:04) FORM cvf_main class_list Geometry 
+\i (00:00:04) FORM cvf_main all_visible5 YES 
+\i (00:00:04) FORM cvf_main package_geometry/pin_number/visible NO 
+\i (00:00:04) FORM cvf_main class_list Stack-Up 
+\i (00:00:04) FORM cvf_main all_visible1 YES 
+\i (00:00:04) FORM cvf_main ok 
+\i (00:00:04) generaledit 
+\i (00:00:04) prmed 
+\i (00:00:04) setwindow Form.prmedit 
+\i (00:00:04) FORM prmedit design 
+\i (00:00:04) FORM prmedit units Millimeter 
+\e (00:00:04) Change may cause round-off; run dbcheck.
+\i (00:00:04) FORM prmedit accuracy 4 
+\i (00:00:04) FORM prmedit size Other 
+\i (00:00:04) FORM prmedit x -5 
+\i (00:00:04) FORM prmedit y -5 
+\i (00:00:04) FORM prmedit width 31.8 
+\i (00:00:04) FORM prmedit height 31.8 
+\i (00:00:04) FORM prmedit x -15.9 
+\i (00:00:04) FORM prmedit y -15.9 
+\i (00:00:04) FORM prmedit done 
+\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:04) trapsize 3238
+\t (00:00:04) Performing DRC...
+\t (00:00:04) No DRC errors detected.
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) add pin 
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini pad_name s115h65m135t115_145_40 
+\t (00:00:05) Using 'S115H65M135T115_145_40.pad'.
+\i (00:00:05) FORM mini next_pin_number 1 
+\i (00:00:05) rotate 
+\t (00:00:05) Spin the element(s).
+\i (00:00:05) iangle 0 
+\t (00:00:05) last angle:  +0.000 Degrees
+\t (00:00:05) Pin rotated by '0.000' degrees.
+\t (00:00:05) Using 'S115H65M135T115_145_40.pad'.
+\i (00:00:05) FORM mini pintype_mechanical NO 
+\i (00:00:05) FORM mini offsetx 0 
+\i (00:00:05) FORM mini offsety 0 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -3.81 3.81 
+\t (00:00:05) last pick:  -3.8100  3.8100
+\t (00:00:05) Using 'S115H65M135T115_145_40.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini pad_name c115h65m135t115_145_40 
+\t (00:00:05) Using 'C115H65M135T115_145_40.pad'.
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -3.81 -3.81 
+\t (00:00:05) last pick:  -3.8100  -3.8100
+\t (00:00:05) Using 'C115H65M135T115_145_40.pad'.
+\i (00:00:05) pick 3.81 -3.81 
+\t (00:00:05) last pick:  3.8100  -3.8100
+\t (00:00:05) Using 'C115H65M135T115_145_40.pad'.
+\i (00:00:05) pick 3.81 3.81 
+\t (00:00:05) last pick:  3.8100  3.8100
+\t (00:00:05) Using 'C115H65M135T115_145_40.pad'.
+\i (00:00:05) done 
+\t (00:00:05) Exiting from Add Pin.
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass DISPLAY_TOP 
+\i (00:00:05) FORM mini line_width 0.001 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -6.45 -6.45 
+\t (00:00:05) last pick:  -6.4500  -6.4500
+\i (00:00:05) pick -6.45 6.45 
+\t (00:00:05) last pick:  -6.4500  6.4500
+\i (00:00:05) pick 6.45 6.45 
+\t (00:00:05) last pick:  6.4500  6.4500
+\i (00:00:05) pick 6.45 -6.45 
+\t (00:00:05) last pick:  6.4500  -6.4500
+\i (00:00:05) pick -6.45 -6.45 
+\t (00:00:05) last pick:  -6.4500  -6.4500
+\i (00:00:05) done 
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:05) FORM mini line_width 0.1 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -6.45 6.45 
+\t (00:00:05) last pick:  -6.4500  6.4500
+\i (00:00:05) pick 5.18 6.45 
+\t (00:00:05) last pick:  5.1800  6.4500
+\i (00:00:05) add rarc 
+\t (00:00:05) Pick arc center point.
+\i (00:00:05) pick 5.18 5.18 
+\t (00:00:05) last pick:  5.1800  5.1800
+\t (00:00:05) Pick arc start point.
+\i (00:00:05) pick 5.18 6.45 
+\t (00:00:05) last pick:  5.1800  6.4500
+\t (00:00:05) Radius = 1.2700
+\t (00:00:05) Pick arc end point.
+\i (00:00:05) angle -359.99 
+\t (00:00:05) last angle:  +0.011 Degrees
+\t (00:00:05) Pick the next arc center point.
+\i (00:00:05) add line 
+\i (00:00:05) pick 6.45 5.18 
+\t (00:00:05) last pick:  6.4500  5.1800
+\i (00:00:05) pick 6.45 -5.18 
+\t (00:00:05) last pick:  6.4500  -5.1800
+\i (00:00:05) add rarc 
+\t (00:00:05) Pick arc center point.
+\i (00:00:05) pick 5.18 -5.18 
+\t (00:00:05) last pick:  5.1800  -5.1800
+\t (00:00:05) Pick arc start point.
+\i (00:00:05) pick 6.45 -5.18 
+\t (00:00:05) last pick:  6.4500  -5.1800
+\t (00:00:05) Radius = 1.2700
+\t (00:00:05) Pick arc end point.
+\i (00:00:05) angle -90 
+\t (00:00:05) last angle:  +270.000 Degrees
+\t (00:00:05) Pick the next arc center point.
+\i (00:00:05) add line 
+\i (00:00:05) pick 5.18 -6.45 
+\t (00:00:05) last pick:  5.1800  -6.4500
+\i (00:00:05) pick -5.18 -6.45 
+\t (00:00:05) last pick:  -5.1800  -6.4500
+\i (00:00:05) add rarc 
+\t (00:00:06) Pick arc center point.
+\i (00:00:06) pick -5.18 -5.18 
+\t (00:00:06) last pick:  -5.1800  -5.1800
+\t (00:00:06) Pick arc start point.
+\i (00:00:06) pick -5.18 -6.45 
+\t (00:00:06) last pick:  -5.1800  -6.4500
+\t (00:00:06) Radius = 1.2700
+\t (00:00:06) Pick arc end point.
+\i (00:00:06) angle -180 
+\t (00:00:06) last angle:  +180.000 Degrees
+\t (00:00:06) Pick the next arc center point.
+\i (00:00:06) add line 
+\i (00:00:06) pick -6.45 -5.18 
+\t (00:00:06) last pick:  -6.4500  -5.1800
+\i (00:00:06) pick -6.45 6.45 
+\t (00:00:06) last pick:  -6.4500  6.4500
+\t (00:00:06) Merged with existing line. Start next line.
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0.1 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -4.335 3.285 
+\t (00:00:06) last pick:  -4.3350  3.2850
+\i (00:00:06) pick -4.335 4.335 
+\t (00:00:06) last pick:  -4.3350  4.3350
+\i (00:00:06) pick -3.285 4.335 
+\t (00:00:06) last pick:  -3.2850  4.3350
+\i (00:00:06) pick -3.285 3.285 
+\t (00:00:06) last pick:  -3.2850  3.2850
+\i (00:00:06) pick -4.335 3.285 
+\t (00:00:06) last pick:  -4.3350  3.2850
+\i (00:00:06) done 
+\i (00:00:06) add circle 
+\t (00:00:06) Pick center point of the circle.
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0.1 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -3.81 -3.81 
+\t (00:00:06) last pick:  -3.8100  -3.8100
+\t (00:00:06) Pick a perimeter point on the circle.
+\i (00:00:06) pick -3.285 -3.81 
+\t (00:00:06) last pick:  -3.2850  -3.8100
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) done 
+\i (00:00:06) add circle 
+\t (00:00:06) Pick center point of the circle.
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0.1 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 3.81 -3.81 
+\t (00:00:06) last pick:  3.8100  -3.8100
+\t (00:00:06) Pick a perimeter point on the circle.
+\i (00:00:06) pick 4.335 -3.81 
+\t (00:00:06) last pick:  4.3350  -3.8100
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) done 
+\i (00:00:06) add circle 
+\t (00:00:06) Pick center point of the circle.
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0.1 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 3.81 3.81 
+\t (00:00:06) last pick:  3.8100  3.8100
+\t (00:00:06) Pick a perimeter point on the circle.
+\i (00:00:06) pick 4.335 3.81 
+\t (00:00:06) last pick:  4.3350  3.8100
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:07) setwindow Form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:07) FORM mini line_width 0.2 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick -6.45 6.45 
+\t (00:00:07) last pick:  -6.4500  6.4500
+\i (00:00:07) pick 5.18 6.45 
+\t (00:00:07) last pick:  5.1800  6.4500
+\i (00:00:07) add rarc 
+\t (00:00:07) Pick arc center point.
+\i (00:00:07) pick 5.18 5.18 
+\t (00:00:07) last pick:  5.1800  5.1800
+\t (00:00:07) Pick arc start point.
+\i (00:00:07) pick 5.18 6.45 
+\t (00:00:07) last pick:  5.1800  6.4500
+\t (00:00:07) Radius = 1.2700
+\t (00:00:07) Pick arc end point.
+\i (00:00:07) angle -359.99 
+\t (00:00:07) last angle:  +0.011 Degrees
+\t (00:00:07) Pick the next arc center point.
+\i (00:00:07) add line 
+\i (00:00:07) pick 6.45 5.18 
+\t (00:00:07) last pick:  6.4500  5.1800
+\i (00:00:07) pick 6.45 -5.18 
+\t (00:00:07) last pick:  6.4500  -5.1800
+\i (00:00:07) add rarc 
+\t (00:00:07) Pick arc center point.
+\i (00:00:07) pick 5.18 -5.18 
+\t (00:00:07) last pick:  5.1800  -5.1800
+\t (00:00:07) Pick arc start point.
+\i (00:00:07) pick 6.45 -5.18 
+\t (00:00:07) last pick:  6.4500  -5.1800
+\t (00:00:07) Radius = 1.2700
+\t (00:00:07) Pick arc end point.
+\i (00:00:07) angle -90 
+\t (00:00:07) last angle:  +270.000 Degrees
+\t (00:00:07) Pick the next arc center point.
+\i (00:00:07) add line 
+\i (00:00:07) pick 5.18 -6.45 
+\t (00:00:07) last pick:  5.1800  -6.4500
+\i (00:00:07) pick -5.18 -6.45 
+\t (00:00:07) last pick:  -5.1800  -6.4500
+\i (00:00:07) add rarc 
+\t (00:00:07) Pick arc center point.
+\i (00:00:07) pick -5.18 -5.18 
+\t (00:00:07) last pick:  -5.1800  -5.1800
+\t (00:00:07) Pick arc start point.
+\i (00:00:07) pick -5.18 -6.45 
+\t (00:00:07) last pick:  -5.1800  -6.4500
+\t (00:00:07) Radius = 1.2700
+\t (00:00:07) Pick arc end point.
+\i (00:00:07) angle -180 
+\t (00:00:07) last angle:  +180.000 Degrees
+\t (00:00:07) Pick the next arc center point.
+\i (00:00:07) add line 
+\i (00:00:07) pick -6.45 -5.18 
+\t (00:00:07) last pick:  -6.4500  -5.1800
+\i (00:00:07) pick -6.45 6.45 
+\t (00:00:07) last pick:  -6.4500  6.4500
+\t (00:00:07) Merged with existing line. Start next line.
+\i (00:00:08) done 
+\i (00:00:08) shape add 
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass DFA_BOUND_TOP 
+\i (00:00:08) FORM mini dyns_fill_type Static solid 
+\i (00:00:08) FORM mini dyns_grid None 
+\i (00:00:08) FORM mini dyns_lock_mode Line 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick -6.7 -6.7 
+\t (00:00:08) last pick:  -6.7000  -6.7000
+\i (00:00:08) pick -6.7 6.7 
+\t (00:00:08) last pick:  -6.7000  6.7000
+\i (00:00:08) pick 6.7 6.7 
+\t (00:00:08) last pick:  6.7000  6.7000
+\i (00:00:08) pick 6.7 -6.7 
+\t (00:00:08) last pick:  6.7000  -6.7000
+\i (00:00:08) pick -6.7 -6.7 
+\t (00:00:08) last pick:  -6.7000  -6.7000
+\i (00:00:08) done 
+\i (00:00:08) shape add 
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:08) FORM mini dyns_fill_type Static solid 
+\i (00:00:08) FORM mini dyns_grid None 
+\i (00:00:08) FORM mini dyns_lock_mode Line 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick -6.7 -6.7 
+\t (00:00:08) last pick:  -6.7000  -6.7000
+\i (00:00:08) pick -6.7 6.7 
+\t (00:00:08) last pick:  -6.7000  6.7000
+\i (00:00:08) pick 6.7 6.7 
+\t (00:00:08) last pick:  6.7000  6.7000
+\i (00:00:08) pick 6.7 -6.7 
+\t (00:00:08) last pick:  6.7000  -6.7000
+\i (00:00:08) pick -6.7 -6.7 
+\t (00:00:08) last pick:  -6.7000  -6.7000
+\i (00:00:08) done 
+\i (00:00:08) add circle 
+\t (00:00:08) Pick center point of the circle.
+\t (00:00:08) Pick center point of the circle.
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:08) FORM mini line_width 0.05 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick 0 0 
+\t (00:00:08) last pick:  0.0000  0.0000
+\t (00:00:08) Pick a perimeter point on the circle.
+\i (00:00:08) pick 0.35 0 
+\t (00:00:08) last pick:  0.3500  0.0000
+\t (00:00:08) Pick center point of the circle.
+\i (00:00:08) done 
+\i (00:00:08) add line 
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:08) FORM mini line_width 0.05 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick 0 -0.5 
+\t (00:00:08) last pick:  0.0000  -0.5000
+\i (00:00:08) pick 0 0.5 
+\t (00:00:08) last pick:  0.0000  0.5000
+\i (00:00:08) done 
+\i (00:00:08) add line 
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:08) FORM mini line_width 0.05 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick -0.5 0 
+\t (00:00:08) last pick:  -0.5000  0.0000
+\i (00:00:08) pick 0.5 0 
+\t (00:00:08) last pick:  0.5000  0.0000
+\i (00:00:08) done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) package_height 
+\i (00:00:08) pick grid 0 0 
+\t (00:00:08) last pick:  0.0000  0.0000
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini height_max 6.4mm 
+\i (00:00:08) done 
+\e (00:00:08) Form field label not found
+\i (00:00:08) Label refdes 
+\t (00:00:09) Pick text location.
+\i (00:00:09) setwindow Form.mini 
+\i (00:00:09) FORM mini text_block 3 
+\i (00:00:09) FORM mini angle 0 
+\i (00:00:09) FORM mini mirror NO 
+\i (00:00:09) FORM mini text_justification Center 
+\i (00:00:09) FORM mini class REF DES 
+\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick 0 0.75 
+\t (00:00:09) last pick:  0.0000  0.7500
+\t (00:00:09) Enter text string.
+\i (00:00:09) Text REF 
+\i (00:00:09) done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) Label refdes 
+\t (00:00:09) Pick text location.
+\i (00:00:09) setwindow Form.mini 
+\i (00:00:09) FORM mini text_block 3 
+\i (00:00:09) FORM mini angle 0 
+\i (00:00:09) FORM mini mirror NO 
+\i (00:00:09) FORM mini text_justification Center 
+\i (00:00:09) FORM mini class REF DES 
+\i (00:00:09) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick 0 0.75 
+\t (00:00:09) last pick:  0.0000  0.7500
+\t (00:00:09) Enter text string.
+\i (00:00:09) Text REF 
+\i (00:00:09) done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) Label device 
+\t (00:00:09) Pick text location.
+\i (00:00:09) setwindow Form.mini 
+\i (00:00:09) FORM mini text_block 3 
+\i (00:00:09) FORM mini angle 0 
+\i (00:00:09) FORM mini mirror NO 
+\i (00:00:09) FORM mini text_justification Center 
+\i (00:00:09) FORM mini class DEVICE TYPE 
+\i (00:00:09) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick 0 0.75 
+\t (00:00:09) last pick:  0.0000  0.7500
+\t (00:00:09) Enter text string.
+\i (00:00:09) Text DEV 
+\t (00:00:09) Enter text string.
+\i (00:00:09) done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) save 
+\t (00:00:09) Symbol 'osc54mhz.psm' created.
+\i (00:00:09) exit 
+\t (00:00:10)     Journal end - Sun Oct 05 17:28:40 2014

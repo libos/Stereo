@@ -1,0 +1,61 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Liu/Desktop/Stereo/Layout/Stereo.brd                               |
+|                                                    Mon Oct 20 16:55:05 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP POL_CAP_ALUM_10UF ALUMINUM
+ CAP POL_CAP_ALUM_22UF ALUMINUM
+ PIEZO BUZZER_0_BUZZ_BELL
+ SW PUSHBUTTON-SPST-2_SWKEY_SWRE
+ SW PUSHBUTTON-SPST-2_SWKEY_SWRS
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Liu/Desktop/Stereo/Layout/Stereo.brd                               |
+|                                                    Mon Oct 20 16:55:05 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in board drawing          |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C60                 CAP POL_CAP_ALUM_10UF ALUMINUM -2765.0  741.00 CAP POL_C0603_10UF ALUMINUM
+ C61                 CAP POL_CAP_ALUM_22UF ALUMINUM -2303.0  884.00 CAP POL_C0603_22UF ALUMINUM
+ C62                 CAP POL_CAP_ALUM_10UF ALUMINUM -2763.0 1137.00 CAP POL_C0603_10UF ALUMINUM
+ C63                 CAP POL_CAP_ALUM_22UF ALUMINUM -2296.0 1300.00 CAP POL_C0603_22UF ALUMINUM
+ PZ1                 PIEZO BUZZER_0_BUZZ_BELL 1354.00 -259.00 PIEZO BUZZER_0_BUZZER_R4_6_BELL
+ SW1                 SW PUSHBUTTON-SPST-2_SWKEY_SWRE 2360.00  310.00 SW PUSHBUTTON-SPST-2_45X45BUTTO
+ SW2                 SW PUSHBUTTON-SPST-2_SWKEY_SWRE -1964.0 2302.00 SW PUSHBUTTON-SPST-2_45X45BUTTO
+ SW3                 SW PUSHBUTTON-SPST-2_SWKEY_SWRE 2011.00 2306.00 SW PUSHBUTTON-SPST-2_45X45BUTTO
+ SW4                 SW PUSHBUTTON-SPST-2_SWKEY_SWRS -1299.0 1316.00 SW PUSHBUTTON-SPST-2_45X45BUT_1
+ SW5                 SW PUSHBUTTON-SPST-2_SWKEY_SWRS -1229.0 1988.00 SW PUSHBUTTON-SPST-2_45X45BUT_1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Liu/Desktop/Stereo/Layout/Stereo.brd                               |
+|                                                    Mon Oct 20 16:55:05 2014  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C60.2          -2765.0  741.00 PRIM_FILE      .\pstchip.dat
+ C61.2          -2303.0  884.00 PRIM_FILE      .\pstchip.dat
+ C62.2          -2763.0 1137.00 PRIM_FILE      .\pstchip.dat
+ C63.2          -2296.0 1300.00 PRIM_FILE      .\pstchip.dat
+ PZ1.2          1354.00 -259.00 PRIM_FILE      .\pstchip.dat
+ SW1.4          2360.00  310.00 PRIM_FILE      .\pstchip.dat
+ SW2.4          -1964.0 2302.00 PRIM_FILE      .\pstchip.dat
+ SW3.4          2011.00 2306.00 PRIM_FILE      .\pstchip.dat
+ SW4.4          -1299.0 1316.00 PRIM_FILE      .\pstchip.dat
+ SW5.4          -1229.0 1988.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  25                                             |
+|------------------------------------------------------------------------------|

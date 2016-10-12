@@ -1,0 +1,17 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Oct 05 20:39:46 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=4040 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/Tan1206/tan1206.dra
+\i (00:00:02) trapsize 1690
+\i (00:00:02) trapsize 1580
+\i (00:00:02) trapsize 1701
+\i (00:00:02) trapsize 1584
+\i (00:00:02) trapsize 1283
+\i (00:00:02) trapsize 1584
+\i (00:00:03) generaledit 
+\i (00:00:05) zoom fit 
+\i (00:00:05) trapsize 318
+\i (00:00:06) exit 
+\t (00:00:06)     Journal end - Sun Oct 05 20:39:52 2014

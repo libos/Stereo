@@ -1,0 +1,16 @@
+(DEVICE FILE: tfcard)
+
+PACKAGE tfcard
+CLASS IC
+PINCOUNT 15
+
+PINORDER tfcard  15 12 9 8 7 6 10 5 4 3,
+ 2 14 11 1 13
+
+PINSWAP tfcard  15 12 9 8 7 6 10 5 4 3,
+ 2 14 11 1 13
+
+FUNCTION tfcard tfcard  15 12 9 8 7 6 10 5 4 3,
+ 2 14 11 1 13
+
+END

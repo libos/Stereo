@@ -1,0 +1,9 @@
+(Device File: NTNTest)
+
+PACKAGE NTNTest
+CLASS IC
+PINCOUNT 3
+PINORDER NTNTest '1' '2' '3' 
+FUNCTION g1 NTNTest '1' '2' '3' 
+
+END

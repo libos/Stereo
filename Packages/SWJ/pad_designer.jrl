@@ -1,0 +1,53 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 06 18:28:33 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=6372 CPUs=4
+\t (00:00:00) 
+\i (00:00:00) setwindow form.padedit
+\i (00:00:00) replay r64_57m84_77.psr 
+\i (00:00:00) version 16.5 
+\t (00:00:00) Script version: 16.5
+\i (00:00:00) setwindow form.padedit 
+\i (00:00:00) pse_new 
+\i (00:00:00) fillin r64_57m84_77 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) fillin yes 
+\w (00:00:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit inner_layer_opt YES 
+\e (00:00:00) Form field label not found
+\i (00:00:00) FORM padedit single YES 
+\e (00:00:00) Field is currently invisible or disabled.
+\i (00:00:00) setwindow Form.padedit 
+\i (00:00:00) FORM padedit layers 
+\i (00:00:00) FORM padedit layers  
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid change begin_layer,begin_layer TOP 
+\e (00:00:00) Row,Column value is not valid for field.
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit width 0.64 
+\i (00:00:00) FORM padedit width 0.64 
+\i (00:00:00) FORM padedit height 0.57 
+\i (00:00:00) FORM padedit height 0.57 
+\i (00:00:00) FORM padedit grid row SOLDERMASK_TOP 
+\i (00:00:00) FORM padedit grid row soldermask_top 
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit width 0.84 
+\i (00:00:00) FORM padedit width 0.84 
+\i (00:00:00) FORM padedit height 0.77 
+\i (00:00:00) FORM padedit height 0.77 
+\i (00:00:00) FORM padedit grid row PASTEMASK_TOP 
+\i (00:00:00) FORM padedit grid row pastemask_top 
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit width 0.64 
+\i (00:00:00) FORM padedit width 0.64 
+\i (00:00:00) FORM padedit height 0.57 
+\i (00:00:00) FORM padedit height 0.57 
+\i (00:00:00) pse_check 
+\i (00:00:00) pse_save 
+\i (00:00:00) pse_exit 
+\t (00:00:00)     Journal end - Mon Oct 06 18:28:33 2014

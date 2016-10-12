@@ -1,0 +1,70 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : Stereo.brd                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Oct 20 18:03:16 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for both sides of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.00
+Max Text displacement is 100.00
+Min Line Length is 0.00
+Allowing 0 and 90 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : None
+ Component Value      : None
+ Device Type          : None
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+
+     ----- Top Silkscreen -----
+
+Text string 'R39' is not at a suitable location
+(location: -666.00, 1651.47)
+Text string 'R31' is not at a suitable location
+(location: 1665.47, 2933.00)
+Text string 'C83' is not at a suitable location
+(location: -618.00, 1306.53)
+Text string 'C38' is not at a suitable location
+(location: -2354.00, 2940.53)
+Text string 'C35' is not at a suitable location
+(location: 1581.00, 2932.53)
+Text string 'J10' is not at a suitable location
+(location: -1303.00, 754.53)
+Text string 'J9' is not at a suitable location
+(location: -1078.00, 3109.53)
+Text string 'J1' is not at a suitable location
+(location: 3762.47, 1973.00)
+Text string 'U3' is not at a suitable location
+(location: -6.00, 265.47)
+
+     ----- Bottom Silkscreen -----
+
+Text string 'C61' is not at a suitable location
+(location: -2180.00, 497.47)
+Text string 'C63' is not at a suitable location
+(location: -2200.00, 960.47)
+Text string 'R50' is not at a suitable location
+(location: -2271.00, 817.53)
+Text string 'C31' is not at a suitable location
+(location: 326.00, 3572.47)
+Text string 'C29' is not at a suitable location
+(location: -558.00, 3579.47)
+Text string 'U9' is not at a suitable location
+(location: 1968.50, 2785.44)
+
+Total Failures: 15
+
+Log End
+

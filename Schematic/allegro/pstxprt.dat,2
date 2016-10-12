@@ -1,0 +1,2160 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Oct-20-2014 at 16:54:32 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='STEREO';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP-NP_CAPC1005X60L_15PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259139@MYLIB_ZX.CAP-NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259139@mylib_zx.\cap-np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259139@mylib_zx.\cap-np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR_CAPC1005X60L_100NF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258337@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258337@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258337@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_CAPC1005X60L_100NF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258357@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258357@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258357@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR_CAPC1005X60L_100NF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258385@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258385@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258385@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR_CAPC1005X60L_220PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258409@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258409@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258409@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR_CAPC1005X60L_1PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259297@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259297@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259297@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR_CAPC1005X60L_1PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259313@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259313@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259313@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP-NP_CAPC1005X60L_12PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258641@MYLIB_ZX.CAP-NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258641@mylib_zx.\cap-np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258641@mylib_zx.\cap-np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP-NP_CAPC1005X60L_12PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258609@MYLIB_ZX.CAP-NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258609@mylib_zx.\cap-np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258609@mylib_zx.\cap-np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP-NP_CAPC1005X60L_1NF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258765@MYLIB_ZX.CAP-NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258765@mylib_zx.\cap-np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258765@mylib_zx.\cap-np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP POL_CAPC1005X60L_47UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS349571@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins349571@discrete.\cap pol.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins349571@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP-NP_CAPC1005X60L_15PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259119@MYLIB_ZX.CAP-NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259119@mylib_zx.\cap-np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259119@mylib_zx.\cap-np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_CAPC1005X60L_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS351148@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins351148@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins351148@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP POL_CAPC1005X60L_10UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS349587@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins349587@discrete.\cap pol.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins349587@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP POL_CAPC1005X60L_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS349603@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins349603@discrete.\cap pol.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins349603@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_C0603_2.2NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS300524@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins300524@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins300524@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0603_10NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS300620@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins300620@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins300620@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS300540@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins300540@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins300540@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS300652@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins300652@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins300652@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0603_DNP':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS333562@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins333562@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins333562@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS444480@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins444480@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins444480@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS443658@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins443658@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins443658@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP-NP_CAPC1005X60L_1UF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259077@MYLIB_ZX.CAP-NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259077@mylib_zx.\cap-np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259077@mylib_zx.\cap-np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS453629@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins453629@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins453629@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS453607@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins453607@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins453607@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS443300@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins443300@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins443300@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS453587@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins453587@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins453587@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_C0603_33PF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS367132@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins367132@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins367132@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS372781@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins372781@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins372781@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS372801@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins372801@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins372801@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_C0603_33PF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS372897@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins372897@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins372897@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS366354@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins366354@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins366354@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS366380@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins366380@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins366380@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR_CAPC1005X60L_18PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259265@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259265@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259265@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS441341@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins441341@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins441341@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS441367@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins441367@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins441367@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS356248@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins356248@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins356248@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS356264@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins356264@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins356264@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS356835@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins356835@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins356835@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS356859@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins356859@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins356859@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS440998@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins440998@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins440998@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS441032@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins441032@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins441032@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373013@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373013@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373013@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373037@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373037@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373037@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR_CAPC1005X60L_1PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259329@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259329@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259329@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373083@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373083@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373083@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373111@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373111@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373111@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS358004@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins358004@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins358004@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373215@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373215@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373215@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP NP_C0603_6.8PF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS266073@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins266073@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins266073@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP NP_C0603_6.8PF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS266908@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins266908@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins266908@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP NP_C0603_20PF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267177@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267177@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267177@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP NP_C0603_20PF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267306@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267306@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267306@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS283488@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins283488@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins283488@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS288042@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins288042@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins288042@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR_CAPC1005X60L_18PF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259281@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259281@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259281@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP POL_CAP_ALUM_10UF ALUMINUM':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS419384@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins419384@discrete.\cap pol.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins419384@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP POL_CAP_ALUM_22UF ALUMINUM':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS419404@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins419404@discrete.\cap pol.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins419404@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C62 'CAP POL_CAP_ALUM_10UF ALUMINUM':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS421481@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins421481@discrete.\cap pol.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins421481@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C63 'CAP POL_CAP_ALUM_22UF ALUMINUM':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS421505@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins421505@discrete.\cap pol.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins421505@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'CAP NP_C0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS278546@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins278546@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins278546@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'CAP NP_C0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS278530@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins278530@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins278530@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C66 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267657@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267657@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267657@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C67 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267738@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267738@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267738@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C68 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267785@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267785@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267785@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C69 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267820@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267820@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267820@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR_CAPC1005X60L_1UF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258259@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258259@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258259@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267856@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267856@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267856@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267882@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267882@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267882@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267974@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267974@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267974@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS268012@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins268012@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins268012@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS268038@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins268038@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins268038@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS268064@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins268064@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins268064@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS268090@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins268090@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins268090@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS268116@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins268116@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins268116@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS268142@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins268142@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins268142@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS273205@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins273205@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins273205@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR_CAPC1005X60L_100NF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258305@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258305@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258305@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS273221@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins273221@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins273221@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS268345@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins268345@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins268345@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS273189@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins273189@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins273189@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS273237@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins273237@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins273237@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS290895@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins290895@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins290895@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS290921@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins290921@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins290921@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS290947@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins290947@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins290947@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS290973@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins290973@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins290973@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS290999@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins290999@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins290999@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS291025@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins291025@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins291025@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR_CAPC1005X60L_100NF_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258321@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258321@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258321@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS291051@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins291051@discrete.\cap np.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins291051@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_0_1N5819_SS12_IN5819':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS336927@STEREO.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins336927@stereo.\diode_0.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins336927@stereo.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED BI-COLOUR_1_LED_BICOLOR_LED':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS432282@STEREO.LED BI-COLOUR_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins432282@stereo.\led bi-colour_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins432282@stereo.\led bi-colour_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CC_DEBUGGER_HEADER2X5_CC_DEBUGG':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259029@MYLIB_ZX.CC_DEBUGGER.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259029@mylib_zx.\cc_debugger.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259029@mylib_zx.\cc_debugger.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'HEADER 2X2_HEADER2X2S_UART':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS325238@CONNECTOR.HEADER 2X2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins325238@connector.\header 2x2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins325238@connector.\header 2x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'JUMPER_HEADER1X2S_IDD':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS419314@CONNECTOR.JUMPER.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins419314@connector.\jumper.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins419314@connector.\jumper.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'HEADER 4_1_HEADERSW3_POWER SOUR':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS422580@STEREO.HEADER 4_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins422580@stereo.\header 4_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins422580@stereo.\header 4_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'HEADER 4X2_HEADER2X4S_HEADER 4X':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS418369@CONNECTOR.HEADER 4X2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins418369@connector.\header 4x2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins418369@connector.\header 4x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'HEADER 3X2_HEADER2X3S_ST-LINK':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS301209@CONNECTOR.HEADER 3X2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins301209@connector.\header 3x2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins301209@connector.\header 3x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'JUMPER_HEADER1X2S_IDD':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS421335@CONNECTOR.JUMPER.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins421335@connector.\jumper.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins421335@connector.\jumper.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'JUMPER_SWJ_STRXD2USRTX':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS350327@CONNECTOR.JUMPER.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins350327@connector.\jumper.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins350327@connector.\jumper.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'JUMPER_SWJ_STTXD2USR':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS350362@CONNECTOR.JUMPER.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins350362@connector.\jumper.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins350362@connector.\jumper.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'JUMPER_SWJ_JUMPER':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS449006@CONNECTOR.JUMPER.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins449006@connector.\jumper.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins449006@connector.\jumper.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 2_CSBASE_CAMERABASE':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS468203@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins468203@connector.\header 2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins468203@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 2_CSBASE_CAMERABASE':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS468229@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins468229@connector.\header 2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins468229@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 3_HEADER1X3S_HEADER 3':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS392037@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins392037@connector.\header 3.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins392037@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'HEADER 5_HEADER1X5S_CAMERA CONT':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS391257@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins391257@connector.\header 5.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins391257@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 8_HEADER2X4S_CAMERA DATA':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS390562@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins390562@connector.\header 8.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins390562@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_INDC1005X60L_2NH_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259385@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259385@inductor.\inductor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259385@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_INDC1005X60L_1NH_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259221@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259221@inductor.\inductor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259221@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_INDC1005X60L_3NH_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259349@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259349@inductor.\inductor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259349@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_INDC1005X60L_2NH_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259365@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259365@inductor.\inductor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259365@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_L0603_10UH':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS320401@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins320401@inductor.\inductor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins320401@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_L0603_10UH':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS463084@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins463084@inductor.\inductor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins463084@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'INDUCTOR_L0603_10UH':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS366246@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins366246@inductor.\inductor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins366246@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'INDUCTOR_L0603_10UH':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS372761@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins372761@inductor.\inductor.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins372761@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'BEAD_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS272807@DISCRETE.BEAD.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins272807@discrete.\bead.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins272807@discrete.\bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_2_LED0402_RED_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258831@STEREO.LED_2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258831@stereo.\led_2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258831@stereo.\led_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED2 'LED_1_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS352232@STEREO.LED_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins352232@stereo.\led_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins352232@stereo.\led_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED3 'LED_1_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS352258@STEREO.LED_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins352258@stereo.\led_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins352258@stereo.\led_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED4 'LED_1_LED0603_RED':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS353661@STEREO.LED_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins353661@stereo.\led_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins353661@stereo.\led_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED5 'LED_1_LED0603_RED':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS353679@STEREO.LED_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins353679@stereo.\led_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins353679@stereo.\led_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED6 'LED_1_LED0603_RED':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS419338@STEREO.LED_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins419338@stereo.\led_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins419338@stereo.\led_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED7 'LED_1_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS421363@STEREO.LED_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins421363@stereo.\led_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins421363@stereo.\led_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PZ1 'PIEZO BUZZER_0_BUZZ_BELL':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS391721@STEREO.PIEZO BUZZER_0.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins391721@stereo.\piezo buzzer_0.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins391721@stereo.\piezo buzzer_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'PNP BCE_8550_8550':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS352187@TRANSISTOR.PNP BCE.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins352187@transistor.\pnp bce.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins352187@transistor.\pnp bce.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'PNP BCE_8550_8550PNP':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS352205@TRANSISTOR.PNP BCE.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins352205@transistor.\pnp bce.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins352205@transistor.\pnp bce.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'PNP BCE_8550_8550':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS331219@TRANSISTOR.PNP BCE.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins331219@transistor.\pnp bce.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins331219@transistor.\pnp bce.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'PNP BCE_8550_8550':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS391945@TRANSISTOR.PNP BCE.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins391945@transistor.\pnp bce.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins391945@transistor.\pnp bce.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RESC1005X40L_330R_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258807@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258807@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258807@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RESC1005X40L_100R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS351654@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins351654@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins351654@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS331534@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins331534@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins331534@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_R0603_1K5':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS330762@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins330762@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins330762@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS339019@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins339019@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins339019@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS339071@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins339071@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins339071@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS338993@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins338993@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins338993@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS339045@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins339045@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins339045@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS339097@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins339097@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins339097@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_R0603_0OHM':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS463408@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins463408@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins463408@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS329603@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins329603@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins329603@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RESC1005X40L_56K-1%_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258523@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258523@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258523@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS329757@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins329757@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins329757@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_R0603_0OHM':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS320521@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins320521@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins320521@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_R0603_DNP':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS333505@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins333505@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins333505@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_R0603_330R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS432896@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins432896@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins432896@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_R0603_330R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS432912@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins432912@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins432912@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_R0603_4K7':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS447046@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins447046@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins447046@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_R0603_1K5':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS445719@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins445719@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins445719@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_R0603_1K5':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS445745@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins445745@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins445745@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_R0603_4K7':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS453691@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins453691@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins453691@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_R0603_33R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS451320@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins451320@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins451320@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RESC1005X40L_0,DNM_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259443@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259443@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259443@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_R0603_33R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS451214@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins451214@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins451214@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS372841@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins372841@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins372841@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS366439@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins366439@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins366439@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS357984@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins357984@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins357984@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373195@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373195@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373195@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS358034@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins358034@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins358034@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS361843@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins361843@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins361843@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373243@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373243@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373243@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373731@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373731@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373731@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS266978@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins266978@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins266978@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RESC1005X40L_2K7_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258741@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258741@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258741@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267001@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267001@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267001@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267368@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267368@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267368@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_R0603_220R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267400@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267400@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267400@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS283737@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins283737@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins283737@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_R0603_1K5':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS340798@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins340798@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins340798@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_R0603_1K5':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS340778@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins340778@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins340778@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS353620@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins353620@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins353620@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS353636@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins353636@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins353636@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_R0603_330R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS286761@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins286761@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins286761@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS286624@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins286624@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins286624@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RESC1005X40L_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS348649@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins348649@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins348649@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS419360@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins419360@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins419360@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_R0603_NA':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS343975@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins343975@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins343975@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS421393@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins421393@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins421393@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_R0603_510':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS344000@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins344000@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins344000@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS268871@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins268871@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins268871@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS273164@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins273164@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins273164@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R_R0603_4K7':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS389932@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins389932@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins389932@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RESC1005X40L_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS349114@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins349114@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins349114@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RESC1005X40L_10K':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS351004@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins351004@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins351004@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RESC1005X40L_510':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS352801@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins352801@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins352801@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RESC1005X40L_510':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS352819@MYLIB_ZX.R.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins352819@mylib_zx.\r.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins352819@mylib_zx.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON-SPST-2_SWKEY_SWRE':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS497044@DISCRETE.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins497044@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins497044@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW PUSHBUTTON-SPST-2_SWKEY_SWRE':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS486292@DISCRETE.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins486292@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins486292@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW PUSHBUTTON-SPST-2_SWKEY_SWRE':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS487781@DISCRETE.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins487781@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins487781@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SW PUSHBUTTON-SPST-2_SWKEY_SWRS':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS283993@DISCRETE.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins283993@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins283993@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'SW PUSHBUTTON-SPST-2_SWKEY_SWRS':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS285939@DISCRETE.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins285939@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins285939@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TEST POINT_TP_VBUS':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS424400@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins424400@connector.\test point.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins424400@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TEST POINT_TP_VDD3.3':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS424340@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins424340@connector.\test point.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins424340@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TEST POINT_TP_VDD2.85':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS424354@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins424354@connector.\test point.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins424354@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TEST POINT_TP_GND':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS424386@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins424386@connector.\test point.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins424386@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'CC2541_QFNFC50P600X600X100-41L_':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258887@MYLIB_ZX.CC2541.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258887@mylib_zx.\cc2541.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258887@mylib_zx.\cc2541.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'STM32F429ZGT6_0_STM32F429ZGT6_S':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS919@STEREO.STM32F429ZGT6_0.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins919@stereo.\stm32f429zgt6_0.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins919@stereo.\stm32f429zgt6_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'LT1117_2_LT1117_LT1117-3.3':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS419236@STEREO.LT1117_2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins419236@stereo.\lt1117_2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins419236@stereo.\lt1117_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'DC005_DC_005_DC005':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS499311@STEREO.DC005.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins499311@stereo.\dc005.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins499311@stereo.\dc005.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'LT1117_2_LT1117_LT1117-2.85':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS421413@STEREO.LT1117_2.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins421413@stereo.\lt1117_2.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins421413@stereo.\lt1117_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'HY57V561620_HY57V561620T_HY57V5':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS260314@STEREO.HY57V561620.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins260314@stereo.\hy57v561620.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins260314@stereo.\hy57v561620.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'W25X16_W25X16_W25X16':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS389696@STEREO.W25X16.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins389696@stereo.\w25x16.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page4_ins389696@stereo.\w25x16.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'USR-WIFI232_USRWIFI_USR-WIFI232':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS321427@STEREO.USR-WIFI232.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins321427@stereo.\usr-wifi232.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins321427@stereo.\usr-wifi232.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'MPU6050_1_MPU6050_MPU6050':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS300690@STEREO.MPU6050_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins300690@stereo.\mpu6050_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins300690@stereo.\mpu6050_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'USB_4_USBA_USB':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS260603@STEREO.USB_4.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins260603@stereo.\usb_4.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins260603@stereo.\usb_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'TFCARD_0_TF_TFCARD':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS337191@STEREO.TFCARD_0.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins337191@stereo.\tfcard_0.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins337191@stereo.\tfcard_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'MAX3372E_1_MAX3372_MAX3372E':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS441625@STEREO.MAX3372E_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins441625@stereo.\max3372e_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins441625@stereo.\max3372e_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'MAX3372E_1_MAX3372_MAX3372E':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS453505@STEREO.MAX3372E_1.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins453505@stereo.\max3372e_1.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins453505@stereo.\max3372e_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'MT9M111_MT9M111_MT9M111':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS320149@STEREO.MT9M111.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins320149@stereo.\mt9m111.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins320149@stereo.\mt9m111.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'MT9M111_MT9M111_MT9M111':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373275@STEREO.MT9M111.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373275@stereo.\mt9m111.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373275@stereo.\mt9m111.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'ANTENNA_DN007_ANTENNA_DN007_2.4':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259401@MECHANIC.ANTENNA_DN007.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259401@mechanic.\antenna_dn007.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259401@mechanic.\antenna_dn007.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_2PIN_XTAL_FC12MN_32.768':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS259169@MYLIB_ZX.CRYSTAL_2PIN.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins259169@mylib_zx.\crystal_2pin.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins259169@mylib_zx.\crystal_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL_4PIN_US_XTAL_FA128L_32M':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS258589@MYLIB_ZX.CRYSTAL_4PIN_US.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins258589@mylib_zx.\crystal_4pin_us.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page1_ins258589@mylib_zx.\crystal_4pin_us.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y3 'SG210_54MHZ_OSC50MHZ_SG210_54MH':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS362115@STEREO.SG210_54MHZ.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins362115@stereo.\sg210_54mhz.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins362115@stereo.\sg210_54mhz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y4 'SG210_54MHZ_OSC50MHZ_SG210_54MH':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS373765@STEREO.SG210_54MHZ.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins373765@stereo.\sg210_54mhz.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page2_ins373765@stereo.\sg210_54mhz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y5 'CRYSTAL1-4/SM_MC306_32768_CRYST':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS265952@DISCRETE.CRYSTAL1-4/SM.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins265952@discrete.\crystal1-4/sm.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins265952@discrete.\crystal1-4/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y6 'CRYSTAL_CRYSTAL_HC49S_8MHZ_8MHZ':;
+
+SECTION_NUMBER 1
+ '@STEREO.SCHEMATIC1(SCH_1):INS267112@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@stereo.schematic1(sch_1):ins267112@discrete.\crystal.normal\(chips)',
+ P_PATH='@stereo.schematic1(sch_1):page3_ins267112@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

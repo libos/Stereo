@@ -1,0 +1,9 @@
+(Device File: 45x45Button)
+
+PACKAGE 45x45Button
+CLASS IC
+PINCOUNT 4
+PINORDER 45x45Button '1' '2' '3' '4' 
+FUNCTION g1 45x45Button '1' '2' '3' '4' 
+
+END

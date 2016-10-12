@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : IFA.dra                                       )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 02 21:46:25 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Liu/Desktop/RF/Library
+    Name      = ifa.psm
+    User      = Liu
+    Machine   = LIBER
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

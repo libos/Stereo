@@ -1,0 +1,9 @@
+(Device File: MAX3372)
+
+PACKAGE MAX3372
+CLASS IC
+PINCOUNT 8
+PINORDER MAX3372 '1' '2' '3' '4' '5' '6' '7' '8' 
+FUNCTION g1 MAX3372 '1' '2' '3' '4' '5' '6' '7' '8' 
+
+END

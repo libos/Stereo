@@ -1,0 +1,13 @@
+WARNING: Illegal value specified for shape fill line width.
+         Shapes will be exported unfilled.
+Reading Layer Conversion File 
+Layer conversion file: C:/Users/Liu/Desktop/RF/CC2511_USB_Dongle/IFA_USB_l.cnv
+DXF file: C:/Users/Liu/Desktop/RF/CC2511_USB_Dongle/ifa.dxf
+BRD file: test.dra
+Export symbols as blocks?: YES
+Default symbol height: 0.00
+Export padstacks as blocks?: NO
+Export drill information?: NO
+DXF units: MILS
+DXF precision: 4
+a2dxf complete.

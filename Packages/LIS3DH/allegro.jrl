@@ -1,0 +1,236 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Tue Dec 30 16:42:17 2014
+\t (00:00:01)         Host=LIBER User=Liu Pid=4908 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/LIS3DH/lis3dh.dra
+\t (00:00:03) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:03) trapsize 362
+\i (00:00:03) trapsize 352
+\i (00:00:03) trapsize 364
+\i (00:00:04) trapsize 375
+\i (00:00:04) trapsize 375
+\i (00:00:04) generaledit 
+\i (00:00:48) pick grid 2.1545 0.5810
+\t (00:00:48) last pick:  2.1590  0.5842
+\i (00:00:50) show measure 
+\i (00:00:51) pick grid -1.5922 0.3637
+\t (00:00:51) last pick:  -1.6002  0.3556
+\i (00:00:53) pick grid 1.6000 0.1015
+\t (00:00:53) last pick:  1.6002  0.1016
+\i (00:00:55) pick grid 1.2852 -0.9251
+\t (00:00:55) last pick:  1.2954  -0.9144
+\i (00:00:56) pick grid 1.3452 1.2330
+\t (00:00:56) last pick:  1.3462  1.2446
+\i (00:00:59) pick grid -1.6447 1.1655
+\t (00:00:59) last pick:  -1.6510  1.1684
+\i (00:00:59) pick grid -1.9144 0.2588
+\t (00:00:59) last pick:  -1.9050  0.2540
+\i (00:01:00) pick grid -2.2666 -0.1158
+\t (00:01:00) last pick:  -2.2606  -0.1270
+\i (00:01:01) pick grid 2.4692 -0.0034
+\t (00:01:01) last pick:  2.4638  0.0000
+\i (00:01:02) pick grid 1.3452 -0.6928
+\t (00:01:02) last pick:  1.3462  -0.6858
+\i (00:01:03) pick grid 1.6374 0.5211
+\t (00:01:03) last pick:  1.6256  0.5334
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 1.5550 0.4761
+\i (00:01:03) trapsize 187
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 1.5550 0.4761
+\i (00:01:03) trapsize 94
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 1.5550 0.4761
+\i (00:01:03) trapsize 47
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 1.5551 0.4762
+\i (00:01:03) trapsize 23
+\i (00:01:05) pick grid 1.6005 0.4819
+\t (00:01:05) last pick:  1.6002  0.4826
+\i (00:01:06) pick grid 1.6183 0.4777
+\t (00:01:06) last pick:  1.6256  0.4826
+\i (00:01:06) pick grid 1.6412 0.4744
+\t (00:01:06) last pick:  1.6510  0.4826
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 1.6351 0.4758
+\i (00:01:07) trapsize 47
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 1.6352 0.4758
+\i (00:01:07) trapsize 94
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 1.6352 0.4757
+\i (00:01:07) trapsize 187
+\i (00:01:07) pick grid 1.8300 0.4083
+\t (00:01:07) last pick:  1.8288  0.4064
+\i (00:01:08) pick grid 1.6988 0.4571
+\t (00:01:08) last pick:  1.7018  0.4572
+\i (00:01:10) pick grid -1.1492 0.5020
+\t (00:01:10) last pick:  -1.1430  0.5080
+\i (00:01:15) pick grid 1.9499 0.1648
+\t (00:01:15) last pick:  1.9558  0.1524
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 1.9312 0.1648
+\i (00:01:15) trapsize 375
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 1.9311 0.1647
+\i (00:01:15) trapsize 749
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in 0.4713 1.9036
+\i (00:01:16) trapsize 375
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in 0.4713 1.8362
+\i (00:01:16) trapsize 187
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out 0.4713 1.8362
+\i (00:01:16) trapsize 375
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out 0.4713 1.8363
+\i (00:01:16) trapsize 749
+\i (00:01:17) add rect 
+\i (00:01:19) prepopup -2.6166 2.2560
+\i (00:01:20) cancel 
+\i (00:01:20) generaledit 
+\i (00:01:20) zoom in 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom in -1.9870 1.6264
+\i (00:01:20) trapsize 375
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in -1.4249 1.3042
+\i (00:01:21) trapsize 187
+\i (00:01:23) show measure 
+\i (00:01:25) pick grid -1.5223 1.4991
+\t (00:01:25) last pick:  -1.5240  1.4986
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out -0.9827 1.4391
+\i (00:01:26) trapsize 375
+\i (00:01:27) pick grid 1.5431 1.5216
+\t (00:01:27) last pick:  1.5494  1.5240
+\i (00:01:28) prepopup 1.4906 1.4392
+\i (00:01:29) oops 
+\t (00:01:29) last pick:  -1.5240  1.4986
+\i (00:01:29) pick grid 1.5056 1.5141
+\t (00:01:29) last pick:  1.4986  1.5240
+\i (00:01:30) prepopup 1.4157 1.5966
+\i (00:01:31) oops 
+\t (00:01:31) last pick:  -1.5240  1.4986
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 1.4981 1.5741
+\i (00:01:31) trapsize 187
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 1.5393 1.5441
+\i (00:01:31) trapsize 94
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 1.5394 1.5441
+\i (00:01:31) trapsize 47
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 1.5394 1.5442
+\i (00:01:31) trapsize 23
+\i (00:01:32) pick grid 1.5137 1.5161
+\t (00:01:32) last pick:  1.5240  1.5240
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out 1.5029 1.5240
+\i (00:01:33) trapsize 47
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out 1.5030 1.5250
+\i (00:01:33) trapsize 94
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out 1.5029 1.5288
+\i (00:01:33) trapsize 187
+\i (00:01:33) pick grid 1.5104 1.4987
+\t (00:01:33) last pick:  1.4986  1.4986
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 1.6303 1.4912
+\i (00:01:34) trapsize 375
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 1.6304 1.4913
+\i (00:01:34) trapsize 749
+\i (00:01:35) zoom in 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in 0.0366 1.2514
+\i (00:01:35) trapsize 375
+\i (00:01:35) zoom in 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in 0.0291 1.2440
+\i (00:01:35) trapsize 187
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 0.2127 1.2403
+\i (00:01:36) trapsize 375
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 0.2352 1.2478
+\i (00:01:36) trapsize 749
+\i (00:01:37) pick grid -1.6273 1.0229
+\t (00:01:37) last pick:  -1.6256  1.0160
+\i (00:01:39) pick grid -0.0084 0.4683
+\t (00:01:39) last pick:  0.0000  0.4572
+\i (00:01:40) pick grid 0.0216 1.1728
+\t (00:01:40) last pick:  0.0254  1.1684
+\i (00:02:28) pick grid 1.2358 0.0036
+\t (00:02:28) last pick:  1.2446  0.0000
+\i (00:02:29) pick grid 0.1415 0.0635
+\t (00:02:29) last pick:  0.1524  0.0762
+\i (00:02:34) pick grid 0.0666 1.1428
+\t (00:02:34) last pick:  0.0762  1.1430
+\i (00:02:36) pick grid 1.2058 -0.0564
+\t (00:02:36) last pick:  1.1938  -0.0508
+\i (00:02:36) pick grid -0.0534 -0.0564
+\t (00:02:36) last pick:  -0.0508  -0.0508
+\i (00:02:55) pick grid 1.1308 0.9779
+\t (00:02:55) last pick:  1.1430  0.9906
+\i (00:02:56) pick grid 1.2058 -0.9558
+\t (00:02:56) last pick:  1.1938  -0.9652
+\i (00:02:59) pick grid 0.4263 1.0978
+\t (00:02:59) last pick:  0.4318  1.0922
+\i (00:03:00) pick grid -0.5930 1.1428
+\t (00:03:00) last pick:  -0.5842  1.1430
+\i (00:03:15) pick grid -0.0234 1.1578
+\t (00:03:15) last pick:  -0.0254  1.1684
+\i (00:03:16) pick grid 0.0216 0.0336
+\t (00:03:16) last pick:  0.0254  0.0254
+\i (00:03:27) pick grid -0.1133 1.5176
+\t (00:03:27) last pick:  -0.1016  1.5240
+\i (00:03:28) pick grid 0.0216 1.5775
+\t (00:03:28) last pick:  0.0254  1.5748
+\i (00:03:29) pick grid -0.0084 0.0486
+\t (00:03:29) last pick:  0.0000  0.0508
+\i (00:03:30) pick grid 0.0366 1.8923
+\t (00:03:30) last pick:  0.0254  1.9050
+\i (00:03:32) pick grid -0.0084 -0.0414
+\t (00:03:32) last pick:  0.0000  -0.0508
+\i (00:03:33) pick grid 0.0366 1.9673
+\t (00:03:33) last pick:  0.0254  1.9558
+\i (00:03:34) pick grid 0.0666 1.1128
+\t (00:03:34) last pick:  0.0762  1.1176
+\i (00:03:37) pick grid -0.0084 -0.0264
+\t (00:03:37) last pick:  0.0000  -0.0254
+\i (00:03:47) prepopup 1.5056 2.9716
+\i (00:03:48) pick grid 0.8610 3.1814
+\t (00:03:48) last pick:  0.8636  3.1750
+\i (00:03:48) exit 
+\t (00:03:48)     Journal end - Tue Dec 30 16:46:05 2014

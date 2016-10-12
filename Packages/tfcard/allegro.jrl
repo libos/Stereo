@@ -1,0 +1,22 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Oct 08 13:31:39 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=10580 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/tfcard/tfcard.dra
+\t (00:00:00) Grids are drawn 1.2288, 1.2288 apart for enhanced viewability.
+\i (00:00:00) trapsize 4760
+\i (00:00:00) trapsize 4628
+\i (00:00:00) trapsize 4782
+\i (00:00:01) trapsize 3875
+\i (00:00:01) trapsize 5092
+\i (00:00:01) generaledit 
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -3.8696 -1.4391
+\i (00:00:03) trapsize 10183
+\i (00:00:05) zoom fit 
+\t (00:00:05) Grids are drawn 0.3072, 0.3072 apart for enhanced viewability.
+\i (00:00:05) trapsize 3267
+\i (00:51:55) exit 
+\t (00:51:56)     Journal end - Wed Oct 08 14:23:34 2014

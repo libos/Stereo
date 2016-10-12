@@ -1,0 +1,73 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Dec 24 15:18:48 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=55356 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/MPU6500GOOD/complex1-7x1-5a3.dra
+\i (00:00:02) trapsize 1147
+\i (00:00:02) trapsize 1068
+\i (00:00:02) trapsize 1155
+\i (00:00:02) trapsize 1071
+\i (00:00:02) trapsize 790
+\i (00:00:02) trapsize 887
+\i (00:00:03) replay complex1-1x0-9a1.psx 
+\i (00:00:03) version 16.5 
+\t (00:00:03) Script version: 16.5
+\i (00:00:03) new 
+\i (00:00:03) newdrawfillin complex1-1x0-9a1.dra 'Shape Symbol' 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 887
+\i (00:00:03) trapsize 887
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) prmed 
+\i (00:00:03) setwindow Form.prmedit 
+\i (00:00:03) FORM prmedit design 
+\i (00:00:03) FORM prmedit units Millimeter 
+\i (00:00:03) FORM prmedit accuracy 4 
+\i (00:00:03) FORM prmedit size Other 
+\i (00:00:03) FORM prmedit x -5 
+\i (00:00:03) FORM prmedit y -5 
+\i (00:00:03) FORM prmedit width 10 
+\i (00:00:03) FORM prmedit height 10 
+\i (00:00:03) FORM prmedit x -5 
+\i (00:00:03) FORM prmedit y -5 
+\i (00:00:03) FORM prmedit done 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) shape add 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\e (00:00:03) Value for field is not legal
+\i (00:00:03) FORM mini subclass 
+\e (00:00:03) Value for field is not legal
+\i (00:00:03) FORM mini dyns_fill_type Static solid 
+\i (00:00:03) FORM mini dyns_grid None 
+\i (00:00:03) FORM mini dyns_lock_mode Line 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick -0.5574 0.4574 
+\t (00:00:03) last pick:  -0.5574  0.4574
+\i (00:00:03) pick -0.5574 0.4574 
+\t (00:00:03) last pick:  -0.5574  0.4574
+\w (00:00:03) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\t (00:00:03) last pick:  -0.5574  0.4574
+\i (00:00:03) pick 0.5576 0.4574 
+\t (00:00:03) last pick:  0.5576  0.4574
+\i (00:00:03) pick 0.5576 -0.4576 
+\t (00:00:03) last pick:  0.5576  -0.4576
+\i (00:00:03) pick -0.5574 -0.4576 
+\t (00:00:03) last pick:  -0.5574  -0.4576
+\i (00:00:03) pick -0.5574 0.4574 
+\t (00:00:03) last pick:  -0.5574  0.4574
+\i (00:00:03) done 
+\i (00:00:03) save_as 
+\i (00:00:03) fillin complex1-1x0-9a1.dra 
+\t (00:00:04) Symbol 'complex1-1x0-9a1.ssm' created.
+\i (00:00:04) create symbol 
+\i (00:00:04) fillin complex1-1x0-9a1.ssm 
+\i (00:00:04) fillin yes 
+\t (00:00:04) Creating shape symbol 'C:/Users/Liu/Desktop/Stereo/Packages/MPU6500GOOD/complex1-1x0-9a1.ssm'.
+\t (00:00:04) Starting Create symbol...
+\i (00:00:04) exit 
+\e (00:00:04) Do you want to save the changes you made to C:/Users/Liu/Desktop/Stereo/Packages/MPU6500GOOD/complex1-1x0-9a1.dra?
+\i (00:00:04) fillin yes 
+\t (00:00:05) Symbol 'complex1-1x0-9a1.ssm' created.
+\t (00:00:05)     Journal end - Wed Dec 24 15:18:53 2014

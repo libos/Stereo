@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : crystal_hc49s_8mhz.dra                        )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Oct 05 16:42:51 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Liu/Desktop/Stereo/Packages/Crystal_HC49S_8MHz
+    Name      = crystal_hc49s_8mhz.psm
+    User      = Liu
+    Machine   = LIBER
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

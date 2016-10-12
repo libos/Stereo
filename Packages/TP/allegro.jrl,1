@@ -1,0 +1,49 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Oct 05 16:30:33 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=10404 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/TP/tp.dra
+\i (00:00:02) trapsize 46935
+\i (00:00:02) trapsize 43882
+\i (00:00:02) trapsize 47243
+\i (00:00:02) trapsize 43971
+\i (00:00:02) trapsize 35625
+\i (00:00:02) trapsize 43971
+\i (00:00:03) generaledit 
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 14.6269 32.2155
+\i (00:00:03) trapsize 21986
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 4.9532 31.3361
+\i (00:00:04) trapsize 10993
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 4.9532 31.3362
+\i (00:00:04) trapsize 5496
+\i (00:00:05) zoom fit 
+\i (00:00:05) trapsize 372
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 0.0381 0.1518
+\i (00:00:06) trapsize 186
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 0.0381 0.1519
+\i (00:00:06) trapsize 93
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 0.0381 0.1519
+\i (00:00:06) trapsize 47
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 0.0289 0.1324
+\i (00:00:07) trapsize 93
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 0.0289 0.1324
+\i (00:00:07) trapsize 186
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Sun Oct 05 16:30:43 2014

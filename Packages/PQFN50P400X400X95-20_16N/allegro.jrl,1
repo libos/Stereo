@@ -1,0 +1,43 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sat Dec 27 21:02:36 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=6304 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/PQFN50P400X400X95-20_16N/pqfn50p400x400x95-20_16n.dra
+\i (00:00:02) trapsize 1625
+\i (00:00:02) trapsize 1519
+\i (00:00:02) trapsize 1636
+\i (00:00:02) trapsize 1522
+\i (00:00:02) trapsize 1233
+\i (00:00:02) trapsize 1522
+\i (00:00:03) generaledit 
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in -0.2805 0.6329
+\i (00:00:14) trapsize 761
+\i (00:00:14) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -2.6403 0.6329
+\i (00:00:15) trapsize 381
+\i (00:00:15) pick grid -0.6459 1.6225
+\t (00:00:15) last pick:  0.0000  2.5400
+\i (00:00:16) pick grid -0.4480 1.6758
+\t (00:00:16) last pick:  0.0000  2.5400
+\i (00:00:17) pick grid -1.5898 0.1077
+\t (00:00:17) last pick:  -2.5400  0.0000
+\i (00:00:17) prepopup -1.5898 0.1077
+\i (00:00:19) prepopup -1.8029 -0.0065
+\i (00:00:21) copy 
+\t (00:00:21) No valid items selected for the current operation, exiting.
+\i (00:00:21) generaledit 
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out -0.6307 0.7319
+\i (00:01:07) trapsize 761
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in -0.7677 -0.2729
+\i (00:01:08) trapsize 381
+\i (00:01:08) prepopup -1.8486 -0.0293
+\i (00:23:18) exit 
+\t (00:23:18)     Journal end - Sat Dec 27 21:25:54 2014

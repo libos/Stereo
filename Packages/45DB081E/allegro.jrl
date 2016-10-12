@@ -1,0 +1,15 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Thu Nov 27 14:29:26 2014
+\t (00:00:02)         Host=LIBER User=Liu Pid=11548 CPUs=4
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:05) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/45DB081E/45db081e.dra
+\i (00:00:05) trapsize 1485
+\i (00:00:05) trapsize 1423
+\i (00:00:05) trapsize 1495
+\i (00:00:06) trapsize 1103
+\i (00:00:06) trapsize 1103
+\i (00:00:06) generaledit 
+\i (00:00:11) new 
+\i (00:00:35) newdrawfillin "test.brd" "Board (Wizard)"
+\t (00:00:35)     Journal end - Thu Nov 27 14:29:59 2014

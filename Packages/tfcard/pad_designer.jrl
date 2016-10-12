@@ -1,0 +1,22 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Wed Oct 08 13:30:25 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=9364 CPUs=4
+\t (00:00:00) 
+\i (00:00:01) setwindow form.padedit
+\i (00:00:01) FORM padedit layers  
+\i (00:00:02) FORM padedit grid row default_internal 
+\i (00:00:07) FORM padedit geometry_th Circle 
+\i (00:00:08) FORM padedit flash_th  
+\i (00:00:12) FORM padedit geometry_th Circle 
+\i (00:00:15) FORM padedit width_th 1.77 
+\i (00:00:19) FORM padedit height_th 1.778 
+\i (00:00:22) FORM padedit width_th 1.778 
+\i (00:00:25) pse_save 
+\i (00:00:27) setwindow text
+\i (00:00:27) close 
+\i (00:00:28) fillin yes 
+\i (00:00:30) fillin yes 
+\i (00:00:31) setwindow form.padedit
+\i (00:00:31) FORM padedit parameters  
+\i (00:00:35) pse_exit
+\t (00:00:35)     Journal end - Wed Oct 08 13:31:01 2014

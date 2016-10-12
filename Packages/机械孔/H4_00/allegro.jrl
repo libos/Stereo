@@ -1,0 +1,54 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Fri Oct 10 09:54:13 2014
+\t (00:00:01)         Host=LIBER User=Liu Pid=16096 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\i (00:00:04) fillin yes 
+\d (00:00:04) Database opened: C:/Users/Liu/Desktop/»úÐµ¿×/H4_00/H4_00.dra
+\i (00:00:04) trapsize 1363
+\i (00:00:04) trapsize 1326
+\i (00:00:04) trapsize 1370
+\i (00:00:04) trapsize 1110
+\i (00:00:04) trapsize 1273
+\i (00:00:05) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 1.0282 -1.1231
+\i (00:00:05) trapsize 636
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 1.0281 -1.1230
+\i (00:00:05) trapsize 318
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 1.0281 -1.1230
+\i (00:00:05) trapsize 159
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 1.0282 -1.1230
+\i (00:00:05) trapsize 80
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 1.0282 -1.1230
+\i (00:00:06) trapsize 159
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 1.0314 -1.1230
+\i (00:00:06) trapsize 318
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 1.0314 -1.1230
+\i (00:00:06) trapsize 636
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 1.0824 -1.1230
+\i (00:00:06) trapsize 1273
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 2.3808 -0.9193
+\i (00:00:06) trapsize 2546
+\i (00:00:06) exit 
+\e (00:00:06) Do you want to save the changes you made to H4_00.dra?
+\i (00:00:07) fillin yes 
+\t (00:00:07) Symbol 'h4_00.bsm' created.
+\t (00:00:08)     Journal end - Fri Oct 10 09:54:20 2014

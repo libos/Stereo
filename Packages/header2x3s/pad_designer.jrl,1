@@ -1,0 +1,92 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 06 19:01:01 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=2144 CPUs=4
+\t (00:00:00) 
+\i (00:00:00) setwindow form.padedit
+\i (00:00:00) replay s160h105m180t155_190_40.psr 
+\i (00:00:00) version 16.5 
+\t (00:00:00) Script version: 16.5
+\i (00:00:00) setwindow form.padedit 
+\i (00:00:00) pse_new 
+\i (00:00:00) fillin s160h105m180t155_190_40 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) fillin yes 
+\w (00:00:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit inner_layer_opt YES 
+\e (00:00:00) Form field label not found
+\i (00:00:00) FORM padedit through_hole YES 
+\e (00:00:00) Form field label not found
+\i (00:00:00) FORM padedit hole_type Circle 
+\e (00:00:00) Value for field is not legal
+\i (00:00:00) FORM padedit hole_size_x 1.05 
+\i (00:00:00) FORM padedit hole_size_x 1.05 
+\i (00:00:00) FORM padedit plating Plated 
+\i (00:00:00) setwindow Form.padedit 
+\i (00:00:00) FORM padedit layers 
+\i (00:00:00) FORM padedit layers  
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid change begin_layer,begin_layer TOP 
+\e (00:00:00) Row,Column value is not valid for field.
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit width 1.6 
+\i (00:00:00) FORM padedit width 1.6 
+\i (00:00:00) FORM padedit height 1.6 
+\i (00:00:00) FORM padedit height 1.6 
+\i (00:00:00) FORM padedit grid row default_internal 
+\i (00:00:00) FORM padedit grid row default_internal 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 1.6 
+\i (00:00:00) FORM padedit width 1.6 
+\i (00:00:00) FORM padedit geometry_th Circle 
+\i (00:00:00) FORM padedit geometry_th Circle 
+\i (00:00:00) FORM padedit width_th 1.6 
+\i (00:00:00) FORM padedit width_th 1.6 
+\i (00:00:00) FORM padedit geometry_ant Circle 
+\i (00:00:00) FORM padedit geometry_ant Circle 
+\i (00:00:00) FORM padedit width_ant 1.9 
+\i (00:00:00) FORM padedit width_ant 1.9 
+\i (00:00:00) FORM padedit grid row end_layer 
+\i (00:00:00) FORM padedit grid row end_layer 
+\i (00:00:00) FORM padedit grid change end_layer,end_layer BOTTOM 
+\e (00:00:00) Row,Column value is not valid for field.
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit width 1.6 
+\i (00:00:00) FORM padedit width 1.6 
+\i (00:00:00) FORM padedit height 1.6 
+\i (00:00:00) FORM padedit height 1.6 
+\i (00:00:00) FORM padedit grid row SOLDERMASK_TOP 
+\i (00:00:00) FORM padedit grid row soldermask_top 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit width 1.8 
+\i (00:00:00) FORM padedit width 1.8 
+\i (00:00:00) FORM padedit height 1.8 
+\i (00:00:00) FORM padedit height 1.8 
+\i (00:00:00) FORM padedit grid row SOLDERMASK_BOTTOM 
+\i (00:00:00) FORM padedit grid row soldermask_bottom 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit width 1.8 
+\i (00:00:00) FORM padedit width 1.8 
+\i (00:00:00) FORM padedit height 1.8 
+\i (00:00:00) FORM padedit height 1.8 
+\i (00:00:00) pse_check 
+\e (00:00:00) Window is disabled, command may not be allowed: pse_save
+\e (00:00:00) Window is disabled, command may not be allowed: pse_exit
+\i (00:00:01) setwindow text
+\i (00:00:01) close 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) FORM padedit parameters  
+\i (00:00:04) FORM padedit drill_fig Circle 
+\i (00:00:05) FORM padedit characters D 
+\i (00:00:06) FORM padedit drill_width 1 
+\i (00:00:07) FORM padedit drill_height 1 
+\i (00:00:09) pse_save 
+\i (00:00:10) pse_exit
+\t (00:00:10)     Journal end - Mon Oct 06 19:01:11 2014

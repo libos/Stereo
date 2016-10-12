@@ -1,0 +1,151 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 06 18:13:02 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=7056 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/CSBase/csbase.dra
+\i (00:00:02) trapsize 5717
+\i (00:00:02) trapsize 5346
+\i (00:00:02) trapsize 5755
+\i (00:00:02) trapsize 5356
+\i (00:00:02) trapsize 4340
+\i (00:00:02) trapsize 5356
+\i (00:00:03) generaledit 
+\i (00:00:04) pick grid 14.1945 -1.1248
+\t (00:00:04) last pick:  15.2400  0.0000
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 4.8743 -0.2678
+\i (00:00:04) trapsize 2678
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -10.7128 -0.2678
+\i (00:00:04) trapsize 1339
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -10.7128 -0.2677
+\i (00:00:04) trapsize 670
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -10.7128 -0.2677
+\i (00:00:04) trapsize 335
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -10.7195 -0.2677
+\i (00:00:05) trapsize 670
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -10.7195 -0.2677
+\i (00:00:05) trapsize 1339
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -9.9428 0.9911
+\i (00:00:06) trapsize 2678
+\i (00:00:09) color192 
+\i (00:00:10) setwindow cvf.dialog
+\i (00:00:10) cvf layer_mode
+\i (00:00:10) setwindow pcb
+\i (00:00:10) generaledit 
+\i (00:00:11) setwindow cvf.dialog
+\i (00:00:11) cvf layer_tree_item 'Package Geometry'
+\i (00:00:13) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:14) cvf layer_tree_item 'Board Geometry'
+\i (00:00:16) cvf layer_tree_item 'Stack-Up'
+\i (00:00:18) cvf layer_tree_item 'Manufacturing'
+\i (00:00:20) cvf layer_tree_item 'Components'
+\i (00:00:21) cvf layer_tree_item 'Package Geometry'
+\i (00:00:24) cvf okay
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -10.1236 -0.1873
+\i (00:00:26) trapsize 1339
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -10.1236 -0.1873
+\i (00:00:26) trapsize 670
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -10.0566 -0.1873
+\i (00:00:26) trapsize 335
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -10.0499 -0.2275
+\i (00:00:27) trapsize 670
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -10.0499 -0.2408
+\i (00:00:27) trapsize 1339
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -10.0498 -0.3480
+\i (00:00:27) trapsize 2678
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -9.8022 -0.3480
+\i (00:00:28) trapsize 1339
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -9.8022 -0.3480
+\i (00:00:28) trapsize 670
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out -9.8022 -0.3614
+\i (00:00:28) trapsize 1339
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out -9.8021 -0.3614
+\i (00:00:28) trapsize 2678
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -9.8022 -0.4149
+\i (00:00:29) trapsize 1339
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -9.8290 -0.3077
+\i (00:00:30) trapsize 670
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -9.8289 -0.3077
+\i (00:00:31) trapsize 1339
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -9.7754 -0.3881
+\i (00:00:31) trapsize 2678
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in -11.0878 -0.4952
+\i (00:00:33) trapsize 1339
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in -11.0342 -0.5219
+\i (00:00:33) trapsize 670
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -10.9940 -0.5353
+\i (00:00:34) trapsize 1339
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -10.9136 -0.5888
+\i (00:00:34) trapsize 2678
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in -9.5880 -0.3209
+\i (00:00:34) trapsize 1339
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in -9.5880 -0.3209
+\i (00:00:35) trapsize 670
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -9.5880 -0.3209
+\i (00:00:35) trapsize 1339
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out -9.5880 -0.3209
+\i (00:00:36) trapsize 2678
+\i (00:00:39) exit 
+\e (00:00:39) Do you want to save the changes you made to csbase.dra?
+\i (00:00:41) fillin yes 
+\t (00:00:42) Symbol 'csbase.psm' created.
+\t (00:00:42)     Journal end - Mon Oct 06 18:13:44 2014

@@ -1,0 +1,18 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Sat Oct 18 15:37:48 2014
+\t (00:00:04)         Host=LIBER User=Liu Pid=3880 CPUs=4
+\t (00:00:04) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/W25X16/w25x16.dra
+\i (00:00:05) trapsize 2247
+\i (00:00:05) trapsize 2184
+\i (00:00:05) trapsize 2257
+\i (00:00:05) trapsize 2403
+\i (00:00:06) trapsize 1947
+\i (00:00:06) trapsize 2403
+\i (00:00:06) generaledit 
+\i (00:00:10) open 
+\i (00:01:24) fillin "menu_cancel"
+\i (00:01:24) generaledit 
+\i (00:01:25) exit 
+\t (00:01:25)     Journal end - Sat Oct 18 15:39:09 2014

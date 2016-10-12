@@ -1,0 +1,16 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sat Dec 27 21:32:14 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=1288 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/PQFN50P400X400X95-20_16N/pqfn50p400x400x95-20_16n.dra
+\i (00:00:02) trapsize 1625
+\i (00:00:02) trapsize 1519
+\i (00:00:02) trapsize 1636
+\i (00:00:02) trapsize 1522
+\i (00:00:02) trapsize 1233
+\i (00:00:02) trapsize 1522
+\i (00:00:03) generaledit 
+\i (00:00:05) new 
+\i (00:00:54) newdrawfillin "last_ver.brd" "Board"
+\t (00:00:54)     Journal end - Sat Dec 27 21:33:08 2014

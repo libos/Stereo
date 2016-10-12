@@ -1,0 +1,126 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : Stereo.brd                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Oct 20 17:59:48 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 107
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (-97.42 3008.80)  Net: GND
+	Point on shape: (-496.52 1578.89)  Net: GND
+	Point on shape: (-235.02 2059.00)  Net: GND
+	Point on shape: (350.98 2448.64)  Net: GND
+	Point on shape: (-330.02 2225.97)  Net: GND
+	Point on shape: (299.41 2503.19)  Net: GND
+	Point on shape: (-10.50 2340.13)  Net: GND
+	Point on shape: (3.15 2303.52)  Net: GND
+	Point on shape: (21.00 2342.62)  Net: GND
+	Point on shape: (-42.00 2338.15)  Net: GND
+	Point on shape: (78.93 2503.19)  Net: GND
+	Point on shape: (-173.03 2503.19)  Net: GND
+	Point on shape: (-204.53 2503.19)  Net: GND
+	Point on shape: (-236.03 2503.19)  Net: GND
+	Point on shape: (-42.00 2498.88)  Net: GND
+	Point on shape: (204.92 2503.19)  Net: GND
+	Point on shape: (502.89 2581.48)  Net: GND
+	Point on shape: (333.67 2712.03)  Net: GND
+	Point on shape: (299.41 2948.07)  Net: GND
+	Point on shape: (-1848.88 2933.34)  Net: GND
+	Point on shape: (441.30 2942.22)  Net: GND
+	Point on shape: (391.99 3321.74)  Net: GND
+	Point on shape: (65.02 3336.82)  Net: GND
+	Point on shape: (-256.15 595.83)  Net: GND
+	Point on shape: (509.00 871.03)  Net: GND
+	Point on shape: (744.52 1059.80)  Net: GND
+	Point on shape: (655.81 1115.43)  Net: GND
+	Point on shape: (163.87 1198.66)  Net: GND
+	Point on shape: (407.78 1215.15)  Net: GND
+	Point on shape: (-468.68 1233.61)  Net: GND
+	Point on shape: (642.28 1278.52)  Net: GND
+	Point on shape: (-190.52 1294.15)  Net: GND
+	Point on shape: (698.29 1306.66)  Net: GND
+	Point on shape: (405.52 1521.17)  Net: GND
+	Point on shape: (736.34 1564.97)  Net: GND
+	Point on shape: (-426.65 1602.57)  Net: GND
+	Point on shape: (-454.27 1634.35)  Net: GND
+	Point on shape: (277.89 2078.70)  Net: GND
+	Point on shape: (-388.48 2190.25)  Net: GND
+	Point on shape: (-388.48 2322.25)  Net: GND
+	Point on shape: (-358.27 2319.35)  Net: GND
+	Point on shape: (-1604.89 2615.52)  Net: GND
+	Point on shape: (781.07 2653.56)  Net: GND
+	Point on shape: (-404.48 2710.81)  Net: GND
+	Point on shape: (-1859.40 2780.93)  Net: GND
+	Point on shape: (397.11 2769.52)  Net: GND
+	Point on shape: (1925.26 2809.77)  Net: GND
+	Point on shape: (-1939.66 2863.82)  Net: GND
+	Point on shape: (537.78 2868.52)  Net: GND
+	Point on shape: (-1990.52 2884.85)  Net: GND
+	Point on shape: (-1853.20 2899.51)  Net: GND
+	Point on shape: (-650.09 3260.22)  Net: GND
+	Point on shape: (441.92 3291.52)  Net: GND
+
+    Layer = TOP
+	Point on shape: (-47.70 394.50)  Net: GND
+	Point on shape: (-79.52 932.11)  Net: GND
+	Point on shape: (573.52 1059.28)  Net: GND
+	Point on shape: (-215.60 1221.69)  Net: GND
+	Point on shape: (-424.89 1275.48)  Net: GND
+	Point on shape: (-620.89 1516.52)  Net: GND
+	Point on shape: (-174.95 1770.58)  Net: GND
+	Point on shape: (21.29 1881.06)  Net: GND
+	Point on shape: (-211.39 1877.52)  Net: GND
+	Point on shape: (-267.14 1979.23)  Net: GND
+	Point on shape: (389.64 1991.41)  Net: GND
+	Point on shape: (389.04 2056.66)  Net: GND
+	Point on shape: (1992.95 2610.32)  Net: GND
+	Point on shape: (-1332.72 2818.52)  Net: GND
+	Point on shape: (-1029.27 2905.52)  Net: GND
+	Point on shape: (1343.11 2843.52)  Net: GND
+	Point on shape: (-1535.72 2926.52)  Net: GND
+	Point on shape: (-1056.30 2932.89)  Net: GND
+	Point on shape: (1259.97 2979.48)  Net: GND
+	Point on shape: (3359.64 3001.48)  Net: GND
+	Point on shape: (3202.74 3034.45)  Net: GND
+	Point on shape: (-6.82 394.50)  Net: GND
+	Point on shape: (-265.15 1021.67)  Net: GND
+	Point on shape: (807.08 1020.52)  Net: GND
+	Point on shape: (745.83 1091.57)  Net: GND
+	Point on shape: (769.70 1098.29)  Net: GND
+	Point on shape: (1166.11 1103.52)  Net: GND
+	Point on shape: (292.51 1162.80)  Net: GND
+	Point on shape: (-563.78 1223.02)  Net: GND
+	Point on shape: (-229.03 1271.74)  Net: GND
+	Point on shape: (-302.88 1316.27)  Net: GND
+	Point on shape: (-80.72 1334.52)  Net: GND
+	Point on shape: (-412.99 1360.20)  Net: GND
+	Point on shape: (-447.78 1376.89)  Net: GND
+	Point on shape: (-309.71 1377.52)  Net: GND
+	Point on shape: (-414.01 1829.64)  Net: GND
+	Point on shape: (-285.24 1907.87)  Net: GND
+	Point on shape: (-102.50 1972.81)  Net: GND
+	Point on shape: (-170.86 2060.39)  Net: GND
+	Point on shape: (3042.23 2032.52)  Net: GND
+	Point on shape: (-137.00 2074.53)  Net: GND
+	Point on shape: (-82.81 2080.66)  Net: GND
+	Point on shape: (306.52 2141.15)  Net: GND
+	Point on shape: (30.06 2137.72)  Net: GND
+	Point on shape: (-195.02 2168.44)  Net: GND
+	Point on shape: (1392.11 2555.51)  Net: GND
+	Point on shape: (1454.11 2613.52)  Net: GND
+	Point on shape: (1423.11 2574.52)  Net: GND
+	Point on shape: (-814.52 2818.52)  Net: GND
+	Point on shape: (2930.49 2825.24)  Net: GND
+	Point on shape: (1471.11 2634.52)  Net: GND
+	Point on shape: (-947.08 2842.52)  Net: GND
+	Point on shape: (-1486.78 2902.34)  Net: GND
+	Point on shape: (1141.02 2908.93)  Net: GND

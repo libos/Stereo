@@ -1,0 +1,21 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Fri Oct 10 09:54:01 2014
+\t (00:00:01)         Host=LIBER User=Liu Pid=9116 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\i (00:00:04) fillin yes 
+\d (00:00:04) Database opened: C:/Users/Liu/Desktop/»úÐµ¿×/H2_50/h2_50.dra
+\t (00:00:04) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:04) trapsize 1363
+\i (00:00:04) trapsize 1326
+\i (00:00:04) trapsize 1370
+\t (00:00:04) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:04) trapsize 1110
+\t (00:00:04) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:04) trapsize 1273
+\i (00:00:05) generaledit 
+\i (00:00:07) exit 
+\e (00:00:07) Do you want to save the changes you made to h2_50.dra?
+\i (00:00:07) fillin yes 
+\t (00:00:08) Symbol 'h2_50.bsm' created.
+\t (00:00:08)     Journal end - Fri Oct 10 09:54:08 2014

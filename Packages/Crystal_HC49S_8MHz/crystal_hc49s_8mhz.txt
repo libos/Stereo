@@ -1,0 +1,9 @@
+(Device File: Crystal_HC49S_8MHz)
+
+PACKAGE Crystal_HC49S_8MHz
+CLASS IC
+PINCOUNT 2
+PINORDER Crystal_HC49S_8MHz '1' '2' 
+FUNCTION g1 Crystal_HC49S_8MHz '1' '2' 
+
+END

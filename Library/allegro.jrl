@@ -1,0 +1,14 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Tue Dec 30 01:41:48 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=2460 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/Liu/Desktop/Stereo/Library/mounthole.dra
+\i (00:00:00) trapsize 2988
+\i (00:00:00) trapsize 2805
+\i (00:00:00) trapsize 3006
+\i (00:00:00) trapsize 2811
+\i (00:00:01) trapsize 2811
+\i (00:00:01) generaledit 
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Tue Dec 30 01:41:53 2014

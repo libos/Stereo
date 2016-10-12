@@ -1,0 +1,9 @@
+(Device File: W25X16)
+
+PACKAGE W25X16
+CLASS IC
+PINCOUNT 8
+PINORDER W25X16 '1' '2' '3' '4' '5' '6' '7' '8' 
+FUNCTION g1 W25X16 '1' '2' '3' '4' '5' '6' '7' '8' 
+
+END

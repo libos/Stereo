@@ -1,0 +1,146 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Tue Dec 30 01:54:38 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=7496 CPUs=4
+\t (00:00:00) 
+\i (00:00:00) setwindow form.padedit
+\i (00:00:00) replay c80h115m100.psr 
+\i (00:00:00) version 16.5 
+\t (00:00:00) Script version: 16.5
+\i (00:00:00) setwindow form.padedit 
+\i (00:00:00) pse_new 
+\i (00:00:00) fillin c80h115m100 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) fillin yes 
+\w (00:00:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit inner_layer_opt YES 
+\e (00:00:00) Form field label not found
+\i (00:00:00) FORM padedit through_hole YES 
+\e (00:00:00) Form field label not found
+\i (00:00:00) FORM padedit hole_type Circle 
+\e (00:00:00) Value for field is not legal
+\i (00:00:00) FORM padedit hole_size_x 1.15 
+\i (00:00:00) FORM padedit hole_size_x 1.15 
+\i (00:00:00) FORM padedit plating Plated 
+\i (00:00:00) setwindow Form.padedit 
+\i (00:00:00) FORM padedit layers 
+\i (00:00:00) FORM padedit layers  
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid change begin_layer,begin_layer TOP 
+\e (00:00:00) Row,Column value is not valid for field.
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 0.8 
+\i (00:00:00) FORM padedit width 0.8 
+\i (00:00:00) FORM padedit grid row default_internal 
+\i (00:00:00) FORM padedit grid row default_internal 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 1.65 
+\i (00:00:00) FORM padedit width 1.65 
+\i (00:00:00) FORM padedit geometry_th Circle 
+\i (00:00:00) FORM padedit geometry_th Circle 
+\i (00:00:00) FORM padedit width_th 1.65 
+\i (00:00:00) FORM padedit width_th 1.65 
+\i (00:00:00) FORM padedit geometry_ant Circle 
+\i (00:00:00) FORM padedit geometry_ant Circle 
+\i (00:00:00) FORM padedit width_ant 1.65 
+\i (00:00:00) FORM padedit width_ant 1.65 
+\i (00:00:00) FORM padedit grid row end_layer 
+\i (00:00:00) FORM padedit grid row end_layer 
+\i (00:00:00) FORM padedit grid change end_layer,end_layer BOTTOM 
+\e (00:00:00) Row,Column value is not valid for field.
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 0.8 
+\i (00:00:00) FORM padedit width 0.8 
+\i (00:00:00) FORM padedit grid row SOLDERMASK_TOP 
+\i (00:00:00) FORM padedit grid row soldermask_top 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 1 
+\i (00:00:00) FORM padedit width 1 
+\i (00:00:00) FORM padedit grid row SOLDERMASK_BOTTOM 
+\i (00:00:00) FORM padedit grid row soldermask_bottom 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit geometry Circle 
+\i (00:00:00) FORM padedit width 1 
+\i (00:00:00) FORM padedit width 1 
+\i (00:00:00) pse_check 
+\e (00:00:00) Window is disabled, command may not be allowed: pse_save
+\e (00:00:00) Window is disabled, command may not be allowed: pse_exit
+\i (00:00:02) setwindow text
+\i (00:00:02) close 
+\i (00:00:04) setwindow form.padedit
+\i (00:00:04) FORM padedit parameters  
+\i (00:00:11) FORM padedit drill_fig Circle 
+\i (00:00:18) FORM padedit characters M 
+\i (00:00:19) FORM padedit drill_width 1.0000 
+\i (00:00:22) FORM padedit drill_height 1.0000 
+\i (00:00:22) FORM padedit layers  
+\i (00:00:28) FORM padedit parameters  
+\i (00:00:32) pse_save 
+\i (00:00:46) setwindow text
+\i (00:00:46) close 
+\i (00:00:54) fillin no 
+\i (00:00:55) setwindow form.padedit
+\i (00:00:55) FORM padedit layers  
+\i (00:01:11) FORM padedit width 1.0500 
+\i (00:01:14) FORM padedit parameters  
+\i (00:01:16) pse_save 
+\i (00:01:18) setwindow text
+\i (00:01:18) close 
+\i (00:01:20) fillin no 
+\i (00:01:21) setwindow form.padedit
+\i (00:01:21) FORM padedit layers  
+\i (00:01:23) FORM padedit grid row begin_layer 
+\i (00:01:30) FORM padedit width 1.0500 
+\i (00:01:34) FORM padedit grid row default_internal 
+\i (00:01:35) FORM padedit grid row end_layer 
+\i (00:01:40) FORM padedit width 1.0500 
+\i (00:01:42) FORM padedit grid row soldermask_bottom 
+\i (00:01:43) FORM padedit grid row soldermask_top 
+\i (00:01:49) FORM padedit width 1.0600 
+\i (00:01:50) FORM padedit grid row soldermask_bottom 
+\i (00:01:54) FORM padedit width 1.0600 
+\i (00:02:00) FORM padedit width 1.100 
+\i (00:02:01) FORM padedit grid row soldermask_top 
+\i (00:02:07) FORM padedit width 1.100 
+\i (00:02:15) FORM padedit parameters  
+\i (00:02:17) pse_save 
+\i (00:02:19) setwindow text
+\i (00:02:19) close 
+\i (00:02:21) fillin no 
+\i (00:02:24) setwindow form.padedit
+\i (00:02:24) FORM padedit hole_size_x 1. 
+\i (00:02:28) pse_save 
+\i (00:02:50) FORM padedit hole_size_x 1.100 
+\i (00:02:50) pse_save 
+\i (00:02:52) setwindow text
+\i (00:02:52) close 
+\i (00:02:53) fillin no 
+\i (00:02:54) setwindow form.padedit
+\i (00:02:54) FORM padedit layers  
+\i (00:02:56) FORM padedit grid row begin_layer 
+\i (00:03:50) FORM padedit width 1.1500 
+\i (00:03:50) FORM padedit grid row end_layer 
+\i (00:03:50) FORM padedit grid row soldermask_top 
+\i (00:03:57) FORM padedit width 1.100 
+\i (00:03:57) FORM padedit grid row default_internal 
+\i (00:03:58) FORM padedit grid row begin_layer 
+\i (00:04:02) FORM padedit width 1.1300 
+\i (00:04:02) FORM padedit grid row soldermask_top 
+\i (00:04:03) FORM padedit grid row end_layer 
+\i (00:04:09) FORM padedit width 1.1300 
+\i (00:04:09) FORM padedit grid row soldermask_top 
+\i (00:04:13) FORM padedit width 1.1400 
+\i (00:04:18) FORM padedit height 1.1500 
+\i (00:04:18) FORM padedit grid row soldermask_bottom 
+\i (00:04:21) FORM padedit width 1.1500 
+\i (00:04:23) FORM padedit parameters  
+\i (00:04:29) pse_save 
+\i (00:04:30) fillin yes 
+\i (00:04:34) pse_exit
+\t (00:04:35)     Journal end - Tue Dec 30 01:59:13 2014

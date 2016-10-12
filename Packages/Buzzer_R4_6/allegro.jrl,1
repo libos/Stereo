@@ -1,0 +1,20 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Oct 08 13:50:26 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=10920 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\i (00:00:04) fillin yes 
+\d (00:00:04) Database opened: C:/Users/Liu/Desktop/Buzzer_R4_6/Buzzer_R4_6.dra
+\t (00:00:04) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:04) trapsize 1717
+\i (00:00:04) trapsize 1606
+\i (00:00:04) trapsize 1729
+\i (00:00:04) trapsize 1609
+\i (00:00:05) trapsize 1304
+\i (00:00:05) trapsize 1609
+\i (00:00:05) generaledit 
+\i (00:00:11) exit 
+\e (00:00:11) Do you want to save the changes you made to Buzzer_R4_6.dra?
+\i (00:00:12) fillin yes 
+\t (00:00:13) Symbol 'buzzer_r4_6.psm' created.
+\t (00:00:13)     Journal end - Wed Oct 08 13:50:39 2014

@@ -1,0 +1,50 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Oct 08 13:52:47 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=10268 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\i (00:00:02) fillin yes 
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/DC-05/DC_005.dra
+\t (00:00:03) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:03) trapsize 900
+\i (00:00:03) trapsize 876
+\i (00:00:03) trapsize 905
+\i (00:00:03) trapsize 733
+\t (00:00:03) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:03) trapsize 1432
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -0.9993 5.0224
+\i (00:00:05) trapsize 2749
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 8.0862 7.3713
+\i (00:00:05) trapsize 2749
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 8.0862 7.3713
+\i (00:00:05) trapsize 2749
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 8.0862 7.3713
+\i (00:00:05) trapsize 2749
+\i (00:00:10) pick grid 15.3998 -0.1623
+\t (00:00:10) last pick:  15.3924  -0.1524
+\i (00:00:14) color192 
+\i (00:00:14) setwindow cvf.dialog
+\i (00:00:14) cvf layer_mode
+\i (00:00:15) setwindow pcb
+\i (00:00:15) generaledit 
+\i (00:00:18) setwindow cvf.dialog
+\i (00:00:18) cvf okay
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom fit 
+\t (00:00:21) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:21) trapsize 1126
+\i (00:30:49) exit 
+\e (00:30:49) Do you want to save the changes you made to DC_005.dra?
+\e (00:30:51) Window is disabled, command may not be allowed: exit
+\i (00:30:54) fillin yes 
+\t (00:30:55) Symbol 'dc_005.psm' created.
+\t (00:30:55)     Journal end - Wed Oct 08 14:23:42 2014

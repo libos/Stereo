@@ -1,0 +1,22 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Oct 08 13:15:13 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=12740 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/tfcard/tfcard.dra
+\t (00:00:00) Grids are drawn 1.2288, 1.2288 apart for enhanced viewability.
+\i (00:00:00) trapsize 4760
+\i (00:00:00) trapsize 4628
+\i (00:00:00) trapsize 4782
+\i (00:00:01) trapsize 3875
+\i (00:00:01) trapsize 5092
+\i (00:00:01) generaledit 
+\i (00:00:03) save_as 
+\i (00:00:10) fillin "C:\Users\Liu\Desktop\Stereo\Packages\tf\tfcard.dra"
+\i (00:00:10) cd "C:\Users\Liu\Desktop\Stereo\Packages\tf"
+\t (00:00:11) Symbol 'tfcard.psm' created.
+\i (00:00:11) generaledit 
+\i (00:00:44) pick grid -43.2790 -14.3719
+\t (00:00:44) last pick:  -43.2789  -14.3718
+\i (00:00:48) exit 
+\t (00:00:48)     Journal end - Wed Oct 08 13:16:01 2014

@@ -1,0 +1,109 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Oct 08 13:51:31 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=12592 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/Liu/Desktop/Buzzer_R4_6/Buzzer_R4_6.dra
+\t (00:00:00) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:00) trapsize 1717
+\i (00:00:00) trapsize 1606
+\i (00:00:00) trapsize 1729
+\i (00:00:00) trapsize 1609
+\i (00:00:01) trapsize 1304
+\i (00:00:01) trapsize 1609
+\i (00:00:01) generaledit 
+\i (00:00:07) pick grid -0.2413 1.2389
+\t (00:00:07) last pick:  -0.2286  1.2446
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.2413 1.2389
+\i (00:00:07) trapsize 1609
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.2413 1.2389
+\i (00:00:07) trapsize 1609
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.2413 1.2389
+\i (00:00:07) trapsize 1609
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.2413 1.2389
+\i (00:00:07) trapsize 1609
+\i (00:00:10) color192 
+\i (00:00:10) setwindow cvf.dialog
+\i (00:00:10) cvf layer_mode
+\i (00:00:11) setwindow pcb
+\i (00:00:11) generaledit 
+\i (00:00:13) setwindow cvf.dialog
+\i (00:00:13) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:14) cvf apply
+\i (00:00:14) cvf okay
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -0.6597 0.1448
+\t (00:00:16) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:16) trapsize 804
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -4.2959 0.1448
+\i (00:00:16) trapsize 402
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -4.2959 0.1448
+\i (00:00:16) trapsize 201
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -4.2959 0.1448
+\i (00:00:17) trapsize 101
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -4.2959 0.1448
+\i (00:00:17) trapsize 50
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -4.2959 0.1448
+\i (00:00:17) trapsize 25
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -4.2960 0.1448
+\i (00:00:17) trapsize 13
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -4.2960 0.1448
+\i (00:00:17) trapsize 25
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -4.2961 0.1449
+\i (00:00:17) trapsize 50
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -4.2960 0.1449
+\i (00:00:17) trapsize 101
+\i (00:00:17) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -4.2960 0.1450
+\i (00:00:18) trapsize 201
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -4.2961 0.1449
+\i (00:00:18) trapsize 402
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -4.2961 0.1449
+\i (00:00:18) trapsize 805
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -4.2955 0.1450
+\t (00:00:18) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:18) trapsize 1609
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -0.6918 0.1448
+\i (00:00:18) trapsize 1609
+\i (00:00:59) exit 
+\e (00:01:00) Do you want to save the changes you made to Buzzer_R4_6.dra?
+\i (00:01:01) fillin yes 
+\t (00:01:02) Symbol 'buzzer_r4_6.psm' created.
+\t (00:01:02)     Journal end - Wed Oct 08 13:52:32 2014

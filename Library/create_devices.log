@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : CC2541EM.brd                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 02 15:45:44 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60n_18pf_cap.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60n_1pf_capc.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60n_15pf_cap.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60n_1uf_capc.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/inductor_indc1005x60n_2nh_indc1.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/inductor_indc1005x60n_3nh_indc1.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/resistor_resc1005x40n_10k_resc1.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/ic_rf_cc2541_qfn40_1_qfnfc50p60.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/xtal_xtal_fc12mn_32768khz_xtal.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60l_dnm_capc.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/antenna_dn007_antenna_dn007_24.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/inductor_indc1005x60l_1nh_indc1.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/resistor_3ports_resc1005x40bl_0.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/xtal_4_xtal_fa128l_32mhz_xtal_f.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60l_22uf_ca.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60l_100nf_ca.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60l_12pf_cap.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60l_220pf_ca.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/inductor_indc1005x60l_blm15hg10.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/resistor_resc1005x40l_56k_resc1.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/conn_coax_14_hustsan_sma10v21t.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/capacitor_capc1005x60l_1nf_capc.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/resistor_resc1005x40l_27k_resc.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/fidmark_fid100x115_fidu_1mm.txt': written successfully.
+Device file 'C:/Users/Liu/Desktop/RF/exportLib/conn_header_2x10_p_s_samtec_sfm.txt': written successfully.
+
+  Created device files: 25
+

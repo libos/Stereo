@@ -1,0 +1,58 @@
+\t (00:00:01) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:01) 
+
+\t (00:00:03) Opening existing drawing...
+\d (00:00:03) Database opened: E:/MyDesigner/AllegroLib/MYLIB_ZXFP/¿¨×ù/TF Card/TF.dra
+\t (00:00:04) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:04) trapsize 1599
+\i (00:00:04) trapsize 1548
+\i (00:00:04) trapsize 1526
+\i (00:00:04) trapsize 1526
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -4.4384 -5.3113
+\i (00:00:05) trapsize 1526
+\i (00:00:06) roam start
+\i (00:00:06) roam end
+\i (00:00:42) pick grid 0.9341 -16.2394
+\t (00:00:42) last pick:  0.9398  -16.2306
+\i (00:01:01) roam start
+\i (00:01:01) roam end
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 1.9720 -1.0378
+\t (00:01:02) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:01:02) trapsize 763
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 2.4299 -0.8089
+\i (00:01:02) trapsize 382
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 3.1702 -1.2973
+\i (00:01:02) trapsize 763
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 3.1701 -1.2973
+\t (00:01:02) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:01:02) trapsize 1526
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in -3.0952 -0.0610
+\t (00:01:03) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:01:03) trapsize 763
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in -2.9731 -0.0915
+\i (00:01:03) trapsize 382
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -1.7520 -0.1526
+\i (00:01:04) trapsize 763
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -0.2258 -0.1678
+\t (00:01:04) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:01:04) trapsize 1526
+\i (00:01:05) exit 

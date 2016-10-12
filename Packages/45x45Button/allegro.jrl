@@ -1,0 +1,27 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 06 18:30:48 2014
+\t (00:00:00)         Host=LIBER User=Liu Pid=4980 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/45x45Button/45x45button.dra
+\i (00:00:02) trapsize 2174
+\i (00:00:02) trapsize 2033
+\i (00:00:02) trapsize 2188
+\i (00:00:02) trapsize 2037
+\i (00:00:02) trapsize 1650
+\i (00:00:02) trapsize 2037
+\i (00:00:03) generaledit 
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 0.5906 4.1344
+\i (00:00:03) trapsize 1018
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -4.7047 4.1344
+\i (00:00:04) trapsize 509
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -2.7902 3.9206
+\i (00:00:04) trapsize 1018
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Mon Oct 06 18:30:53 2014

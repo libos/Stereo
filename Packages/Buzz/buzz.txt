@@ -1,0 +1,9 @@
+(Device File: Buzz)
+
+PACKAGE Buzz
+CLASS IC
+PINCOUNT 2
+PINORDER Buzz '1' '2' 
+FUNCTION g1 Buzz '1' '2' 
+
+END

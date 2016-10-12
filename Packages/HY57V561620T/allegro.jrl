@@ -1,0 +1,28 @@
+\t (00:00:16) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:16)     Journal start - Sun Oct 05 20:37:46 2014
+\t (00:00:16)         Host=LIBER User=Liu Pid=10052 CPUs=4
+\t (00:00:16) 
+\d (00:00:16) Database opened: C:/Users/Liu/Desktop/Stereo/Packages/HY57V561620T/hy57v561620t.dra
+\i (00:00:16) generaledit 
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 4.3972 -3.7764
+\i (00:00:17) trapsize 2587
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -10.5014 -3.7764
+\i (00:00:17) trapsize 1293
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -10.5014 -3.7764
+\i (00:00:17) trapsize 647
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -6.3370 -3.9703
+\i (00:00:18) trapsize 323
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -8.4321 -3.3043
+\i (00:00:18) trapsize 647
+\i (00:00:22) exit 
+\t (00:00:22)     Journal end - Sun Oct 05 20:37:52 2014
